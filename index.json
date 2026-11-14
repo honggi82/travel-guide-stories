@@ -196,54 +196,6 @@
       ]
     },
     {
-      "id": "es-barcelona",
-      "name": {
-        "ko": "바르셀로나"
-      },
-      "version": 2,
-      "placeCount": 2,
-      "sizeBytes": 4257,
-      "sha256": "6d519d5276bc0e10033ecf6bf317968555aa5624b7da769b0b400a15f3c6593c",
-      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
-      "places": [
-        {
-          "id": "sagrada-familia",
-          "name": {
-            "ko": "사그라다 파밀리아",
-            "en": "Sagrada Família"
-          },
-          "aliases": [
-            "사그라다 파밀리아 성당",
-            "Sagrada Familia"
-          ],
-          "city": [
-            "Barcelona",
-            "바르셀로나"
-          ],
-          "lat": 41.4036,
-          "lon": 2.1744
-        },
-        {
-          "id": "park-guell",
-          "name": {
-            "ko": "구엘 공원",
-            "en": "Park Güell"
-          },
-          "aliases": [
-            "구엘공원",
-            "Parc Güell",
-            "Park Guell"
-          ],
-          "city": [
-            "Barcelona",
-            "바르셀로나"
-          ],
-          "lat": 41.41361,
-          "lon": 2.15278
-        }
-      ]
-    },
-    {
       "id": "fr-paris",
       "name": {
         "ko": "파리"
@@ -775,6 +727,54 @@
           ],
           "lat": -33.96218,
           "lon": 18.409883
+        }
+      ]
+    },
+    {
+      "id": "es-barcelona",
+      "name": {
+        "ko": "바르셀로나"
+      },
+      "version": 3,
+      "placeCount": 2,
+      "sizeBytes": 4611,
+      "sha256": "eac095a4cfef492223d73fe8c38dc9a86cc86aa49006ce6a80987d2e3d762fb3",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
+      "places": [
+        {
+          "id": "sagrada-familia",
+          "name": {
+            "ko": "사그라다 파밀리아",
+            "en": "Sagrada Família"
+          },
+          "aliases": [
+            "사그라다 파밀리아 성당",
+            "Sagrada Familia"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.4036,
+          "lon": 2.1744
+        },
+        {
+          "id": "park-guell",
+          "name": {
+            "ko": "구엘 공원",
+            "en": "Park Güell"
+          },
+          "aliases": [
+            "구엘공원",
+            "Parc Güell",
+            "Park Guell"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.41361,
+          "lon": 2.15278
         }
       ]
     }

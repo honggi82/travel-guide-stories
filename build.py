@@ -27,6 +27,8 @@ def validate_place(place):
 
 
 def build():
+    if (ROOT / 'index.json').exists():
+        raise RuntimeError('Initial builder requires an empty output catalog; published packs must be updated with version increments.')
     groups = {}
     for story in json.loads((ROOT / 'stories.json').read_text(encoding='utf-8')):
         place = {k: story[k] for k in ['id', 'name', 'aliases', 'city', 'lat', 'lon']}

@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-seoul",
+  "version": 1,
+  "name": {
+    "ko": "서울특별시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "gyeongbokgung",
+      "name": {
+        "ko": "경복궁",
+        "en": "Gyeongbokgung"
+      },
+      "aliases": [
+        "Gyeongbok Palace"
+      ],
+      "city": [
+        "Seoul",
+        "서울",
+        "서울특별시"
+      ],
+      "lat": 37.579884,
+      "lon": 126.9768,
+      "scripts": {
+        "ko": "경복궁에서는 문을 지날 때마다 공간의 느낌이 어떻게 달라지는지 살펴보세요. 서울 한가운데 있지만 궁궐 안으로 들어서면 마당과 건물의 간격이 걸음의 속도를 바꿉니다.\n\n경복궁은 조선 왕조가 세운 첫 궁궐로 1395년에 문을 열었습니다. 새 왕조가 도읍에 중심 공간을 마련한 것이지요. 그래서 이곳을 왕이 살던 집이라는 말만으로 설명하기에는 부족합니다. 나라의 일을 보고 의례를 치르며 왕조의 질서를 드러내는 장소이기도 했습니다.\n\n마당에서 건물 쪽을 바라본 다음, 반대로 돌아서 지나온 문을 보세요. 같은 길도 어느 방향으로 보는가에 따라 다르게 느껴집니다. 궁궐의 긴 역사에는 훼손과 복원도 포함되므로 눈앞의 모든 부분이 창건 당시 그대로라고 생각하지 않는 것이 좋습니다. 관람 가능 구역과 행사 일정은 현장 안내를 확인하며 둘러보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Gyeongbokgung",
+          "url": "https://en.wikipedia.org/wiki/Gyeongbokgung"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyeongbokgung%20Seoul",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

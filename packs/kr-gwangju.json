@@ -1,0 +1,47 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-gwangju",
+  "version": 1,
+  "name": {
+    "ko": "광주광역시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "asia-culture-center",
+      "name": {
+        "ko": "국립아시아문화전당",
+        "en": "Asia Culture Center"
+      },
+      "aliases": [
+        "ACC",
+        "아시아문화전당"
+      ],
+      "city": [
+        "Gwangju",
+        "광주",
+        "광주광역시"
+      ],
+      "lat": 35.14724,
+      "lon": 126.920687,
+      "scripts": {
+        "ko": "광주의 국립아시아문화전당, ACC에 오셨습니다. 이곳을 한 점의 전시물을 보는 미술관이라고만 생각하기보다, 아시아의 이야기가 서로 만나는 문화 공간으로 바라보시면 좋겠습니다.\n\n문화전당은 오랜 준비를 거쳐 2015년 11월 문을 열었습니다. 전시와 공연, 교육, 창작과 연구를 함께 다루며 아시아 여러 지역의 문화를 이해하고 교류하는 것을 목표로 합니다. 작품이 완성된 뒤 보여 주는 자리뿐 아니라, 새로운 표현이 만들어지는 과정도 이곳의 중요한 일부입니다.\n\n오늘은 무엇이 전시되어 있는지부터 천천히 살펴보세요. 익숙한 생활의 모습이 다른 지역의 작품 속에서는 낯설게 보일 수도 있습니다. 그 차이를 발견하는 순간이 이 공간을 여행하는 재미입니다. 전시 내용과 공연 일정은 계속 바뀌므로 이 해설은 특정 행사가 열리고 있다고 약속하지 않습니다. 현장의 안내판에서 오늘의 프로그램을 확인하고 관심 가는 공간부터 걸어 보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Asia Culture Center",
+          "url": "https://en.wikipedia.org/wiki/Asia_Culture_Center"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asia%20Culture%20Center%20Gwangju",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

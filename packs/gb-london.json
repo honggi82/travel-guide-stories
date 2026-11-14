@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "gb-london",
+  "version": 1,
+  "name": {
+    "ko": "런던"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "tower-of-london",
+      "name": {
+        "ko": "런던탑",
+        "en": "Tower of London"
+      },
+      "aliases": [
+        "런던 타워",
+        "Tower of London"
+      ],
+      "city": [
+        "London",
+        "런던"
+      ],
+      "lat": 51.50806,
+      "lon": -0.07611,
+      "scripts": {
+        "ko": "템스강 북쪽에 있는 런던탑에 오셨습니다. 이름만 들으면 탑 하나를 떠올리기 쉽지만, 실제로는 여러 건물과 성벽이 겹쳐진 요새입니다. 먼저 안쪽의 화이트 타워를 중심으로 주변 공간을 살펴보세요.\n\n화이트 타워는 정복왕 윌리엄이 1078년에 세우기 시작한 권력의 상징이었습니다. 노르만 정복 뒤 새 지배자가 도시를 내려다보는 건물이었다고 생각하면, 두꺼운 벽이 단순한 장식으로 보이지 않을 겁니다. 이후 왕들이 요새를 넓히면서 성벽과 해자가 더해졌습니다.\n\n이곳은 왕실의 거처이기도 했고 방어 시설이기도 했습니다. 한 장소가 시대마다 다른 역할을 맡았다는 점이 런던탑을 읽는 열쇠입니다. 건물 사이를 걸으며 무엇을 보호하고 누구를 통제하려 했을지 떠올려 보세요. 오늘의 관람 동선과 전시 공개 여부는 현장 안내에 따라 확인하시면 됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Tower of London",
+          "url": "https://en.wikipedia.org/wiki/Tower_of_London"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20of%20London%20London",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

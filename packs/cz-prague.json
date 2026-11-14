@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "cz-prague",
+  "version": 1,
+  "name": {
+    "ko": "프라하"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "charles-bridge",
+      "name": {
+        "ko": "카를교",
+        "en": "Charles Bridge"
+      },
+      "aliases": [
+        "카를 다리",
+        "까를교",
+        "Karlův most"
+      ],
+      "city": [
+        "Prague",
+        "Praha",
+        "프라하"
+      ],
+      "lat": 50.08639,
+      "lon": 14.41194,
+      "scripts": {
+        "ko": "블타바강을 건너며 잠시 걸음을 늦춰 보세요. 지금 걷는 카를교는 프라하의 양쪽 강변을 이어 온 중세의 돌다리입니다. 강 너머 풍경과 다리 위의 사람들을 함께 바라보면, 이곳이 단순한 기념물이 아니라 도시의 길이라는 사실이 느껴집니다.\n\n공사는 카를 4세의 시대인 1357년에 시작되어 15세기 초에 마무리됐습니다. 이전의 유디트 다리가 홍수로 크게 손상된 뒤 새로운 연결로가 필요했지요. 그래서 이 다리의 역사는 아름다운 풍경뿐 아니라 물의 힘에 대응해 온 도시의 역사이기도 합니다.\n\n발아래 돌길과 강물을 번갈아 보며 오랫동안 강을 건넌 사람들을 상상해 보세요. 어떤 이는 물건을 옮겼고, 어떤 이는 집으로 돌아갔을 겁니다. 이것은 특정 인물의 일화를 전하는 이야기가 아니라 오래된 길을 바라보는 여행의 상상입니다. 난간과 조형물은 보존 안내에 따라 감상하고, 통행하는 사람들의 길을 비워 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Charles Bridge",
+          "url": "https://en.wikipedia.org/wiki/Charles_Bridge"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Bridge%20Prague",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "fr-paris",
+  "version": 1,
+  "name": {
+    "ko": "파리"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "eiffel-tower",
+      "name": {
+        "ko": "에펠탑",
+        "en": "Eiffel Tower"
+      },
+      "aliases": [
+        "Tour Eiffel"
+      ],
+      "city": [
+        "Paris",
+        "파리"
+      ],
+      "lat": 48.8583,
+      "lon": 2.2945,
+      "scripts": {
+        "ko": "파리의 에펠탑 앞에서는 먼저 철골 사이의 빈 공간을 바라보세요. 거대한 덩어리처럼 보이던 탑이 가까이에서는 가느다란 선들이 이어진 구조로 달라집니다. 무게와 가벼움이 함께 느껴지는 풍경이지요.\n\n에펠탑은 1889년 파리 만국박람회를 위해 세워졌습니다. 같은 해 3월 주요 구조물이 완성됐을 때 에펠은 관계자들과 계단을 걸어 정상으로 올라갔습니다. 당시에는 승강기가 아직 작동하지 않았다고 합니다. 오늘 익숙한 도시의 상징에도 처음 공개되던 순간이 있었던 셈입니다.\n\n탑을 올려다본 뒤 조금 떨어져 전체 윤곽을 보세요. 발치에서 보이는 촘촘한 구조와 멀리서 보이는 실루엣이 어떻게 달라지는지 비교해 보시면 좋겠습니다. 박람회 시대의 기술을 보여 주던 건물이 이제는 여행자의 기억을 담는 배경이 되었습니다. 입장과 승강기 운영은 당일 공식 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Eiffel Tower",
+          "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eiffel%20Tower%20Paris",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

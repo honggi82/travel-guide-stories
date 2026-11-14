@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 2,
+  "id": "in-agra",
+  "version": 1,
+  "name": {
+    "ko": "아그라"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "taj-mahal",
+      "name": {
+        "ko": "타지마할",
+        "en": "Taj Mahal"
+      },
+      "aliases": [
+        "타지 마할"
+      ],
+      "city": [
+        "Agra",
+        "아그라"
+      ],
+      "lat": 27.1751,
+      "lon": 78.0421,
+      "scripts": {
+        "ko": "아그라의 타지마할에 오셨습니다. 먼저 건물 하나만 바라보기보다 정원과 주변 공간이 중심의 무덤을 어떻게 둘러싸는지 살펴보세요. 시선이 가운데로 모이는 구성을 천천히 느껴 보시면 좋겠습니다.\n\n무굴 제국의 샤 자한은 아내 뭄타즈 마할을 기리기 위해 이곳을 세우게 했습니다. 공사는 1632년에 시작됐고, 묘당과 주변 건물·정원은 서로 다른 시기에 완성됐습니다. 흔히 전해지는 하나의 완공 연도만으로는 긴 건축 과정을 모두 설명하기 어렵습니다.\n\n개인의 기억을 남기려는 마음이 거대한 공간이 되었다는 점에서 이곳은 특별합니다. 다만 낭만적인 이야기만이 장소의 전부는 아닙니다. 실제로는 많은 사람의 노동과 재료, 기술이 모여 만들어진 건축이기도 하지요. 눈앞의 균형과 세부를 함께 보며 감상해 보세요. 출입 규정과 관람 시간은 방문 당일의 공식 안내를 따르시면 됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Taj Mahal",
+          "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Agra",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

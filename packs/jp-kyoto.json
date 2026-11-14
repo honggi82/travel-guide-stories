@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "jp-kyoto",
+  "version": 1,
+  "name": {
+    "ko": "교토"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "kiyomizu-dera",
+      "name": {
+        "ko": "기요미즈데라",
+        "en": "Kiyomizu-dera"
+      },
+      "aliases": [
+        "청수사",
+        "기요미즈데라 청수사"
+      ],
+      "city": [
+        "Kyoto",
+        "교토"
+      ],
+      "lat": 34.995,
+      "lon": 135.785,
+      "scripts": {
+        "ko": "교토의 기요미즈데라에서는 산과 도시가 만나는 자리를 먼저 느껴 보세요. 길을 따라 올라온 뒤 절의 공간을 바라보면, 도심을 걷던 때와는 다른 호흡으로 풍경을 보게 됩니다. 한국에서는 청수사라는 이름으로도 알려져 있습니다.\n\n절의 시작은 778년으로 전해집니다. 다만 창건을 둘러싼 이야기는 오랜 전승과 기록을 통해 내려온 것이므로, 오늘 직접 확인한 사건처럼 받아들이기보다 이 장소를 사람들이 어떻게 기억해 왔는지 들려주는 이야기로 이해하면 좋겠습니다.\n\n기요미즈데라는 교토의 문화유산을 이루는 사찰 가운데 하나로 세계유산에 포함됩니다. 유명한 풍경 한 장만 찾기보다 건물과 나무, 오르는 길이 함께 만드는 공간을 살펴보세요. 이곳은 관광지이면서 신앙의 장소이기도 합니다. 다른 방문객의 기도와 통행을 배려하며, 출입과 촬영에 관한 현장 안내를 따라 천천히 둘러보시면 됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Kiyomizu-dera",
+          "url": "https://en.wikipedia.org/wiki/Kiyomizu-dera"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera%20Kyoto",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

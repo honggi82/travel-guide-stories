@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "us-newyork",
+  "version": 1,
+  "name": {
+    "ko": "뉴욕"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "statue-of-liberty",
+      "name": {
+        "ko": "자유의 여신상",
+        "en": "Statue of Liberty"
+      },
+      "aliases": [
+        "Liberty Enlightening the World"
+      ],
+      "city": [
+        "New York",
+        "New York City",
+        "뉴욕"
+      ],
+      "lat": 40.6892,
+      "lon": -74.0445,
+      "scripts": {
+        "ko": "뉴욕항의 자유의 여신상을 바라보며 오른손에 든 횃불과 왼손의 판을 차례로 살펴보세요. 사람의 모습으로 자유라는 생각을 표현한 조각입니다.\n\n이 동상은 프랑스 국민이 미국에 보낸 선물로 1886년 10월 28일 봉헌됐습니다. 조각가 프레데리크 오귀스트 바르톨디가 설계했고, 내부 금속 구조에는 귀스타브 에펠의 작업이 연결됩니다. 겉의 모습과 안의 구조를 서로 다른 기술이 함께 완성한 셈이지요.\n\n왼손의 판에는 미국 독립선언의 날짜인 1776년 7월 4일이 로마 숫자로 새겨져 있습니다. 거대한 전체 모습 속에 작은 문자가 하나의 역사적 의미를 담고 있는 것입니다. 멀리서 실루엣을 보았다면 이런 세부도 함께 떠올려 보세요. 섬으로 가는 교통편과 동상 내부 관람은 별도 조건이 있으므로 방문 전 공식 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Statue of Liberty",
+          "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20Liberty%20New%20York",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

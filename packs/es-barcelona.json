@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "es-barcelona",
+  "version": 1,
+  "name": {
+    "ko": "바르셀로나"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "sagrada-familia",
+      "name": {
+        "ko": "사그라다 파밀리아",
+        "en": "Sagrada Família"
+      },
+      "aliases": [
+        "사그라다 파밀리아 성당",
+        "Sagrada Familia"
+      ],
+      "city": [
+        "Barcelona",
+        "바르셀로나"
+      ],
+      "lat": 41.4036,
+      "lon": 2.1744,
+      "scripts": {
+        "ko": "먼저 성당을 하나의 긴 시간 여행이라고 생각해 보세요. 사그라다 파밀리아의 공사는 1882년에 시작됐고, 이듬해 안토니 가우디가 설계를 맡았습니다. 지금 눈앞의 건물에는 한 사람의 구상과 여러 세대의 손길이 함께 남아 있는 셈이지요.\n\n가우디는 고딕 성당의 전통에 자연에서 떠올린 곡선과 구조를 더했습니다. 건물을 바라볼 때 높이만 재기보다, 곧은 선과 휘어진 선이 어떻게 만나는지 찾아보세요. 같은 성당도 어느 쪽에서 보는가에 따라 다른 표정을 발견할 수 있습니다.\n\n이곳의 탄생 입면과 지하 예배당은 가우디 작품군의 일부로 세계유산에 포함되어 있습니다. 성당 전체와 등재된 부분을 구분해 기억하면 더 정확한 여행 이야기가 됩니다. 오늘의 공사 상황이나 입장 조건은 방문 전에 공식 안내를 확인해 주세요. 여기서는 서둘러 사진 한 장을 남기기보다, 한 건물을 이어 짓는다는 일이 무엇인지 잠시 생각해 보시면 좋겠습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sagrada Família",
+          "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagrada%20Fam%C3%ADlia%20Barcelona",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

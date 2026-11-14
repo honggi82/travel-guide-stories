@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "au-sydney",
+  "version": 1,
+  "name": {
+    "ko": "시드니"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "sydney-opera-house",
+      "name": {
+        "ko": "시드니 오페라 하우스",
+        "en": "Sydney Opera House"
+      },
+      "aliases": [
+        "시드니 오페라하우스",
+        "오페라 하우스"
+      ],
+      "city": [
+        "Sydney",
+        "시드니"
+      ],
+      "lat": -33.8568,
+      "lon": 151.2153,
+      "scripts": {
+        "ko": "시드니 오페라 하우스에서는 하얀 지붕이 하늘과 물 사이에서 만드는 윤곽을 바라보세요. 보는 위치에 따라 겹쳐지는 모양이 달라져, 건물 주변을 걷는 일 자체가 감상이 됩니다.\n\n공사는 1959년에 시작됐고 공식 개관은 1973년 10월 20일이었습니다. 오늘은 익숙한 상징처럼 보이지만 완성에 이르기까지 오랜 시간과 여러 기술적 판단이 필요했던 건축물입니다. 멋진 외관 뒤에 사람들의 설계와 시공 과정이 있었다는 점을 떠올려 보세요.\n\n이름 때문에 오페라만을 위한 한 개의 객석을 상상하기 쉽지만, 이곳은 여러 공연 공간이 모인 복합 공연 시설입니다. 바깥에서 사진을 찍는 여행과 안에서 공연을 듣는 경험은 서로 다른 방문 방법이지요. 오늘 공연이 무엇인지, 내부를 관람할 수 있는지는 공식 일정에서 확인하고 자신에게 맞는 방식으로 건물과 만나 보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sydney Opera House",
+          "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Opera%20House%20Sydney",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

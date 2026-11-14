@@ -1,0 +1,49 @@
+{
+  "schemaVersion": 2,
+  "id": "eg-giza",
+  "version": 1,
+  "name": {
+    "ko": "카이로"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "giza-pyramids",
+      "name": {
+        "ko": "기자 피라미드군",
+        "en": "Giza pyramid complex"
+      },
+      "aliases": [
+        "기자의 피라미드",
+        "기자 피라미드",
+        "Pyramids of Giza"
+      ],
+      "city": [
+        "Giza",
+        "Cairo",
+        "기자",
+        "카이로"
+      ],
+      "lat": 29.9792,
+      "lon": 31.1342,
+      "scripts": {
+        "ko": "기자의 피라미드 앞에서는 세 건물을 한꺼번에 보는 시간을 가져 보세요. 하나의 거대한 삼각형만 기억하기 쉽지만, 이곳에는 쿠푸·카프레·멘카우레의 피라미드와 여러 부속 유적이 함께 있습니다.\n\n가장 큰 쿠푸의 피라미드와 남서쪽의 카프레 피라미드, 더 작은 멘카우레 피라미드는 서로 다른 규모를 보여 줍니다. 카프레의 것은 더 높은 지대와 가파른 경사 때문에 커 보일 수 있지만 실제 높이와 부피는 쿠푸의 것보다 작습니다. 눈에 보이는 인상과 측정한 크기가 다를 수 있다는 재미있는 관찰점이지요.\n\n이곳을 피라미드만 놓인 빈 공간으로 보지 말고 신전과 길, 주변의 무덤이 연결된 유적으로 생각해 보세요. 고대 이집트 사람들이 죽음과 왕권을 어떻게 공간으로 표현했는지 질문하게 됩니다. 유적 위에 오르거나 경계를 넘지 말고, 지정된 관람로에서 규모와 배치를 차분히 감상해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Giza pyramid complex",
+          "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giza%20pyramid%20complex%20Giza",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

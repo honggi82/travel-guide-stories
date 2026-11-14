@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "it-rome",
+  "version": 1,
+  "name": {
+    "ko": "로마"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "colosseum",
+      "name": {
+        "ko": "콜로세움",
+        "en": "Colosseum"
+      },
+      "aliases": [
+        "Colosseo"
+      ],
+      "city": [
+        "Rome",
+        "Roma",
+        "로마"
+      ],
+      "lat": 41.8902,
+      "lon": 12.4922,
+      "scripts": {
+        "ko": "로마의 콜로세움 앞에서는 건물의 둥근 윤곽부터 눈에 담아 보세요. 여러 층으로 이어지는 아치가 거대한 관람 공간을 둘러싸고 있습니다. 지금은 유적으로 보이지만, 원래는 사람들이 한곳에 모여 구경하던 원형경기장이었습니다.\n\n이곳의 건설과 개장은 플라비우스 왕조의 역사와 연결됩니다. 서기 80년 티투스 시대에는 개장을 기념하는 동전도 만들어졌습니다. 큰 경기장을 세우는 일이 단순한 건축 사업을 넘어 황제가 자신을 드러내는 일이었음을 보여 주지요.\n\n지금 남은 벽과 통로를 보며 많은 관객이 들어오고 나가던 움직임을 상상해 보세요. 웅장한 규모를 감탄하면서도 고대의 오락이 오늘 우리의 가치와는 다른 면을 지녔다는 사실을 함께 생각하면 좋겠습니다. 해설 속 상상은 현재 공개된 구역을 뜻하지 않습니다. 실제 관람은 현장 동선과 보존 안내를 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Colosseum",
+          "url": "https://en.wikipedia.org/wiki/Colosseum"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colosseum%20Rome",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

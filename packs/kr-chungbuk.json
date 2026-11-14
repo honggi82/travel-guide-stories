@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-chungbuk",
+  "version": 1,
+  "name": {
+    "ko": "충청북도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "beopjusa",
+      "name": {
+        "ko": "법주사",
+        "en": "Beopjusa"
+      },
+      "aliases": [
+        "보은 법주사",
+        "속리산 법주사",
+        "Beopjusa Temple",
+        "法住寺"
+      ],
+      "city": [
+        "Boeun",
+        "보은",
+        "보은군",
+        "Chungbuk",
+        "충청북도"
+      ],
+      "lat": 36.542361,
+      "lon": 127.83375,
+      "scripts": {
+        "ko": "속리산의 법주사에서는 높이 솟은 팔상전을 찾아보세요. 돌로 쌓은 석탑에 익숙한 눈에는 여러 층의 나무 건축이 다른 인상을 줍니다. 팔상전은 다섯 층으로 이루어진 목탑으로, 법주사의 건축을 읽는 중요한 지점입니다.\n\n절은 기도하는 공간인 동시에 수행하고 배우며 생활하는 곳입니다. 법주사는 2018년 세계유산으로 등재된 산사, 한국의 산지승원 일곱 곳 가운데 하나입니다. 유네스코가 주목한 것도 건물의 모습만이 아니라 산속에서 이어져 온 신앙과 수행, 생활의 전통입니다.\n\n팔상전에서 주변 전각 쪽으로 시선을 돌리며 건물들이 어떻게 한 사찰을 이루는지 살펴보세요. 유물 하나하나의 이름을 외우기보다 사람들이 이 공간을 어떻게 사용해 왔는지 생각하면 산사의 풍경이 더 입체적으로 보입니다. 지금도 신앙의 장소이므로 기도와 수행의 동선을 비워 주고, 관람 가능한 구역에서 조용히 둘러보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Beopjusa",
+          "url": "https://en.wikipedia.org/wiki/Beopjusa"
+        },
+        {
+          "title": "UNESCO: Sansa, Buddhist Mountain Monasteries in Korea",
+          "url": "https://whc.unesco.org/en/list/1562/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beopjusa%20Boeun",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

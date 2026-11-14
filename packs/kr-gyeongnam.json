@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-gyeongnam",
+  "version": 1,
+  "name": {
+    "ko": "경상남도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "haeinsa",
+      "name": {
+        "ko": "해인사",
+        "en": "Haeinsa"
+      },
+      "aliases": [
+        "합천 해인사",
+        "가야산 해인사",
+        "Haeinsa Temple",
+        "海印寺"
+      ],
+      "city": [
+        "Hapcheon",
+        "합천",
+        "합천군",
+        "Gyeongnam",
+        "경상남도"
+      ],
+      "lat": 35.8,
+      "lon": 128.1,
+      "scripts": {
+        "ko": "가야산 해인사에서는 책을 만드는 일과 책을 지키는 일을 함께 떠올려 보세요. 이곳의 팔만대장경은 종이책의 묶음이 아니라 불교 경전을 새긴 8만여 장의 목판입니다. 글을 남기려는 오랜 노력이 나무의 형태로 전해지고 있습니다.\n\n목판을 보관하는 장경판전은 15세기의 건축으로, 자연 통풍과 온도·습도를 고려한 설계가 특징입니다. 화려한 외관만으로 감탄을 이끌어 내는 건물과는 다른 종류의 지혜가 담겨 있지요. 무엇을 보관하는지, 그 재료를 지키려면 어떤 환경이 필요한지 생각하며 바라보면 건물의 의미가 달라집니다.\n\n장경판전은 1995년 세계유산으로 등재됐습니다. 목판을 정교하게 새긴 사람들과 여러 세대에 걸쳐 보존해 온 사람들의 손길이 함께 이 유산을 만든 셈입니다. 보존 시설의 출입과 관람은 제한될 수 있으므로 현장의 안내를 따라 주세요. 가까이 들어가지 못하더라도 기록을 오래 지킨다는 일이 무엇인지 생각해 볼 수 있는 장소입니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Haeinsa",
+          "url": "https://en.wikipedia.org/wiki/Haeinsa"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Haeinsa"
+        },
+        {
+          "title": "UNESCO: Haeinsa Temple Janggyeong Panjeon",
+          "url": "https://whc.unesco.org/en/list/737/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Haeinsa",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-chungnam",
+  "version": 1,
+  "name": {
+    "ko": "충청남도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "magoksa",
+      "name": {
+        "ko": "마곡사",
+        "en": "Magoksa"
+      },
+      "aliases": [
+        "공주 마곡사",
+        "Magoksa Temple",
+        "麻谷寺"
+      ],
+      "city": [
+        "Gongju",
+        "공주",
+        "공주시",
+        "Chungnam",
+        "충청남도"
+      ],
+      "lat": 36.55889,
+      "lon": 127.01222,
+      "scripts": {
+        "ko": "공주 마곡사에서는 절 주변을 굽이치는 물길을 먼저 눈에 담아 보세요. 태화산 자락과 태극천의 굽은 흐름이 사찰의 배경을 이룹니다. 건물과 자연을 따로 떼어 보기보다 함께 놓인 풍경으로 감상하면 좋겠습니다.\n\n마곡사의 창건 전승은 자장율사와 연결됩니다. 이름에는 또 다른 이야기가 전해집니다. 보철화상의 설법을 들으러 많은 사람이 모인 모습이 빽빽한 삼 줄기를 닮았다는 이야기입니다. 이것은 오늘 직접 확인한 사건이라기보다 사찰의 이름을 사람들이 어떻게 기억해 왔는지 들려주는 전승으로 이해해 주세요.\n\n마곡사는 법주사 등과 함께 2018년 산사, 한국의 산지승원의 일부로 세계유산에 등재됐습니다. 이 유산은 산속의 절에서 신앙과 수행, 일상이 함께 이어져 왔다는 점을 보여 줍니다. 물길과 길, 전각을 따라 이동하며 사람들이 머무르고 오가던 공간의 관계를 살펴보세요. 현재의 수행과 예배를 배려하며 천천히 둘러보시면 됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Magoksa",
+          "url": "https://en.wikipedia.org/wiki/Magoksa"
+        },
+        {
+          "title": "UNESCO: Sansa, Buddhist Mountain Monasteries in Korea",
+          "url": "https://whc.unesco.org/en/list/1562/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magoksa%20Gongju",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

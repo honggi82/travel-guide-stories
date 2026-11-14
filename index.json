@@ -196,6 +196,54 @@
       ]
     },
     {
+      "id": "es-barcelona",
+      "name": {
+        "ko": "바르셀로나"
+      },
+      "version": 3,
+      "placeCount": 2,
+      "sizeBytes": 4611,
+      "sha256": "eac095a4cfef492223d73fe8c38dc9a86cc86aa49006ce6a80987d2e3d762fb3",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
+      "places": [
+        {
+          "id": "sagrada-familia",
+          "name": {
+            "ko": "사그라다 파밀리아",
+            "en": "Sagrada Família"
+          },
+          "aliases": [
+            "사그라다 파밀리아 성당",
+            "Sagrada Familia"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.4036,
+          "lon": 2.1744
+        },
+        {
+          "id": "park-guell",
+          "name": {
+            "ko": "구엘 공원",
+            "en": "Park Güell"
+          },
+          "aliases": [
+            "구엘공원",
+            "Parc Güell",
+            "Park Guell"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.41361,
+          "lon": 2.15278
+        }
+      ]
+    },
+    {
       "id": "fr-paris",
       "name": {
         "ko": "파리"
@@ -442,6 +490,75 @@
       ]
     },
     {
+      "id": "kr-chungbuk",
+      "name": {
+        "ko": "충청북도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2348,
+      "sha256": "57a225b55b173f645f079d9474a40fee24cd94ceb020ccf142feedbf2284bfde",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-chungbuk.json",
+      "places": [
+        {
+          "id": "beopjusa",
+          "name": {
+            "ko": "법주사",
+            "en": "Beopjusa"
+          },
+          "aliases": [
+            "보은 법주사",
+            "속리산 법주사",
+            "Beopjusa Temple",
+            "法住寺"
+          ],
+          "city": [
+            "Boeun",
+            "보은",
+            "보은군",
+            "Chungbuk",
+            "충청북도"
+          ],
+          "lat": 36.542361,
+          "lon": 127.83375
+        }
+      ]
+    },
+    {
+      "id": "kr-chungnam",
+      "name": {
+        "ko": "충청남도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2364,
+      "sha256": "85601835bb60295e85320e914bdb99a62d8243183de38dced411623bdd9e6cb5",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-chungnam.json",
+      "places": [
+        {
+          "id": "magoksa",
+          "name": {
+            "ko": "마곡사",
+            "en": "Magoksa"
+          },
+          "aliases": [
+            "공주 마곡사",
+            "Magoksa Temple",
+            "麻谷寺"
+          ],
+          "city": [
+            "Gongju",
+            "공주",
+            "공주시",
+            "Chungnam",
+            "충청남도"
+          ],
+          "lat": 36.55889,
+          "lon": 127.01222
+        }
+      ]
+    },
+    {
       "id": "kr-gwangju",
       "name": {
         "ko": "광주광역시"
@@ -469,6 +586,41 @@
           ],
           "lat": 35.14724,
           "lon": 126.920687
+        }
+      ]
+    },
+    {
+      "id": "kr-gyeongbuk",
+      "name": {
+        "ko": "경상북도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2488,
+      "sha256": "1c6d73d4335aee28979838fcc84efd2517aa5f12fb79e07e9d2b1e16cec4b726",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeongbuk.json",
+      "places": [
+        {
+          "id": "hahoe-folk-village",
+          "name": {
+            "ko": "안동 하회마을",
+            "en": "Hahoe Folk Village"
+          },
+          "aliases": [
+            "하회마을",
+            "하회 민속마을",
+            "Andong Hahoe Village",
+            "河回村"
+          ],
+          "city": [
+            "Andong",
+            "안동",
+            "안동시",
+            "Gyeongbuk",
+            "경상북도"
+          ],
+          "lat": 36.53917,
+          "lon": 128.51667
         }
       ]
     },
@@ -537,6 +689,41 @@
           ],
           "lat": 35.79,
           "lon": 129.33222
+        }
+      ]
+    },
+    {
+      "id": "kr-gyeongnam",
+      "name": {
+        "ko": "경상남도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2553,
+      "sha256": "74e2fb8134fd4fc567a8a1de35518ba01555128ed486bb1a01bccc6dbeddbbd0",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeongnam.json",
+      "places": [
+        {
+          "id": "haeinsa",
+          "name": {
+            "ko": "해인사",
+            "en": "Haeinsa"
+          },
+          "aliases": [
+            "합천 해인사",
+            "가야산 해인사",
+            "Haeinsa Temple",
+            "海印寺"
+          ],
+          "city": [
+            "Hapcheon",
+            "합천",
+            "합천군",
+            "Gyeongnam",
+            "경상남도"
+          ],
+          "lat": 35.8,
+          "lon": 128.1
         }
       ]
     },
@@ -727,54 +914,6 @@
           ],
           "lat": -33.96218,
           "lon": 18.409883
-        }
-      ]
-    },
-    {
-      "id": "es-barcelona",
-      "name": {
-        "ko": "바르셀로나"
-      },
-      "version": 3,
-      "placeCount": 2,
-      "sizeBytes": 4611,
-      "sha256": "eac095a4cfef492223d73fe8c38dc9a86cc86aa49006ce6a80987d2e3d762fb3",
-      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
-      "places": [
-        {
-          "id": "sagrada-familia",
-          "name": {
-            "ko": "사그라다 파밀리아",
-            "en": "Sagrada Família"
-          },
-          "aliases": [
-            "사그라다 파밀리아 성당",
-            "Sagrada Familia"
-          ],
-          "city": [
-            "Barcelona",
-            "바르셀로나"
-          ],
-          "lat": 41.4036,
-          "lon": 2.1744
-        },
-        {
-          "id": "park-guell",
-          "name": {
-            "ko": "구엘 공원",
-            "en": "Park Güell"
-          },
-          "aliases": [
-            "구엘공원",
-            "Parc Güell",
-            "Park Guell"
-          ],
-          "city": [
-            "Barcelona",
-            "바르셀로나"
-          ],
-          "lat": 41.41361,
-          "lon": 2.15278
         }
       ]
     }

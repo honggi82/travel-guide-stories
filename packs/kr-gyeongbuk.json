@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-gyeongbuk",
+  "version": 1,
+  "name": {
+    "ko": "경상북도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "hahoe-folk-village",
+      "name": {
+        "ko": "안동 하회마을",
+        "en": "Hahoe Folk Village"
+      },
+      "aliases": [
+        "하회마을",
+        "하회 민속마을",
+        "Andong Hahoe Village",
+        "河回村"
+      ],
+      "city": [
+        "Andong",
+        "안동",
+        "안동시",
+        "Gyeongbuk",
+        "경상북도"
+      ],
+      "lat": 36.53917,
+      "lon": 128.51667,
+      "scripts": {
+        "ko": "안동 하회마을에서는 집을 보기 전에 마을을 둘러싼 지형도 함께 살펴보세요. 하회라는 이름은 강이 돌아 흐르는 모습과 연결됩니다. 낙동강과 산, 들이 한 마을의 자리를 만들고 있다는 점이 이곳의 풍경을 이해하는 실마리입니다.\n\n하회마을은 조선시대의 씨족마을 전통과 건축, 생활 문화를 보여 주는 곳입니다. 양동마을과 함께 2010년 세계유산으로 등재됐습니다. 유네스코는 집 한 채만이 아니라 마을의 배치와 주변 경관이 조선 초기의 유교적 문화를 드러낸다는 점에도 주목합니다.\n\n골목을 걸으며 집과 마당, 마을 밖의 자연이 어떤 관계를 이루는지 바라보세요. 건물을 전시물처럼 하나씩 보는 것과 마을 전체를 생활 공간으로 보는 것은 다른 경험입니다. 지금도 주민의 삶이 이어지는 곳이므로 모든 대문 안이 관람 공간이라고 생각하지 말고 공개된 동선을 따라 이동해 주세요. 풍경을 지키는 일에는 건물뿐 아니라 이곳의 일상을 배려하는 것도 포함됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Hahoe Folk Village",
+          "url": "https://en.wikipedia.org/wiki/Hahoe_Folk_Village"
+        },
+        {
+          "title": "UNESCO: Historic Villages of Korea: Hahoe and Yangdong",
+          "url": "https://whc.unesco.org/en/list/1324/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hahoe%20Folk%20Village%20Andong",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

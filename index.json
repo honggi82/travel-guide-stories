@@ -521,6 +521,140 @@
       ]
     },
     {
+      "id": "kr-gyeonggi",
+      "name": {
+        "ko": "경기도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2470,
+      "sha256": "417530993dfd8323a1f40ab4a85e1b4d488cf689aa87a5e31f01b2941a16d389",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeonggi.json",
+      "places": [
+        {
+          "id": "suwon-hwaseong",
+          "name": {
+            "ko": "수원 화성",
+            "en": "Hwaseong Fortress"
+          },
+          "aliases": [
+            "수원화성",
+            "Suwon Hwaseong",
+            "Suwon Hwaseong Fortress"
+          ],
+          "city": [
+            "Suwon",
+            "Suwon-si",
+            "수원",
+            "수원시",
+            "Gyeonggi",
+            "Gyeonggi-do",
+            "경기도"
+          ],
+          "lat": 37.27222,
+          "lon": 127.00833
+        }
+      ]
+    },
+    {
+      "id": "kr-gyeongju",
+      "name": {
+        "ko": "경주시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2189,
+      "sha256": "75118e3c32c5803646cf2d9f8b5666dcbb603f43c8e79d5d43b7979e2c34e603",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeongju.json",
+      "places": [
+        {
+          "id": "bulguksa",
+          "name": {
+            "ko": "불국사",
+            "en": "Bulguksa"
+          },
+          "aliases": [
+            "경주 불국사",
+            "Bulguksa Temple",
+            "佛國寺"
+          ],
+          "city": [
+            "Gyeongju",
+            "경주",
+            "경주시"
+          ],
+          "lat": 35.79,
+          "lon": 129.33222
+        }
+      ]
+    },
+    {
+      "id": "kr-jeju",
+      "name": {
+        "ko": "제주특별자치도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2651,
+      "sha256": "4bc8cbdb94df55e3cac2beae641dd1166b03f1dabbff0e75cffd613a256b52ff",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeju.json",
+      "places": [
+        {
+          "id": "seongsan-ilchulbong",
+          "name": {
+            "ko": "성산일출봉",
+            "en": "Seongsan Ilchulbong"
+          },
+          "aliases": [
+            "성산 일출봉",
+            "Seongsan Sunrise Peak",
+            "Sunrise Peak"
+          ],
+          "city": [
+            "Seogwipo",
+            "서귀포",
+            "서귀포시",
+            "Jeju",
+            "제주",
+            "제주특별자치도"
+          ],
+          "lat": 33.4585,
+          "lon": 126.942
+        }
+      ]
+    },
+    {
+      "id": "kr-jeonju",
+      "name": {
+        "ko": "전주시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2486,
+      "sha256": "b9001c4690c49e2a5fc1f352376fcc39b78a85cb4b1feaa46406daf3ba61db84",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonju.json",
+      "places": [
+        {
+          "id": "jeonju-hanok-village",
+          "name": {
+            "ko": "전주한옥마을",
+            "en": "Jeonju Hanok Village"
+          },
+          "aliases": [
+            "전주 한옥마을",
+            "Jeonju Hanok Maeul"
+          ],
+          "city": [
+            "Jeonju",
+            "전주",
+            "전주시"
+          ],
+          "lat": 35.81512,
+          "lon": 127.15356
+        }
+      ]
+    },
+    {
       "id": "kr-seoul",
       "name": {
         "ko": "서울특별시"

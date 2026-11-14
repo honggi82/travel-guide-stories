@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-jeju",
+  "version": 1,
+  "name": {
+    "ko": "제주특별자치도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "seongsan-ilchulbong",
+      "name": {
+        "ko": "성산일출봉",
+        "en": "Seongsan Ilchulbong"
+      },
+      "aliases": [
+        "성산 일출봉",
+        "Seongsan Sunrise Peak",
+        "Sunrise Peak"
+      ],
+      "city": [
+        "Seogwipo",
+        "서귀포",
+        "서귀포시",
+        "Jeju",
+        "제주",
+        "제주특별자치도"
+      ],
+      "lat": 33.4585,
+      "lon": 126.942,
+      "scripts": {
+        "ko": "성산일출봉에서는 해가 떠오르는 풍경과 함께, 그 풍경을 받치고 있는 땅의 이야기도 떠올려 보세요. 이곳은 화산재가 쌓여 만들어진 응회구입니다. 얕은 바다에서 뜨거운 마그마와 물이 만나 격렬하게 반응한 결과가 오늘의 지형으로 남아 있습니다.\n\n절벽에 드러난 층은 한 번의 조각 작업처럼 깎아 만든 무늬가 아닙니다. 분출한 물질이 쌓이고, 이후 파도와 바람이 침식하면서 내부의 구조가 모습을 드러낸 것이지요. 겉의 윤곽만 볼 때와 층을 살펴볼 때 이 봉우리의 인상이 달라질 수 있습니다.\n\n처음에는 제주 본섬과 떨어져 있었지만 퇴적물이 쌓이면서 육지와 연결됐습니다. 지금 우리가 걸어서 다가가는 길에도 자연이 공간을 바꿔 온 시간이 담겨 있는 셈입니다. 성을 닮은 모습과 일출의 풍경이 이름에 함께 남아 있습니다. 관람 구역과 기상 상태는 당일 안내를 따르고, 지층은 정해진 길에서 감상해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Seongsan Ilchulbong",
+          "url": "https://en.wikipedia.org/wiki/Seongsan_Ilchulbong"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Seongsan%20Ilchulbong%20South%20Korea"
+        },
+        {
+          "title": "제주특별자치도 세계유산본부: 성산일출봉응회구 소개",
+          "url": "https://www.jeju.go.kr/jejuwnh/heritage/seongsan/intro.htm"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Seongsan%20Ilchulbong%20South%20Korea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

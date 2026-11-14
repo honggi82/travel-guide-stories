@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-gyeonggi",
+  "version": 1,
+  "name": {
+    "ko": "경기도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "suwon-hwaseong",
+      "name": {
+        "ko": "수원 화성",
+        "en": "Hwaseong Fortress"
+      },
+      "aliases": [
+        "수원화성",
+        "Suwon Hwaseong",
+        "Suwon Hwaseong Fortress"
+      ],
+      "city": [
+        "Suwon",
+        "Suwon-si",
+        "수원",
+        "수원시",
+        "Gyeonggi",
+        "Gyeonggi-do",
+        "경기도"
+      ],
+      "lat": 37.27222,
+      "lon": 127.00833,
+      "scripts": {
+        "ko": "수원 화성에서는 성벽이 지형을 따라 이어지는 모습을 먼저 살펴보세요. 산 위에 홀로 놓인 성이 아니라 도시를 감싸는 성곽입니다. 방어 시설을 보면서도 그 안팎으로 이어지는 사람들의 생활을 함께 떠올리게 되는 공간이지요.\n\n화성은 정조 때인 1794년부터 1796년 사이에 세워졌습니다. 아버지 사도세자의 묘를 옮긴 일과 새로운 도시를 조성하려는 구상이 그 배경에 연결되어 있습니다. 왕 개인의 기억과 도시를 새롭게 만들려는 계획이 겹친 장소라고 할 수 있습니다.\n\n정약용의 설계에는 실학의 생각과 당시의 기술이 반영됐습니다. 성벽과 문, 주변을 살피는 시설은 모양이 다른 만큼 맡은 역할도 달랐습니다. 아름다운 정자처럼 보이는 건물도 위치와 시야를 함께 살피면 방어 공간의 일부라는 사실이 더 잘 보입니다. 화성은 1997년 세계유산에 등재됐습니다. 도시를 바라보는 방향을 바꾸며 성곽의 구조를 읽어 보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Hwaseong Fortress",
+          "url": "https://en.wikipedia.org/wiki/Hwaseong_Fortress"
+        },
+        {
+          "title": "수원시: Suwon Hwaseong Fortress (Google Arts & Culture)",
+          "url": "https://artsandculture.google.com/story/suwon-hwaseong-fortress/sQWBo3ZQ5R_CLQ"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hwaseong%20Fortress%20Suwon",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

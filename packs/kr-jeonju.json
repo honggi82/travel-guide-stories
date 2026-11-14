@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-jeonju",
+  "version": 1,
+  "name": {
+    "ko": "전주시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "jeonju-hanok-village",
+      "name": {
+        "ko": "전주한옥마을",
+        "en": "Jeonju Hanok Village"
+      },
+      "aliases": [
+        "전주 한옥마을",
+        "Jeonju Hanok Maeul"
+      ],
+      "city": [
+        "Jeonju",
+        "전주",
+        "전주시"
+      ],
+      "lat": 35.81512,
+      "lon": 127.15356,
+      "scripts": {
+        "ko": "전주한옥마을의 골목에서는 기와지붕을 멀리서 한 번, 처마 가까이에서 한 번 바라보세요. 풍남동과 교동에 걸쳐 이어지는 한옥들이 현대 도시의 거리와 다른 풍경을 만듭니다. 집 한 채가 아니라 골목 전체가 여행의 장면이 되는 곳이지요.\n\n전주는 조선 왕실의 본향으로 기억되는 도시입니다. 하지만 지금의 한옥마을을 어느 한 시대의 모습이 그대로 멈춘 공간이라고 생각하지는 않는 것이 좋습니다. 성벽이 철거된 뒤 풍남동과 교동 쪽으로 주거지가 확대되는 등 도시의 변화 속에서 마을도 형성되고 달라졌습니다.\n\n주변에는 경기전과 전주향교, 전동성당처럼 서로 다른 성격의 장소가 함께 있습니다. 한옥의 풍경을 본 뒤에는 각 장소가 어떤 생활과 의례, 신앙을 담았는지 구분해 보면 좋겠습니다. 관광객이 많이 찾는 거리이지만 사람들의 일상과 영업 공간이기도 합니다. 골목과 출입구를 비워 주며 천천히 걸으면 익숙한 기와지붕 아래에서도 새로운 세부를 발견할 수 있습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Jeonju Hanok Village",
+          "url": "https://en.wikipedia.org/wiki/Jeonju_Hanok_Village"
+        },
+        {
+          "title": "참고 좌표: 기존 지역 팩 (GPS 위치 검증을 대신하지 않음)",
+          "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-jeonju.json"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeonju%20Hanok%20Village%20Jeonju",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

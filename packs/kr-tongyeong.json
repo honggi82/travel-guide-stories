@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-tongyeong",
+  "version": 1,
+  "name": {
+    "ko": "통영시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "dongpirang-village",
+      "name": {
+        "ko": "동피랑마을",
+        "en": "Dongpirang Village"
+      },
+      "aliases": [
+        "동피랑",
+        "동피랑 벽화마을",
+        "통영 동피랑",
+        "Dongpirang Mural Village"
+      ],
+      "city": [
+        "Tongyeong",
+        "통영",
+        "통영시"
+      ],
+      "lat": 34.84583,
+      "lon": 128.4275,
+      "scripts": {
+        "ko": "통영 중앙시장 뒤 언덕으로 오르면 동피랑마을의 골목을 만나게 됩니다. 동피랑은 동쪽 벼랑이라는 뜻과 연결되는 이름입니다. 굽은 오르막을 따라 벽화를 보고 시야가 열리는 곳에서 강구안을 바라보면 항구와 언덕마을의 관계가 보입니다.\n\n이곳의 벽화는 단순한 장식만은 아닙니다. 마을 철거 계획이 논의되던 상황에서 2007년 벽화 공모전이 열렸고, 관심과 보존 여론이 커지며 마을이 남는 계기가 됐습니다. 그림을 감상하면서 누가 살던 공간이며 왜 보존하려 했는지도 함께 생각해 보세요.\n\n사진 속 그림은 시간이 지나 달라질 수 있습니다. 예전에 본 작품을 반드시 만날 수 있다고 기대하기보다 오늘의 골목을 살펴보면 좋겠습니다. 주민이 사는 집과 관광객이 걷는 길이 맞닿아 있으므로 창문이나 대문 안을 들여다보지 말고, 길을 막거나 큰 소리를 내지 않으며 천천히 둘러보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Dongpirang village",
+          "url": "https://en.wikipedia.org/wiki/Dongpirang_village"
+        },
+        {
+          "title": "위키백과: 동피랑마을 (벽화와 마을 보존의 역사)",
+          "url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%94%BC%EB%9E%91%EB%A7%88%EC%9D%84"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongpirang%20Village%20Tongyeong",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

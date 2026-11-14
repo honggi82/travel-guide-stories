@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-sejong",
+  "version": 1,
+  "name": {
+    "ko": "세종특별자치시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "sejong-lake-park",
+      "name": {
+        "ko": "세종호수공원",
+        "en": "Sejong Lake Park"
+      },
+      "aliases": [
+        "세종 호수공원",
+        "Sejong Hosu Park",
+        "世宗湖水公園"
+      ],
+      "city": [
+        "Sejong",
+        "세종",
+        "세종시",
+        "세종특별자치시"
+      ],
+      "lat": 36.502098,
+      "lon": 127.276246,
+      "scripts": {
+        "ko": "세종호수공원에서는 물가의 넓은 시야를 먼저 느껴 보세요. 이곳은 행정중심복합도시에 조성한 인공 호수공원으로, 2013년 1단계 구역이 전면 개장했습니다. 자연 호수가 오랜 세월에 걸쳐 도시를 부른 경우와 달리, 도시의 생활 공간을 만들며 계획한 물과 공원의 풍경입니다.\n\n호수에는 수상무대섬을 비롯한 인공섬이 있고, 주변에는 산책로와 자전거도로가 이어집니다. 물을 바라보는 자리, 공연과 행사를 위한 자리, 생태를 생각하는 자리가 한 공원 안에 배치돼 있습니다. 도시 속에서 사람들이 무엇을 하며 쉬도록 만들었는지 상상해 보세요.\n\n한 번에 모든 구간을 돌려고 하기보다 머물고 싶은 물가를 골라 걸어도 좋습니다. 이 해설은 공원 전체를 소개하므로 특정 출입구나 공연장으로 곧바로 안내하지는 않습니다. 행사와 시설 운영은 방문 전에 확인하고, 보행 공간과 자전거 동선을 구분하며 현장의 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: 세종호수공원",
+          "url": "https://ko.wikipedia.org/wiki/%EC%84%B8%EC%A2%85%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90"
+        },
+        {
+          "title": "한국관광공사: Sejong Lake Park",
+          "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75294"
+        },
+        {
+          "title": "참고 좌표: travel-guide-packs kr-sejong (GPS 검증을 대신하지 않음)",
+          "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sejong.json"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sejong%20Lake%20Park%20Sejong",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-incheon",
+  "version": 1,
+  "name": {
+    "ko": "인천광역시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "incheon-chinatown",
+      "name": {
+        "ko": "인천 차이나타운",
+        "en": "Incheon Chinatown"
+      },
+      "aliases": [
+        "차이나타운",
+        "인천차이나타운",
+        "仁川唐人街"
+      ],
+      "city": [
+        "Incheon",
+        "인천",
+        "인천광역시"
+      ],
+      "lat": 37.4763,
+      "lon": 126.6181,
+      "scripts": {
+        "ko": "인천 차이나타운에서는 음식점 간판 너머로 항구 도시의 역사를 떠올려 보세요. 1883년 인천항이 열리고 이듬해 청나라 조계가 설치되면서 중국인들의 정착과 상업 활동이 본격화됐습니다. 오늘의 거리는 바다를 건너온 사람들과 물건의 이동이 남긴 풍경입니다.\n\n한국식 중화요리와 중국 문화를 만나는 일도 이곳의 즐거움입니다. 짜장면박물관은 옛 공화춘 건물을 활용한 공간으로, 익숙한 음식이 어떤 도시의 역사와 연결되는지 생각하게 합니다. 다만 이름이 같은 현재의 음식점과 옛 건물의 역사를 곧바로 같은 이야기로 묶지는 마세요.\n\n중국식 문과 상점, 언덕을 따라 이어진 길을 보며 정착민의 생활과 관광지의 모습이 어떻게 겹치는지 살펴보세요. 자유공원과 개항장 일대도 가까이 있어 주변 거리와 함께 이해하기 좋습니다. 가게마다 운영이 다르고 주민의 생활도 이어지므로, 공개된 길을 따라 이동하며 차분히 둘러보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Incheon Chinatown",
+          "url": "https://en.wikipedia.org/wiki/Incheon_Chinatown"
+        },
+        {
+          "title": "인천광역시: Incheon Chinatown",
+          "url": "https://www.incheon.go.kr/en/EN030115/view?contentid=264513"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Incheon%20Chinatown%20Incheon",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

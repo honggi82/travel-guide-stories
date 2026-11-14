@@ -559,6 +559,137 @@
       ]
     },
     {
+      "id": "kr-daegu",
+      "name": {
+        "ko": "대구광역시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2295,
+      "sha256": "5a0e1f5ea79cb4552c4bbf35b5bd78de460ae1bc136e062a358a58b640c37d49",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-daegu.json",
+      "places": [
+        {
+          "id": "seomun-market",
+          "name": {
+            "ko": "서문시장",
+            "en": "Seomun Market"
+          },
+          "aliases": [
+            "대구 서문시장",
+            "Seomun Sijang",
+            "西門市場"
+          ],
+          "city": [
+            "Daegu",
+            "대구",
+            "대구광역시"
+          ],
+          "lat": 35.86923,
+          "lon": 128.58042
+        }
+      ]
+    },
+    {
+      "id": "kr-daejeon",
+      "name": {
+        "ko": "대전광역시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2203,
+      "sha256": "ec0115ce767d535819c6476cee9988b9028fe6dd0a02c1bf019cd45ab1ecbf42",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-daejeon.json",
+      "places": [
+        {
+          "id": "expo-science-park",
+          "name": {
+            "ko": "엑스포과학공원",
+            "en": "Expo Science Park"
+          },
+          "aliases": [
+            "대전 엑스포과학공원",
+            "엑스포 과학공원",
+            "Daejeon Expo Park"
+          ],
+          "city": [
+            "Daejeon",
+            "대전",
+            "대전광역시"
+          ],
+          "lat": 36.377,
+          "lon": 127.385
+        }
+      ]
+    },
+    {
+      "id": "kr-gangneung",
+      "name": {
+        "ko": "강릉시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2160,
+      "sha256": "8a9a509260cbd2092b3b190992ce6b89f9bce871b697869f12ce81037c0d6eaa",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gangneung.json",
+      "places": [
+        {
+          "id": "ojukheon",
+          "name": {
+            "ko": "오죽헌",
+            "en": "Ojukheon"
+          },
+          "aliases": [
+            "강릉 오죽헌",
+            "Ojukheon House",
+            "烏竹軒"
+          ],
+          "city": [
+            "Gangneung",
+            "강릉",
+            "강릉시"
+          ],
+          "lat": 37.77855944,
+          "lon": 128.87777639
+        }
+      ]
+    },
+    {
+      "id": "kr-gangwon",
+      "name": {
+        "ko": "강원특별자치도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2426,
+      "sha256": "b02fbb382ca3a145ac609471afd38a9ed3fcb8e81d45370ebbc6ab38ff31ab30",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gangwon.json",
+      "places": [
+        {
+          "id": "namiseom",
+          "name": {
+            "ko": "남이섬",
+            "en": "Nami Island"
+          },
+          "aliases": [
+            "춘천 남이섬",
+            "Namiseom",
+            "남이 섬"
+          ],
+          "city": [
+            "Chuncheon",
+            "춘천",
+            "춘천시",
+            "Gangwon",
+            "강원도",
+            "강원특별자치도"
+          ],
+          "lat": 37.79,
+          "lon": 127.5258
+        }
+      ]
+    },
+    {
       "id": "kr-gwangju",
       "name": {
         "ko": "광주광역시"
@@ -728,6 +859,38 @@
       ]
     },
     {
+      "id": "kr-incheon",
+      "name": {
+        "ko": "인천광역시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2385,
+      "sha256": "946264591cf5054e9bd648f6033ed9b30d51c31cf45dc7788156e92d3592c28f",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-incheon.json",
+      "places": [
+        {
+          "id": "incheon-chinatown",
+          "name": {
+            "ko": "인천 차이나타운",
+            "en": "Incheon Chinatown"
+          },
+          "aliases": [
+            "차이나타운",
+            "인천차이나타운",
+            "仁川唐人街"
+          ],
+          "city": [
+            "Incheon",
+            "인천",
+            "인천광역시"
+          ],
+          "lat": 37.4763,
+          "lon": 126.6181
+        }
+      ]
+    },
+    {
       "id": "kr-jeju",
       "name": {
         "ko": "제주특별자치도"
@@ -763,6 +926,41 @@
       ]
     },
     {
+      "id": "kr-jeonbuk",
+      "name": {
+        "ko": "전북특별자치도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2276,
+      "sha256": "6f92d95cb01a383c675e9ebc060a861ffbf819940e733556c3cdfd85e86200cc",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonbuk.json",
+      "places": [
+        {
+          "id": "naesosa",
+          "name": {
+            "ko": "내소사",
+            "en": "Naesosa"
+          },
+          "aliases": [
+            "부안 내소사",
+            "Naesosa Temple",
+            "來蘇寺"
+          ],
+          "city": [
+            "Buan",
+            "부안",
+            "부안군",
+            "Jeonbuk",
+            "전라북도",
+            "전북특별자치도"
+          ],
+          "lat": 35.617528,
+          "lon": 126.58725
+        }
+      ]
+    },
+    {
       "id": "kr-jeonju",
       "name": {
         "ko": "전주시"
@@ -794,6 +992,74 @@
       ]
     },
     {
+      "id": "kr-jeonnam",
+      "name": {
+        "ko": "전라남도"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2368,
+      "sha256": "8be4a2977c08f972e56426f38401456bf8610be27df61611e22d49d05523aed0",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonnam.json",
+      "places": [
+        {
+          "id": "suncheon-seonamsa",
+          "name": {
+            "ko": "순천 선암사",
+            "en": "Seonamsa"
+          },
+          "aliases": [
+            "선암사",
+            "조계산 선암사",
+            "Seonamsa Temple",
+            "仙巖寺"
+          ],
+          "city": [
+            "Suncheon",
+            "순천",
+            "순천시",
+            "Jeonnam",
+            "전라남도"
+          ],
+          "lat": 34.996056,
+          "lon": 127.330472
+        }
+      ]
+    },
+    {
+      "id": "kr-sejong",
+      "name": {
+        "ko": "세종특별자치시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2698,
+      "sha256": "9e8462548ae9ea8c994e73d2a7e897a360d568541edeb4b1e3614c251672a7bb",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-sejong.json",
+      "places": [
+        {
+          "id": "sejong-lake-park",
+          "name": {
+            "ko": "세종호수공원",
+            "en": "Sejong Lake Park"
+          },
+          "aliases": [
+            "세종 호수공원",
+            "Sejong Hosu Park",
+            "世宗湖水公園"
+          ],
+          "city": [
+            "Sejong",
+            "세종",
+            "세종시",
+            "세종특별자치시"
+          ],
+          "lat": 36.502098,
+          "lon": 127.276246
+        }
+      ]
+    },
+    {
       "id": "kr-seoul",
       "name": {
         "ko": "서울특별시"
@@ -820,6 +1086,136 @@
           ],
           "lat": 37.579884,
           "lon": 126.9768
+        }
+      ]
+    },
+    {
+      "id": "kr-sokcho",
+      "name": {
+        "ko": "속초시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2513,
+      "sha256": "5dcb4527ea9205daf394d27f5ddcc5967b2b31ee10ff4c1c0848c18456293a94",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-sokcho.json",
+      "places": [
+        {
+          "id": "seoraksan-national-park",
+          "name": {
+            "ko": "설악산국립공원",
+            "en": "Seoraksan National Park"
+          },
+          "aliases": [
+            "설악산 국립공원",
+            "설악산",
+            "Seoraksan",
+            "Mount Seorak"
+          ],
+          "city": [
+            "Sokcho",
+            "속초",
+            "속초시"
+          ],
+          "lat": 38.16722,
+          "lon": 128.48461
+        }
+      ]
+    },
+    {
+      "id": "kr-tongyeong",
+      "name": {
+        "ko": "통영시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2396,
+      "sha256": "f45f11bafcadfdbb29b373798cd517fe047159c9500e813198f6657e7a5f1f2d",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-tongyeong.json",
+      "places": [
+        {
+          "id": "dongpirang-village",
+          "name": {
+            "ko": "동피랑마을",
+            "en": "Dongpirang Village"
+          },
+          "aliases": [
+            "동피랑",
+            "동피랑 벽화마을",
+            "통영 동피랑",
+            "Dongpirang Mural Village"
+          ],
+          "city": [
+            "Tongyeong",
+            "통영",
+            "통영시"
+          ],
+          "lat": 34.84583,
+          "lon": 128.4275
+        }
+      ]
+    },
+    {
+      "id": "kr-ulsan",
+      "name": {
+        "ko": "울산광역시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2251,
+      "sha256": "26a75a28ac925d373d3b44b7b75dd965d39b719a8b3cca2fa525a09143c0bbad",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-ulsan.json",
+      "places": [
+        {
+          "id": "daewangam-park",
+          "name": {
+            "ko": "대왕암공원",
+            "en": "Daewangam Park"
+          },
+          "aliases": [
+            "울산 대왕암공원",
+            "대왕암 공원",
+            "Daewangam Gongwon"
+          ],
+          "city": [
+            "Ulsan",
+            "울산",
+            "울산광역시"
+          ],
+          "lat": 35.4924,
+          "lon": 129.4395
+        }
+      ]
+    },
+    {
+      "id": "kr-yeosu",
+      "name": {
+        "ko": "여수시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2155,
+      "sha256": "b7d5367ddbc7d59dcb2f5fd1e2d947e18650e0f271d826418e0661abbca8b1dc",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-yeosu.json",
+      "places": [
+        {
+          "id": "jinnamgwan",
+          "name": {
+            "ko": "진남관",
+            "en": "Jinnamgwan Hall"
+          },
+          "aliases": [
+            "여수 진남관",
+            "Jinnamgwan",
+            "鎭南館"
+          ],
+          "city": [
+            "Yeosu",
+            "여수",
+            "여수시"
+          ],
+          "lat": 34.74194,
+          "lon": 127.73667
         }
       ]
     },

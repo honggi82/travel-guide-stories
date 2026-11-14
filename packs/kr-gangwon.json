@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-gangwon",
+  "version": 1,
+  "name": {
+    "ko": "강원특별자치도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "namiseom",
+      "name": {
+        "ko": "남이섬",
+        "en": "Nami Island"
+      },
+      "aliases": [
+        "춘천 남이섬",
+        "Namiseom",
+        "남이 섬"
+      ],
+      "city": [
+        "Chuncheon",
+        "춘천",
+        "춘천시",
+        "Gangwon",
+        "강원도",
+        "강원특별자치도"
+      ],
+      "lat": 37.79,
+      "lon": 127.5258,
+      "scripts": {
+        "ko": "남이섬에서는 나무 사이의 길뿐 아니라 섬을 둘러싼 물도 바라보세요. 이곳은 북한강의 땅이 청평댐 건설에 따른 물의 상승으로 둘러싸이며 섬의 모습을 갖추게 된 곳입니다. 자연처럼 보이는 풍경에도 강을 바꾼 사람들의 역사가 들어 있습니다.\n\n이름은 조선시대의 남이 장군과 연결됩니다. 장군의 묘에 관한 이야기도 전하지만, 전해지는 묘 이야기를 확인된 매장 사실과 같게 받아들이지는 마세요. 이후 관광지로 개발된 섬은 2002년 드라마 겨울연가의 촬영지로도 알려졌습니다. 한 장소에 역사 전승과 현대의 대중문화가 함께 쌓인 셈입니다.\n\n남이섬은 가평 쪽에서 접근하는 경우가 많지만 행정구역은 춘천입니다. 나무의 줄과 물가, 사람들이 머무는 공간을 번갈아 바라보며 걸어 보세요. 배편과 입장 방식은 달라질 수 있으니 이동 전에 최신 안내를 확인하고, 물가에서는 지정된 길과 현장의 안전 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Namiseom",
+          "url": "https://en.wikipedia.org/wiki/Namiseom"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Nami%20Island%2C%20Chuncheon%2C%20South%20Korea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Nami%20Island%2C%20Chuncheon%2C%20South%20Korea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-jeonbuk",
+  "version": 1,
+  "name": {
+    "ko": "전북특별자치도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "naesosa",
+      "name": {
+        "ko": "내소사",
+        "en": "Naesosa"
+      },
+      "aliases": [
+        "부안 내소사",
+        "Naesosa Temple",
+        "來蘇寺"
+      ],
+      "city": [
+        "Buan",
+        "부안",
+        "부안군",
+        "Jeonbuk",
+        "전라북도",
+        "전북특별자치도"
+      ],
+      "lat": 35.617528,
+      "lon": 126.58725,
+      "scripts": {
+        "ko": "부안 내소사에서는 사찰로 들어가는 길부터 천천히 걸어 보세요. 전나무가 늘어선 진입로는 건물에 도착하기 전부터 주변 풍경을 느끼게 합니다. 내변산 자락의 절이라는 점을 생각하며 숲과 전각을 함께 바라보면 좋겠습니다.\n\n대웅보전에서는 꽃무늬가 새겨진 나무 문살을 눈여겨보세요. 멀리서 보는 지붕과 기둥의 인상에 더해, 가까운 거리에서 살펴볼 수 있는 세공의 아름다움이 있습니다. 내소사에는 건물을 지은 목수와 단청을 그린 새에 관한 전설도 전합니다. 이런 이야기는 실제 공사 과정을 모두 증명하는 기록이라기보다 건축의 특별함을 사람들이 기억해 온 방식으로 들으면 좋겠습니다.\n\n눈에 들어오는 장식 하나에서 시작해 마당과 숲으로 시선을 넓혀 보세요. 사찰은 유산을 보관한 관람 장소이면서 지금도 기도하고 수행하는 공간입니다. 건물 안의 관람과 사진 촬영 가능 여부는 현장의 안내를 따르고, 문살과 오래된 목재에 손을 대지 않고 감상해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Naesosa",
+          "url": "https://en.wikipedia.org/wiki/Naesosa"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naesosa%20Buan",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

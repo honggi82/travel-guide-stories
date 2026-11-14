@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-daegu",
+  "version": 1,
+  "name": {
+    "ko": "대구광역시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "seomun-market",
+      "name": {
+        "ko": "서문시장",
+        "en": "Seomun Market"
+      },
+      "aliases": [
+        "대구 서문시장",
+        "Seomun Sijang",
+        "西門市場"
+      ],
+      "city": [
+        "Daegu",
+        "대구",
+        "대구광역시"
+      ],
+      "lat": 35.86923,
+      "lon": 128.58042,
+      "scripts": {
+        "ko": "서문시장에서는 이름 속의 서문부터 떠올려 보세요. 대구 읍성의 서쪽에 자리했던 시장이라는 기억이 지금의 이름에 남아 있습니다. 성벽이 보이지 않아도 지명은 옛 도시의 모습을 이야기해 줍니다.\n\n서문시장은 조선시대 장시의 역사를 이어 왔고, 1920년대에 현재의 자리로 옮겨 자리 잡았습니다. 특히 원단과 섬유 관련 상품이 중요한 시장입니다. 옷 한 벌이 완성되기 전의 재료를 파는 가게들을 살펴보면 대구의 섬유 산업과 일상의 장사가 연결되는 모습을 생각해 볼 수 있습니다.\n\n먹거리와 생활용품을 둘러보는 재미도 있지만, 물건을 사고파는 사람들의 공간이라는 점도 기억해 주세요. 통로를 비워 주고 촬영 전에는 가게 주인의 뜻을 확인하면 좋겠습니다. 낮의 상점과 야시장의 운영은 서로 다를 수 있으니, 방문할 시간의 안내는 별도로 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Seomun Market",
+          "url": "https://en.wikipedia.org/wiki/Seomun_Market"
+        },
+        {
+          "title": "한국관광공사: Daegu Seomun Market",
+          "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=233&menuSn=977&vcontsId=87243"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seomun%20Market%20Daegu",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

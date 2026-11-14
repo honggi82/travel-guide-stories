@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-daejeon",
+  "version": 1,
+  "name": {
+    "ko": "대전광역시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "expo-science-park",
+      "name": {
+        "ko": "엑스포과학공원",
+        "en": "Expo Science Park"
+      },
+      "aliases": [
+        "대전 엑스포과학공원",
+        "엑스포 과학공원",
+        "Daejeon Expo Park"
+      ],
+      "city": [
+        "Daejeon",
+        "대전",
+        "대전광역시"
+      ],
+      "lat": 36.377,
+      "lon": 127.385,
+      "scripts": {
+        "ko": "대전 엑스포과학공원에서는 1993년의 박람회를 떠올려 보세요. 이곳은 대전 엑스포를 위해 조성됐던 공간입니다. 과학과 미래를 많은 사람에게 보여 주려 했던 행사의 흔적이 도시의 풍경 속에 이어져 있습니다.\n\n다만 지금의 공원을 당시 박람회장과 똑같은 모습으로 상상하면 곤란합니다. 많은 전시 건물이 철거되거나 자리가 바뀌었고, 한빛탑 등 일부 시설이 남았습니다. 주변에는 연구와 전시, 문화와 상업의 새로운 기능이 들어왔습니다. 한 번의 큰 행사를 치른 장소를 도시가 이후에 어떻게 사용해 왔는지 살펴보는 것도 이곳을 이해하는 방법입니다.\n\n남아 있는 상징과 달라진 주변을 함께 바라보세요. 과거의 미래상이 오늘의 일상 공간으로 바뀌는 이야기를 읽을 수 있습니다. 시설별 입장과 관람 가능 여부는 서로 다르므로, 특정 전시를 기대하고 왔다면 해당 시설의 최신 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Expo Science Park",
+          "url": "https://en.wikipedia.org/wiki/Expo_Science_Park"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Expo%20Science%20Park%20Daejeon",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

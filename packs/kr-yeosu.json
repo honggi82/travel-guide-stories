@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-yeosu",
+  "version": 1,
+  "name": {
+    "ko": "여수시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "jinnamgwan",
+      "name": {
+        "ko": "진남관",
+        "en": "Jinnamgwan Hall"
+      },
+      "aliases": [
+        "여수 진남관",
+        "Jinnamgwan",
+        "鎭南館"
+      ],
+      "city": [
+        "Yeosu",
+        "여수",
+        "여수시"
+      ],
+      "lat": 34.74194,
+      "lon": 127.73667,
+      "scripts": {
+        "ko": "여수 진남관에서는 넓은 지붕을 받치는 기둥의 반복을 바라보세요. 나무 기둥과 지붕이 만드는 큰 공간은 작은 방들이 나뉜 주택과 다른 인상을 줍니다. 진남관은 관리를 맞이하는 객사로 사용됐던 건물입니다.\n\n이 자리의 역사는 전라좌수영과 연결됩니다. 임진왜란 때 이순신이 지휘하던 수군 기지가 있던 곳이며, 진남관은 전쟁이 끝난 뒤인 1599년 처음 지어졌습니다. 그 건물은 뒤에 화재를 겪었고 1718년 다시 세워졌습니다. 이순신의 활동과 관련된 장소의 역사, 그리고 오늘 바라보는 건물의 건립 역사를 구분해 들으면 이야기가 더 분명해집니다.\n\n기둥과 단청, 지붕 아래의 공간을 살펴보며 여러 사람을 맞이하던 건물의 규모를 상상해 보세요. 오래된 목조 건축은 보수와 보존이 필요한 유산입니다. 관람 가능 구역과 내부 출입 여부는 시기에 따라 달라질 수 있으므로 현장의 안내를 확인하고, 허용된 공간에서 감상해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Jinnamgwan",
+          "url": "https://en.wikipedia.org/wiki/Jinnamgwan"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jinnamgwan%20Hall%20Yeosu",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

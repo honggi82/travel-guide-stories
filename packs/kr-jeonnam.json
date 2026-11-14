@@ -1,0 +1,55 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-jeonnam",
+  "version": 1,
+  "name": {
+    "ko": "전라남도"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "suncheon-seonamsa",
+      "name": {
+        "ko": "순천 선암사",
+        "en": "Seonamsa"
+      },
+      "aliases": [
+        "선암사",
+        "조계산 선암사",
+        "Seonamsa Temple",
+        "仙巖寺"
+      ],
+      "city": [
+        "Suncheon",
+        "순천",
+        "순천시",
+        "Jeonnam",
+        "전라남도"
+      ],
+      "lat": 34.996056,
+      "lon": 127.330472,
+      "scripts": {
+        "ko": "순천 선암사에서는 절로 다가가는 길도 관람의 일부로 생각해 보세요. 계곡 위에 반원형 돌다리인 승선교가 놓이고, 그 너머로 강선루와 사찰의 공간이 이어집니다. 전각 하나를 향해 곧장 걷는 것과 물길과 다리를 따라 다가가는 것은 다른 경험입니다.\n\n승선교의 아치와 물 아래의 반영을 바라보면 구조물과 자연이 어울리는 모습을 읽을 수 있습니다. 주변이 혼잡하거나 바위가 젖어 있다면 좋은 사진을 위해 계곡으로 내려가기보다 안전한 관람 지점에서 감상해 주세요.\n\n선암사는 2018년 산사, 한국의 산지승원의 일부로 세계유산에 등재됐습니다. 유네스코가 주목하는 것은 오래된 건물뿐 아니라 신앙과 수행이 이어지는 산지 사찰의 문화입니다. 마당과 전각, 나무와 물길이 어떤 관계를 이루는지 천천히 살펴보세요. 부산에도 같은 이름의 사찰이 있으므로 이동 목적지가 순천의 선암사인지 확인하면 좋겠습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Seonamsa",
+          "url": "https://en.wikipedia.org/wiki/Seonamsa"
+        },
+        {
+          "title": "UNESCO: Sansa, Buddhist Mountain Monasteries in Korea",
+          "url": "https://whc.unesco.org/en/list/1562/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seonamsa%20Suncheon",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-gangneung",
+  "version": 1,
+  "name": {
+    "ko": "강릉시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "ojukheon",
+      "name": {
+        "ko": "오죽헌",
+        "en": "Ojukheon"
+      },
+      "aliases": [
+        "강릉 오죽헌",
+        "Ojukheon House",
+        "烏竹軒"
+      ],
+      "city": [
+        "Gangneung",
+        "강릉",
+        "강릉시"
+      ],
+      "lat": 37.77855944,
+      "lon": 128.87777639,
+      "scripts": {
+        "ko": "강릉 오죽헌에서는 집 주변의 대나무와 건물의 이름을 연결해 보세요. 검은 대나무인 오죽에서 이름을 얻은 집입니다. 신사임당과 율곡 이이가 태어난 곳으로 알려져 있어, 오래된 주거 건축과 인물의 기억을 함께 만날 수 있습니다.\n\n오죽헌은 조선 전기의 주택 건축을 살펴볼 수 있는 중요한 건물입니다. 율곡이 태어난 방은 몽룡실이라고 부릅니다. 신사임당이 용의 꿈을 꾸었다는 이야기가 이름에 담겨 있는데, 이는 탄생과 인물을 기억하는 전승으로 들어 주세요. 실제 건축의 구조를 보는 일과 후대에 전해진 이야기를 듣는 일은 함께할 수 있습니다.\n\n마당과 방의 관계를 보며 이곳이 한때 사람이 살던 집이었다는 사실을 떠올려 보세요. 주변의 사당과 박물관은 인물을 기리는 공간이 더해진 모습도 보여 줍니다. 한 인물의 업적만 외우기보다 집과 가족, 배움의 환경을 생각하며 둘러보면 오죽헌의 이야기가 조금 더 가까워집니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Ojukheon",
+          "url": "https://en.wikipedia.org/wiki/Ojukheon"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ojukheon%20Gangneung",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

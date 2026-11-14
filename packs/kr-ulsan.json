@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-ulsan",
+  "version": 1,
+  "name": {
+    "ko": "울산광역시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "daewangam-park",
+      "name": {
+        "ko": "대왕암공원",
+        "en": "Daewangam Park"
+      },
+      "aliases": [
+        "울산 대왕암공원",
+        "대왕암 공원",
+        "Daewangam Gongwon"
+      ],
+      "city": [
+        "Ulsan",
+        "울산",
+        "울산광역시"
+      ],
+      "lat": 35.4924,
+      "lon": 129.4395,
+      "scripts": {
+        "ko": "울산 대왕암공원에서는 소나무 숲에서 해안으로 이어지는 풍경의 변화를 느껴 보세요. 일산해수욕장 가까운 공원 안으로 들어가면 숲길과 울기등대, 바다 쪽 바위의 풍경이 이어집니다. 나무 사이를 걷다가 열린 수평선을 만나는 경험이 이곳의 매력입니다.\n\n해안 끝의 대왕암에는 신라 문무왕의 왕비가 죽은 뒤 용이 되어 바다를 지켰다는 전설이 전합니다. 이는 바위와 바다를 기억하는 지역의 이야기로 들어 주세요. 경주의 문무대왕릉과 같은 장소라는 뜻은 아닙니다. 전설을 들은 뒤 바위와 파도의 모습을 다시 바라보면 자연 경관에 사람들이 어떤 의미를 담았는지 생각해 볼 수 있습니다.\n\n숲과 등대, 해안의 바위를 한꺼번에 모두 보려고 서두르기보다 걷는 구간을 나누어 쉬어 가세요. 해안 산책로나 연결 시설은 바람과 기상, 점검으로 이용이 제한될 수 있습니다. 바위나 통제선을 넘어 가까이 가기보다 개방된 길에서 감상하고 현장의 안전 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Daewangam Park",
+          "url": "https://en.wikipedia.org/wiki/Daewangam_Park"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daewangam%20Park%20Ulsan",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

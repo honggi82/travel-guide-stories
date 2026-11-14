@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-sokcho",
+  "version": 1,
+  "name": {
+    "ko": "속초시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "seoraksan-national-park",
+      "name": {
+        "ko": "설악산국립공원",
+        "en": "Seoraksan National Park"
+      },
+      "aliases": [
+        "설악산 국립공원",
+        "설악산",
+        "Seoraksan",
+        "Mount Seorak"
+      ],
+      "city": [
+        "Sokcho",
+        "속초",
+        "속초시"
+      ],
+      "lat": 38.16722,
+      "lon": 128.48461,
+      "scripts": {
+        "ko": "설악산에서는 가까운 바위와 멀리 이어진 능선을 번갈아 바라보세요. 가장 높은 대청봉은 해발 1,708미터이며, 산은 속초 한 곳에만 머물지 않고 인제와 양양 등 여러 지역에 걸쳐 있습니다. 어느 입구로 들어오느냐에 따라 만나는 설악의 모습도 달라집니다.\n\n설악산은 크게 내설악, 외설악, 남설악으로 나누어 이야기합니다. 속초 쪽 외설악에는 울산바위와 천불동계곡 등 널리 알려진 경관이 있습니다. 1970년 국립공원으로 지정됐고, 1982년에는 유네스코 생물권보전지역으로 지정됐습니다. 아름다운 경치를 즐기는 일과 생태계를 지키는 일이 함께 필요한 산입니다.\n\n이 해설은 속초 쪽 방문을 위한 산 전체의 소개이며, 참고 좌표는 소공원 부근입니다. 정상이나 모든 탐방로의 출발점을 뜻하지 않습니다. 짧은 관람과 긴 산행은 필요한 준비가 크게 다르므로 목적지와 소요 시간, 날씨와 통제 여부를 먼저 확인하고 공식 탐방 안내에 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Seoraksan",
+          "url": "https://en.wikipedia.org/wiki/Seoraksan"
+        },
+        {
+          "title": "참고 좌표: travel-guide-packs의 설악산 소공원 (공원 전체나 GPS 위치 검증을 대신하지 않음)",
+          "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoraksan%20National%20Park%20Sokcho",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

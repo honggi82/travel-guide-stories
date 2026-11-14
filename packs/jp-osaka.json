@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 2,
+  "id": "jp-osaka",
+  "version": 1,
+  "name": {
+    "ko": "오사카"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "osaka-castle",
+      "name": {
+        "ko": "오사카성",
+        "en": "Osaka Castle"
+      },
+      "aliases": [
+        "오사카 성",
+        "大阪城",
+        "Osaka-jo"
+      ],
+      "city": [
+        "Osaka",
+        "大阪",
+        "오사카"
+      ],
+      "lat": 34.68722,
+      "lon": 135.52583,
+      "scripts": {
+        "ko": "오사카성의 천수각을 바라보며 먼저 한 가지를 기억해 두세요. 이 성의 시작과 지금 눈앞에 있는 천수각의 나이는 같지 않습니다. 오래된 장소를 여행할 때에는 건물이 세워진 시대와 다시 세워진 시대를 구분하면 이야기가 더 선명해집니다.\n\n오사카성의 건설은 도요토미 히데요시가 1583년에 시작했습니다. 그러나 지금의 천수각은 1931년에 철근콘크리트로 재건된 것입니다. 이후에도 복원과 정비가 이어졌고 내부는 박물관으로 사용됩니다. 그러니 현재의 건물을 16세기 목조 건축이 그대로 남은 모습이라고 생각하지는 않는 것이 좋습니다.\n\n해자와 성벽, 높이 솟은 천수각을 차례로 보며 이곳이 어떻게 권력을 드러내는 공간이었을지 떠올려 보세요. 동시에 오늘의 오사카 사람들이 과거의 상징을 어떻게 다시 세우고 기억해 왔는지도 생각해 볼 수 있습니다. 이 성에는 옛 지배자의 역사와 도시의 복원 역사가 함께 남아 있습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Osaka Castle",
+          "url": "https://en.wikipedia.org/wiki/Osaka_Castle"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/%E5%A4%A7%E9%98%AA%E5%9F%8E"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/%E5%A4%A7%E9%98%AA%E5%9F%8E",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

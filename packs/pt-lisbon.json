@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "id": "pt-lisbon",
+  "version": 1,
+  "name": {
+    "ko": "리스본"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "belem-tower",
+      "name": {
+        "ko": "벨렝탑",
+        "en": "Belém Tower"
+      },
+      "aliases": [
+        "벨렝 탑",
+        "벨렘탑",
+        "벨렘 탑",
+        "Torre de Belém",
+        "Belem Tower"
+      ],
+      "city": [
+        "Lisbon",
+        "Lisboa",
+        "리스본"
+      ],
+      "lat": 38.69167,
+      "lon": -9.21611,
+      "scripts": {
+        "ko": "리스본의 벨렝탑 앞에서는 탑과 테주강을 함께 바라보세요. 섬세한 장식 때문에 작은 궁전처럼 느껴질 수 있지만, 이 건물은 원래 물길을 지키는 16세기의 방어 시설이었습니다. 아름다운 모습과 군사적인 쓰임이 한 건물에 겹쳐 있습니다.\n\n공사는 16세기 초에 시작되어 1519년에 완성됐습니다. 프란시스쿠 드 아후다가 설계했으며, 리스본 지역에서 나는 석회암이 사용됐습니다. 아래쪽의 보루와 그 위로 솟은 여러 층의 탑을 구분해 보면 건물의 두 부분이 서로 다른 인상을 주는 것을 알 수 있습니다.\n\n이곳은 항해자들이 드나들던 길목이자 도시의 의례적인 관문으로 기억됩니다. 바다를 향한 포르투갈의 확장과 권력을 상징하는 장소이기도 하지요. 장식을 감상할 때에는 그 뒤에 놓인 방어와 항해의 역사도 함께 떠올려 보세요. 벨렝탑은 제로니무스 수도원과 함께 세계유산으로 등재되어 있습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Belém Tower",
+          "url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Tower%20Lisbon",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "kr-busan",
+  "version": 1,
+  "name": {
+    "ko": "부산광역시"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "beomeosa",
+      "name": {
+        "ko": "범어사",
+        "en": "Beomeosa"
+      },
+      "aliases": [
+        "금정산 범어사",
+        "Beomeosa Temple",
+        "梵魚寺"
+      ],
+      "city": [
+        "Busan",
+        "부산",
+        "부산광역시"
+      ],
+      "lat": 35.28389,
+      "lon": 129.06806,
+      "scripts": {
+        "ko": "부산 금정산 기슭의 범어사에서는 이름부터 하나의 이야기가 시작됩니다. 하늘에서 내려온 금빛 물고기가 산의 샘에 살았다는 전설이 절의 이름과 연결되어 있습니다. 이것은 실제 생물을 관찰한 기록이 아니라, 산과 절을 사람들이 어떤 신성한 공간으로 기억했는지 보여 주는 전승입니다.\n\n범어사는 신라 시대인 678년에 세워진 사찰로 알려져 있습니다. 다만 오래된 창건 연도가 지금 보는 모든 건물의 나이를 뜻하는 것은 아닙니다. 임진왜란 때 큰 피해를 입었고, 1613년 무렵 전각과 생활 공간을 다시 정비하는 일이 이어졌습니다.\n\n그래서 이 절을 걸을 때에는 처음 세운 사람들뿐 아니라 다시 일으켜 세운 사람들의 시간도 함께 떠올려 보세요. 범어사는 조계종의 수행 공간이기도 하므로 관광객의 길과 수행자의 일상이 만납니다. 조용히 머무르며 기도하는 사람의 동선을 비워 주면, 건물 사이의 풍경과 산사의 분위기를 좀 더 차분하게 느낄 수 있습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Beomeosa",
+          "url": "https://en.wikipedia.org/wiki/Beomeosa"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beomeosa%20Busan",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -65,6 +65,40 @@
       ]
     },
     {
+      "id": "ch-switzerland",
+      "name": {
+        "ko": "스위스"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2232,
+      "sha256": "e56b7eded1975fc60b6efbe7df5d6fd92c57110f668feb0fb05bc3ba7b1af98b",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ch-switzerland.json",
+      "places": [
+        {
+          "id": "chillon-castle",
+          "name": {
+            "ko": "시옹성",
+            "en": "Chillon Castle"
+          },
+          "aliases": [
+            "시옹 성",
+            "샤토 드 시옹",
+            "Château de Chillon"
+          ],
+          "city": [
+            "Montreux",
+            "Veytaux",
+            "몽트뢰",
+            "Switzerland",
+            "스위스"
+          ],
+          "lat": 46.41417,
+          "lon": 6.9275
+        }
+      ]
+    },
+    {
       "id": "cn-beijing",
       "name": {
         "ko": "베이징"
@@ -358,6 +392,38 @@
       ]
     },
     {
+      "id": "jp-osaka",
+      "name": {
+        "ko": "오사카"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2323,
+      "sha256": "75c0855d21f02f410b670f6fa55d5354cf1072bebf1d5ab5146902e2c28450ce",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-osaka.json",
+      "places": [
+        {
+          "id": "osaka-castle",
+          "name": {
+            "ko": "오사카성",
+            "en": "Osaka Castle"
+          },
+          "aliases": [
+            "오사카 성",
+            "大阪城",
+            "Osaka-jo"
+          ],
+          "city": [
+            "Osaka",
+            "大阪",
+            "오사카"
+          ],
+          "lat": 34.68722,
+          "lon": 135.52583
+        }
+      ]
+    },
+    {
       "id": "jp-tokyo",
       "name": {
         "ko": "도쿄"
@@ -388,6 +454,38 @@
           ],
           "lat": 35.71472,
           "lon": 139.79675
+        }
+      ]
+    },
+    {
+      "id": "kr-busan",
+      "name": {
+        "ko": "부산광역시"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2189,
+      "sha256": "4af07226c9b9ae5f1a14d751f03f1358d8c44c20342d12eaba870334cb785728",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-busan.json",
+      "places": [
+        {
+          "id": "beomeosa",
+          "name": {
+            "ko": "범어사",
+            "en": "Beomeosa"
+          },
+          "aliases": [
+            "금정산 범어사",
+            "Beomeosa Temple",
+            "梵魚寺"
+          ],
+          "city": [
+            "Busan",
+            "부산",
+            "부산광역시"
+          ],
+          "lat": 35.28389,
+          "lon": 129.06806
         }
       ]
     },
@@ -449,6 +547,40 @@
           ],
           "lat": 37.579884,
           "lon": 126.9768
+        }
+      ]
+    },
+    {
+      "id": "pt-lisbon",
+      "name": {
+        "ko": "리스본"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2166,
+      "sha256": "f18677368fd7620abc0a92a57c864c6b941ffe2a6f8551b3e4469dc7de0b384a",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/pt-lisbon.json",
+      "places": [
+        {
+          "id": "belem-tower",
+          "name": {
+            "ko": "벨렝탑",
+            "en": "Belém Tower"
+          },
+          "aliases": [
+            "벨렝 탑",
+            "벨렘탑",
+            "벨렘 탑",
+            "Torre de Belém",
+            "Belem Tower"
+          ],
+          "city": [
+            "Lisbon",
+            "Lisboa",
+            "리스본"
+          ],
+          "lat": 38.69167,
+          "lon": -9.21611
         }
       ]
     },

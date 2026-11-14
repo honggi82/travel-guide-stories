@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 2,
+  "id": "ch-switzerland",
+  "version": 1,
+  "name": {
+    "ko": "스위스"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "chillon-castle",
+      "name": {
+        "ko": "시옹성",
+        "en": "Chillon Castle"
+      },
+      "aliases": [
+        "시옹 성",
+        "샤토 드 시옹",
+        "Château de Chillon"
+      ],
+      "city": [
+        "Montreux",
+        "Veytaux",
+        "몽트뢰",
+        "Switzerland",
+        "스위스"
+      ],
+      "lat": 46.41417,
+      "lon": 6.9275,
+      "scripts": {
+        "ko": "레만호의 물가에서 시옹성을 바라보면 성이 호수 위에 떠 있는 듯 보입니다. 실제로는 호수 쪽으로 나온 작은 석회암 바위섬 위에 세워진 성이지요. 몽트뢰와 빌뇌브 사이의 좁은 길목을 지키는 자리였다는 사실을 알고 보면, 아름다운 위치가 곧 전략적인 위치였음을 이해하게 됩니다.\n\n이 성은 사보이 가문의 거처였지만 감옥으로도 쓰였습니다. 프랑수아 보니바르는 1530년부터 여섯 해 동안 이곳에 갇혔고, 1536년 베른 군대가 성을 점령했을 때 풀려났습니다. 바깥의 탁 트인 호수와 갇힌 사람의 시간을 함께 떠올리면 같은 성이 전혀 다른 공간으로 느껴집니다.\n\n1816년 이곳을 방문한 바이런도 보니바르의 이야기에서 영감을 받아 시옹의 죄수라는 시를 썼습니다. 지금 우리가 보는 성에는 중세의 권력과 한 죄수의 기억, 후대의 문학이 겹쳐 있는 셈입니다. 호숫가의 풍경을 감상한 뒤 성 안에서는 그런 서로 다른 시간을 찾아보세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Chillon Castle",
+          "url": "https://en.wikipedia.org/wiki/Chillon_Castle"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chillon%20Castle%20Montreux",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

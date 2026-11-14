@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "es-barcelona",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "바르셀로나"
   },
@@ -38,6 +38,39 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagrada%20Fam%C3%ADlia%20Barcelona",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "park-guell",
+      "name": {
+        "ko": "구엘 공원",
+        "en": "Park Güell"
+      },
+      "aliases": [
+        "구엘공원",
+        "Parc Güell",
+        "Park Guell"
+      ],
+      "city": [
+        "Barcelona",
+        "바르셀로나"
+      ],
+      "lat": 41.41361,
+      "lon": 2.15278,
+      "scripts": {
+        "ko": "바르셀로나의 구엘 공원에서는 길을 걷는 일부터 건축 감상이 됩니다. 건물 한 채를 정면에서 바라보는 대신 계단과 테라스, 굽이치는 형태를 따라 시선이 움직이지요. 눈앞의 공원을 자연 속에 놓인 건축의 실험이라고 생각해 보세요.\n\n에우세비 구엘은 안토니 가우디에게 이 공간의 설계를 맡겼습니다. 1900년부터 1914년까지 조성 작업이 이어졌고, 1926년에는 대중에게 공개됐습니다. 처음에는 고급 주거단지를 구상했지만 그 계획이 그대로 이루어지지는 않았습니다. 그래서 오늘의 공원에는 처음의 꿈과 이후의 쓰임이 겹쳐 있습니다.\n\n곡선으로 이어지는 벤치를 보며, 딱딱한 재료로 부드러운 윤곽을 만든다는 것이 어떤 일인지 살펴보세요. 가우디가 자연의 형태에서 구조와 표현을 탐구했다는 사실을 떠올리면 풍경이 조금 다르게 보일 겁니다. 구엘 공원은 가우디 작품군의 일부로 세계유산에 포함됩니다. 관람 구역과 입장 조건은 바뀔 수 있으니 오늘의 공식 안내를 확인하며 걸어 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Park Güell",
+          "url": "https://en.wikipedia.org/wiki/Park_G%C3%BCell"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park+Guell+Barcelona",
       "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

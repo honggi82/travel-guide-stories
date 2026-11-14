@@ -98,36 +98,6 @@
       ]
     },
     {
-      "id": "es-barcelona",
-      "name": {
-        "ko": "바르셀로나"
-      },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2265,
-      "sha256": "121d09abf7d3b0970ef01d365788dd92103cea830bd96ff1d21fe62b94eb6b89",
-      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
-      "places": [
-        {
-          "id": "sagrada-familia",
-          "name": {
-            "ko": "사그라다 파밀리아",
-            "en": "Sagrada Família"
-          },
-          "aliases": [
-            "사그라다 파밀리아 성당",
-            "Sagrada Familia"
-          ],
-          "city": [
-            "Barcelona",
-            "바르셀로나"
-          ],
-          "lat": 41.4036,
-          "lon": 2.1744
-        }
-      ]
-    },
-    {
       "id": "fr-paris",
       "name": {
         "ko": "파리"
@@ -363,6 +333,54 @@
           ],
           "lat": 40.6892,
           "lon": -74.0445
+        }
+      ]
+    },
+    {
+      "id": "es-barcelona",
+      "name": {
+        "ko": "바르셀로나"
+      },
+      "version": 2,
+      "placeCount": 2,
+      "sizeBytes": 4257,
+      "sha256": "6d519d5276bc0e10033ecf6bf317968555aa5624b7da769b0b400a15f3c6593c",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
+      "places": [
+        {
+          "id": "sagrada-familia",
+          "name": {
+            "ko": "사그라다 파밀리아",
+            "en": "Sagrada Família"
+          },
+          "aliases": [
+            "사그라다 파밀리아 성당",
+            "Sagrada Familia"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.4036,
+          "lon": 2.1744
+        },
+        {
+          "id": "park-guell",
+          "name": {
+            "ko": "구엘 공원",
+            "en": "Park Güell"
+          },
+          "aliases": [
+            "구엘공원",
+            "Parc Güell",
+            "Park Guell"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.41361,
+          "lon": 2.15278
         }
       ]
     }

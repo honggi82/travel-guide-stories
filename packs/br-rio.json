@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "br-rio",
+  "version": 1,
+  "name": {
+    "ko": "리우데자네이루"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "christ-the-redeemer",
+      "name": {
+        "ko": "구세주 그리스도상",
+        "en": "Christ the Redeemer"
+      },
+      "aliases": [
+        "리우 예수상",
+        "코르코바두 예수상",
+        "Cristo Redentor"
+      ],
+      "city": [
+        "Rio de Janeiro",
+        "Rio",
+        "리우데자네이루"
+      ],
+      "lat": -22.95194,
+      "lon": -43.21056,
+      "scripts": {
+        "ko": "리우데자네이루의 구세주 그리스도상은 도시를 향해 두 팔을 벌린 모습으로 서 있습니다. 조각상만 바라본 뒤에는 잠시 주변 풍경으로 시선을 돌려 보세요. 높은 산 위에 놓였기 때문에 조각과 도시, 산의 관계를 함께 느끼게 됩니다.\n\n코르코바두산 정상의 이 상은 1922년부터 1931년까지 건설됐고 1931년 10월 12일 봉헌됐습니다. 받침대를 제외한 상의 높이는 약 30미터이며, 펼친 팔의 폭은 약 28미터입니다. 철근콘크리트 구조 위에 동석을 사용한 표면이 더해져 있습니다.\n\n멀리서는 단순한 실루엣으로 보이지만 가까이에서는 큰 형태를 완성한 재료와 기술도 생각해 볼 수 있습니다. 신앙의 상징이면서 한 도시를 떠올리게 하는 문화적 표지가 되었다는 점도 이 장소의 특징이지요. 방문 당일의 날씨와 공개 여부, 이동편은 공식 안내를 확인해 주세요. 이 해설은 지금 전망이 열려 있거나 교통편이 운행 중임을 뜻하지 않습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Christ the Redeemer (statue)",
+          "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_%28statue%29"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christ%20the%20Redeemer%20Rio%20de%20Janeiro",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

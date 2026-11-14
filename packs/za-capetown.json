@@ -1,0 +1,46 @@
+{
+  "schemaVersion": 2,
+  "id": "za-capetown",
+  "version": 1,
+  "name": {
+    "ko": "케이프타운"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "table-mountain",
+      "name": {
+        "ko": "테이블 마운틴",
+        "en": "Table Mountain"
+      },
+      "aliases": [
+        "테이블마운틴",
+        "Tafelberg"
+      ],
+      "city": [
+        "Cape Town",
+        "케이프타운"
+      ],
+      "lat": -33.96218,
+      "lon": 18.409883,
+      "scripts": {
+        "ko": "케이프타운의 테이블 마운틴을 바라보며 산 위쪽의 평평한 윤곽에 주목해 보세요. 이름처럼 긴 탁자를 떠올리게 하는 고원이 도시 뒤편의 풍경을 만듭니다. 봉우리 하나가 솟은 산과는 다른 모습을 하고 있지요.\n\n정상의 주된 고원은 옆으로 약 3킬로미터에 걸쳐 이어지며 가파른 절벽으로 둘러싸여 있습니다. 가장 높은 지점인 매클리어스 비컨은 해발 약 1,086미터입니다. 산이 만드는 넓은 윤곽을 보고 난 뒤 세부 지형을 살펴보면, 멀리서 평평하게 보이던 풍경에도 높낮이가 있다는 사실을 알 수 있습니다.\n\n때로는 정상에 구름이 덮여 탁자보 같은 모습이 나타납니다. 산을 타고 올라온 공기가 차가워지며 생기는 구름과 연결된 풍경입니다. 자연의 모습은 늘 같지 않으므로 방문하는 날의 시야와 이동 조건은 달라질 수 있습니다. 이 이야기는 등산 경로나 현재 기상 상태를 안내하는 자료가 아닙니다. 관람과 이동은 당일 공식 안내에 맞춰 결정해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Table Mountain",
+          "url": "https://en.wikipedia.org/wiki/Table_Mountain"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Table%20Mountain%20Cape%20Town",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

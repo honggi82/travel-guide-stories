@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 2,
+  "id": "cn-beijing",
+  "version": 1,
+  "name": {
+    "ko": "베이징"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "forbidden-city",
+      "name": {
+        "ko": "자금성",
+        "en": "Forbidden City"
+      },
+      "aliases": [
+        "고궁박물원",
+        "故宫",
+        "Palace Museum"
+      ],
+      "city": [
+        "Beijing",
+        "北京",
+        "베이징"
+      ],
+      "lat": 39.91583,
+      "lon": 116.39083,
+      "scripts": {
+        "ko": "베이징의 자금성에서는 문과 마당이 이어지는 방향을 먼저 살펴보세요. 하나의 큰 궁전처럼 보이지만, 실제로는 여러 건물과 공간이 모인 궁궐 단지입니다. 문 하나를 지나면 또 다른 마당이 나타나는 구성을 보며, 누구나 쉽게 드나들 수 없던 중심 공간을 상상해 보시면 좋겠습니다.\n\n자금성은 명나라 시대인 1406년부터 1420년 사이에 세워졌습니다. 이후 명과 청의 황제들이 이곳을 거처이자 정치의 중심으로 사용했습니다. 왕조가 바뀌어도 궁궐이라는 공간은 새 지배자의 생활과 의례를 담으며 이어졌지요.\n\n1925년부터는 고궁박물원의 관리 아래 궁궐과 소장품을 만나는 장소가 되었습니다. 오늘 여행자가 걸어가는 마당은 한때 권력의 중심을 향하던 길이었던 셈입니다. 모든 건물을 한 번에 보려 서두르기보다, 문을 통과할 때 시야가 어떻게 달라지는지 살펴보세요. 공개 구역과 예약 조건은 현재의 공식 안내를 확인하셔야 합니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Forbidden City",
+          "url": "https://en.wikipedia.org/wiki/Forbidden_City"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20City%20Beijing",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schemaVersion": 2,
+  "id": "jp-tokyo",
+  "version": 1,
+  "name": {
+    "ko": "도쿄"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "sensoji",
+      "name": {
+        "ko": "센소지",
+        "en": "Sensō-ji"
+      },
+      "aliases": [
+        "센소사",
+        "아사쿠사 센소지",
+        "Sensoji",
+        "Senso-ji",
+        "浅草寺"
+      ],
+      "city": [
+        "Tokyo",
+        "東京",
+        "도쿄"
+      ],
+      "lat": 35.71472,
+      "lon": 139.79675,
+      "scripts": {
+        "ko": "도쿄 아사쿠사의 센소지에서는 주변 거리의 활기와 절 안의 분위기를 함께 느껴 보세요. 같은 공간을 찾아오는 사람 가운데는 여행자도 있고 기도하러 온 사람도 있습니다. 그 서로 다른 걸음이 만나는 곳이라는 생각으로 천천히 둘러보시면 좋겠습니다.\n\n센소지는 관음 신앙과 연결된 오래된 사찰입니다. 645년의 절 정비와 불상에 관한 이야기가 전해지지만, 신앙의 전승을 오늘 우리가 직접 확인한 사건처럼 받아들이지는 않는 것이 좋습니다. 오랜 세월 사람들이 어떤 존재에 마음을 의지해 왔는지 보여 주는 이야기로 들어 보세요.\n\n지도에서 이 절의 이름은 일본어로 아사쿠사데라를 뜻하는 글자와 함께 표시됩니다. 익숙한 관광지의 이름 뒤에 신앙의 시간이 쌓여 있는 셈이지요. 기도하는 사람의 동선을 비워 주고 촬영 제한과 출입 안내를 따라 감상해 주세요. 입구에서 본 모습과 안쪽에서 돌아보는 풍경을 비교하면 같은 절에서도 새로운 장면을 발견할 수 있습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sensō-ji",
+          "url": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Sensoji%20Temple%20Asakusa%20Tokyo"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Sensoji%20Temple%20Asakusa%20Tokyo",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

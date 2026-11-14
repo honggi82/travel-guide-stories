@@ -33,6 +33,70 @@
       ]
     },
     {
+      "id": "br-rio",
+      "name": {
+        "ko": "리우데자네이루"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2284,
+      "sha256": "0fb78e1f15685d89ea3fbcfd439635695c252a99f44181b353417f179b2e19ef",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/br-rio.json",
+      "places": [
+        {
+          "id": "christ-the-redeemer",
+          "name": {
+            "ko": "구세주 그리스도상",
+            "en": "Christ the Redeemer"
+          },
+          "aliases": [
+            "리우 예수상",
+            "코르코바두 예수상",
+            "Cristo Redentor"
+          ],
+          "city": [
+            "Rio de Janeiro",
+            "Rio",
+            "리우데자네이루"
+          ],
+          "lat": -22.95194,
+          "lon": -43.21056
+        }
+      ]
+    },
+    {
+      "id": "cn-beijing",
+      "name": {
+        "ko": "베이징"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2175,
+      "sha256": "6d161190dcfa27a6910da729b909b0e1e6901af10f19952cb41aa9a8925aa20a",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cn-beijing.json",
+      "places": [
+        {
+          "id": "forbidden-city",
+          "name": {
+            "ko": "자금성",
+            "en": "Forbidden City"
+          },
+          "aliases": [
+            "고궁박물원",
+            "故宫",
+            "Palace Museum"
+          ],
+          "city": [
+            "Beijing",
+            "北京",
+            "베이징"
+          ],
+          "lat": 39.91583,
+          "lon": 116.39083
+        }
+      ]
+    },
+    {
       "id": "cz-prague",
       "name": {
         "ko": "프라하"
@@ -94,6 +158,54 @@
           ],
           "lat": 29.9792,
           "lon": 31.1342
+        }
+      ]
+    },
+    {
+      "id": "es-barcelona",
+      "name": {
+        "ko": "바르셀로나"
+      },
+      "version": 2,
+      "placeCount": 2,
+      "sizeBytes": 4257,
+      "sha256": "6d519d5276bc0e10033ecf6bf317968555aa5624b7da769b0b400a15f3c6593c",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
+      "places": [
+        {
+          "id": "sagrada-familia",
+          "name": {
+            "ko": "사그라다 파밀리아",
+            "en": "Sagrada Família"
+          },
+          "aliases": [
+            "사그라다 파밀리아 성당",
+            "Sagrada Familia"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.4036,
+          "lon": 2.1744
+        },
+        {
+          "id": "park-guell",
+          "name": {
+            "ko": "구엘 공원",
+            "en": "Park Güell"
+          },
+          "aliases": [
+            "구엘공원",
+            "Parc Güell",
+            "Park Guell"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.41361,
+          "lon": 2.15278
         }
       ]
     },
@@ -246,6 +358,40 @@
       ]
     },
     {
+      "id": "jp-tokyo",
+      "name": {
+        "ko": "도쿄"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2421,
+      "sha256": "1bc731867ce9398e87a8e8e3dc1865e0dc991450849642d03927445c0c6cb074",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-tokyo.json",
+      "places": [
+        {
+          "id": "sensoji",
+          "name": {
+            "ko": "센소지",
+            "en": "Sensō-ji"
+          },
+          "aliases": [
+            "센소사",
+            "아사쿠사 센소지",
+            "Sensoji",
+            "Senso-ji",
+            "浅草寺"
+          ],
+          "city": [
+            "Tokyo",
+            "東京",
+            "도쿄"
+          ],
+          "lat": 35.71472,
+          "lon": 139.79675
+        }
+      ]
+    },
+    {
       "id": "kr-gwangju",
       "name": {
         "ko": "광주광역시"
@@ -337,50 +483,32 @@
       ]
     },
     {
-      "id": "es-barcelona",
+      "id": "za-capetown",
       "name": {
-        "ko": "바르셀로나"
+        "ko": "케이프타운"
       },
-      "version": 2,
-      "placeCount": 2,
-      "sizeBytes": 4257,
-      "sha256": "6d519d5276bc0e10033ecf6bf317968555aa5624b7da769b0b400a15f3c6593c",
-      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 2196,
+      "sha256": "54fdd332cf065013186836e6a54797c62f04b3567c834ba55d13f8c760d41113",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/za-capetown.json",
       "places": [
         {
-          "id": "sagrada-familia",
+          "id": "table-mountain",
           "name": {
-            "ko": "사그라다 파밀리아",
-            "en": "Sagrada Família"
+            "ko": "테이블 마운틴",
+            "en": "Table Mountain"
           },
           "aliases": [
-            "사그라다 파밀리아 성당",
-            "Sagrada Familia"
+            "테이블마운틴",
+            "Tafelberg"
           ],
           "city": [
-            "Barcelona",
-            "바르셀로나"
+            "Cape Town",
+            "케이프타운"
           ],
-          "lat": 41.4036,
-          "lon": 2.1744
-        },
-        {
-          "id": "park-guell",
-          "name": {
-            "ko": "구엘 공원",
-            "en": "Park Güell"
-          },
-          "aliases": [
-            "구엘공원",
-            "Parc Güell",
-            "Park Guell"
-          ],
-          "city": [
-            "Barcelona",
-            "바르셀로나"
-          ],
-          "lat": 41.41361,
-          "lon": 2.15278
+          "lat": -33.96218,
+          "lon": 18.409883
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-sokcho",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "속초시"
   },
@@ -45,6 +45,150 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoraksan%20National%20Park%20Sokcho",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "sokcho-beach",
+      "name": {
+        "ko": "속초해수욕장",
+        "en": "Sokcho Beach"
+      },
+      "aliases": [
+        "속초 해수욕장",
+        "속초해변",
+        "속초 해변"
+      ],
+      "city": [
+        "Sokcho",
+        "속초"
+      ],
+      "lat": 38.19069,
+      "lon": 128.60369,
+      "scripts": {
+        "ko": "속초해수욕장에서는 도시의 길이 모래사장과 바다로 이어지는 모습을 느껴 보세요. 산을 중심으로 속초를 여행했다면 해변에서는 같은 도시의 다른 면을 만나게 됩니다. 수평선을 바라본 뒤 뒤쪽의 건물과 보행 공간도 함께 살펴보면 좋겠습니다.\n\n조양동에 있는 속초해수욕장은 1976년에 처음 개장했습니다. 남쪽으로는 외옹치해수욕장과 이어지지만 각각의 장소 이름과 구역은 구분해야 합니다. 지도에서 속초라는 도시 전체를 선택한 것인지 이 해변을 선택한 것인지 확인하면 일정을 정확히 남기기 쉽습니다.\n\n모래사장과 그 뒤의 길에서 각각 풍경을 바라보세요. 바다를 즐기는 방식은 걷거나 쉬거나 물에 들어가는 것처럼 서로 다르며 이용 조건도 같지 않습니다. 이 해설은 당일 입수 가능 여부를 알려 주지 않습니다. 기존 지역 목록의 참고 좌표가 안전한 입수 지점을 뜻하지는 않으므로 인명구조 안내와 현장 표지, 현재의 해상 상황을 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: 속초해수욕장",
+          "url": "https://ko.wikipedia.org/wiki/%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5"
+        },
+        {
+          "title": "Reference coordinates: travel-guide-packs Sokcho catalog",
+          "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sokcho%20Beach%20Sokcho",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "abai-village",
+      "name": {
+        "ko": "아바이마을",
+        "en": "Abai Village"
+      },
+      "aliases": [
+        "아바이 마을",
+        "속초 아바이마을",
+        "아바이촌"
+      ],
+      "city": [
+        "Sokcho",
+        "속초"
+      ],
+      "lat": 38.200607,
+      "lon": 128.5947547,
+      "scripts": {
+        "ko": "아바이마을에서는 음식과 바닷가 풍경에 더해 이곳에 사람들이 정착한 이유를 생각해 보세요. 속초 청호동의 마을에는 한국전쟁 때 함경도에서 내려온 실향민들의 삶이 이어져 있습니다. 여행지의 활기 속에도 고향으로 돌아가지 못한 사람들의 기억이 담겨 있습니다.\n\n마을 이름에 쓰인 아바이는 함경도 방언과 연결됩니다. 이곳은 관광을 위해 처음 만든 마을이 아니라 피란과 정착의 역사를 가진 생활 공간입니다. 골목과 집, 가게를 볼 때 그 안에서 일상을 이어 온 사람들을 함께 떠올리면 풍경의 의미가 달라집니다.\n\n마을과 주변을 잇는 갯배도 장소의 이동 역사를 보여 주는 요소입니다. 다만 과거의 교통 방식과 오늘의 운항 조건은 구분해야 합니다. 현재의 탑승 위치와 운행 여부는 현장에서 확인해 주세요. 공개된 길을 이용하고 주거 공간과 영업 공간의 경계를 존중하며, 참고 좌표를 배의 승차장이나 모든 골목의 출입구로 단정하지 말아 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: 아바이마을",
+          "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B0%94%EC%9D%B4%EB%A7%88%EC%9D%84"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abai%20Village%20Sokcho",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "sinheungsa-sokcho",
+      "name": {
+        "ko": "설악산 신흥사",
+        "en": "Sinheungsa"
+      },
+      "aliases": [
+        "속초 신흥사",
+        "신흥사",
+        "Sinheungsa Temple",
+        "Shinheungsa"
+      ],
+      "city": [
+        "Sokcho",
+        "속초"
+      ],
+      "lat": 38.175376,
+      "lon": 128.484703,
+      "scripts": {
+        "ko": "설악산 신흥사에서는 산을 찾는 발걸음과 사찰을 방문하는 발걸음이 만납니다. 속초의 설악산 기슭에 자리한 조계종 사찰입니다. 산의 풍경을 감상하다가 전각과 마당으로 시선을 옮기면 자연 안에 놓인 종교 공간을 경험하게 됩니다.\n\n신흥사는 조계종의 본사 사찰 가운데 하나입니다. 관광 동선에 놓인 명소이면서 신앙과 수행이 이어지는 공간이라는 점을 기억하면 좋겠습니다. 전각을 한 채씩 보는 관람뿐 아니라 건물과 문, 산의 배경이 서로 어떤 관계를 이루는지 살펴보세요.\n\n사찰 주변을 걷는 일과 설악산의 개별 탐방로를 이용하는 일은 구분해야 합니다. 사찰의 참고 위치를 향해 산길을 임의로 가로지르거나 통제 구역으로 들어가지 말아 주세요. 다른 지역에도 신흥사라는 이름의 사찰이 있으므로 속초 설악산의 장소인지 확인해야 합니다. 예불과 기도하는 사람을 존중하고 사진 촬영·전각 출입·탐방로 운영은 당일의 현장 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sinheungsa",
+          "url": "https://en.wikipedia.org/wiki/Sinheungsa"
+        },
+        {
+          "title": "Reference coordinates: travel-guide-packs Sokcho catalog",
+          "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinheungsa%20Sokcho",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "yeongnangho-lake",
+      "name": {
+        "ko": "영랑호",
+        "en": "Yeongnangho Lake"
+      },
+      "aliases": [
+        "영랑 호수",
+        "Yeongnangho"
+      ],
+      "city": [
+        "Sokcho",
+        "속초"
+      ],
+      "lat": 38.21648,
+      "lon": 128.57981,
+      "scripts": {
+        "ko": "영랑호에서는 바다를 바라볼 때와 다른 물의 풍경을 만나게 됩니다. 속초 시내의 여러 동에 걸쳐 있는 석호로, 넓은 수면과 그 주변의 육지가 함께 하나의 경관을 이룹니다. 물 건너편과 가까운 가장자리를 번갈아 보면 공간의 크기가 느껴집니다.\n\n이름에는 신라 화랑 영랑과 관련된 전승이 연결됩니다. 이런 이야기는 사람들이 호수를 어떻게 기억해 왔는지 보여 주지만 지형이 형성된 과정을 설명하는 과학적 기록과는 구분해야 합니다. 같은 속초의 청초호와도 다른 호수이므로 지도에서 이름과 위치를 확인하는 것이 좋겠습니다.\n\n허용된 보행 공간에서 수면과 주변 지형의 관계를 천천히 살펴보세요. 현재의 산책 동선이나 개별 시설의 공개 여부는 운영 상황에 따라 달라질 수 있습니다. 기존 지역 목록에서 가져온 참고 좌표는 호수의 한 지점이며 물 위로 이동하라는 안내가 아닙니다. 현장의 보행로와 보호 구역, 당일 통제 표지를 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: 영랑호",
+          "url": "https://ko.wikipedia.org/wiki/%EC%98%81%EB%9E%91%ED%98%B8"
+        },
+        {
+          "title": "Reference coordinates: travel-guide-packs Sokcho catalog",
+          "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yeongnangho%20Lake%20Sokcho",
       "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

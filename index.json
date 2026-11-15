@@ -2273,10 +2273,10 @@
       "name": {
         "ko": "부산광역시"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2189,
-      "sha256": "4af07226c9b9ae5f1a14d751f03f1358d8c44c20342d12eaba870334cb785728",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 10669,
+      "sha256": "b60882aeb01d02289b769e133d8273ced0ac36cea35fd88a88202ac4e1c2e44f",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-busan.json",
       "places": [
         {
@@ -2297,6 +2297,77 @@
           ],
           "lat": 35.28389,
           "lon": 129.06806
+        },
+        {
+          "id": "gamcheon-culture-village",
+          "name": {
+            "ko": "감천문화마을",
+            "en": "Gamcheon Culture Village"
+          },
+          "aliases": [
+            "감천 문화마을",
+            "부산 감천문화마을"
+          ],
+          "city": [
+            "Busan",
+            "부산"
+          ],
+          "lat": 35.097,
+          "lon": 129.009
+        },
+        {
+          "id": "haeundae-beach",
+          "name": {
+            "ko": "해운대해수욕장",
+            "en": "Haeundae Beach"
+          },
+          "aliases": [
+            "해운대 해수욕장",
+            "해운대 해변",
+            "해운대해변"
+          ],
+          "city": [
+            "Busan",
+            "부산"
+          ],
+          "lat": 35.15855,
+          "lon": 129.16053
+        },
+        {
+          "id": "gwangalli-beach",
+          "name": {
+            "ko": "광안리해수욕장",
+            "en": "Gwangalli Beach"
+          },
+          "aliases": [
+            "광안리 해수욕장",
+            "광안리 해변",
+            "광안리해변",
+            "Gwangan Beach"
+          ],
+          "city": [
+            "Busan",
+            "부산"
+          ],
+          "lat": 35.15416667,
+          "lon": 129.12055556
+        },
+        {
+          "id": "taejongdae",
+          "name": {
+            "ko": "태종대",
+            "en": "Taejongdae"
+          },
+          "aliases": [
+            "태종대 유원지",
+            "태종대유원지"
+          ],
+          "city": [
+            "Busan",
+            "부산"
+          ],
+          "lat": 35.05,
+          "lon": 129.08305556
         }
       ]
     },
@@ -2438,10 +2509,10 @@
       "name": {
         "ko": "강릉시"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2160,
-      "sha256": "8a9a509260cbd2092b3b190992ce6b89f9bce871b697869f12ce81037c0d6eaa",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 10601,
+      "sha256": "d63a47e2f787dd30d8ce0410faa976e2661b8e21b5bfc41d946c9886ef606f27",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gangneung.json",
       "places": [
         {
@@ -2462,6 +2533,76 @@
           ],
           "lat": 37.77855944,
           "lon": 128.87777639
+        },
+        {
+          "id": "gyeongpodae-pavilion",
+          "name": {
+            "ko": "경포대",
+            "en": "Gyeongpodae Pavilion"
+          },
+          "aliases": [
+            "강릉 경포대",
+            "Gyeongpodae"
+          ],
+          "city": [
+            "Gangneung",
+            "강릉"
+          ],
+          "lat": 37.795,
+          "lon": 128.89667
+        },
+        {
+          "id": "gyeongpo-beach",
+          "name": {
+            "ko": "경포해수욕장",
+            "en": "Gyeongpo Beach"
+          },
+          "aliases": [
+            "경포 해수욕장",
+            "경포해변",
+            "경포 해변"
+          ],
+          "city": [
+            "Gangneung",
+            "강릉"
+          ],
+          "lat": 37.8056668,
+          "lon": 128.9107572
+        },
+        {
+          "id": "seongyojang",
+          "name": {
+            "ko": "강릉 선교장",
+            "en": "Seongyojang"
+          },
+          "aliases": [
+            "선교장",
+            "강릉선교장",
+            "Seongyojang House"
+          ],
+          "city": [
+            "Gangneung",
+            "강릉"
+          ],
+          "lat": 37.78667,
+          "lon": 128.885111
+        },
+        {
+          "id": "jeongdongjin",
+          "name": {
+            "ko": "정동진",
+            "en": "Jeongdongjin"
+          },
+          "aliases": [
+            "정동진 바닷가",
+            "정동진 해변"
+          ],
+          "city": [
+            "Gangneung",
+            "강릉"
+          ],
+          "lat": 37.691907,
+          "lon": 129.032685
         }
       ]
     },
@@ -2607,10 +2748,10 @@
       "name": {
         "ko": "경주시"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2189,
-      "sha256": "75118e3c32c5803646cf2d9f8b5666dcbb603f43c8e79d5d43b7979e2c34e603",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 10230,
+      "sha256": "beb80a4ac1b708545430c0038fd7851ff0a92a44e6826d92156a31c19a94916a",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeongju.json",
       "places": [
         {
@@ -2631,6 +2772,78 @@
           ],
           "lat": 35.79,
           "lon": 129.33222
+        },
+        {
+          "id": "seokguram-grotto",
+          "name": {
+            "ko": "석굴암",
+            "en": "Seokguram"
+          },
+          "aliases": [
+            "경주 석굴암",
+            "석굴암 석굴",
+            "Seokguram Grotto"
+          ],
+          "city": [
+            "Gyeongju",
+            "경주"
+          ],
+          "lat": 35.795,
+          "lon": 129.34916667
+        },
+        {
+          "id": "donggung-wolji",
+          "name": {
+            "ko": "동궁과 월지",
+            "en": "Donggung Palace and Wolji Pond"
+          },
+          "aliases": [
+            "경주 동궁과 월지",
+            "동궁과월지",
+            "안압지",
+            "월지",
+            "Anapji"
+          ],
+          "city": [
+            "Gyeongju",
+            "경주"
+          ],
+          "lat": 35.83461944,
+          "lon": 129.22711389
+        },
+        {
+          "id": "cheomseongdae",
+          "name": {
+            "ko": "첨성대",
+            "en": "Cheomseongdae"
+          },
+          "aliases": [
+            "경주 첨성대"
+          ],
+          "city": [
+            "Gyeongju",
+            "경주"
+          ],
+          "lat": 35.83472222,
+          "lon": 129.219
+        },
+        {
+          "id": "daereungwon",
+          "name": {
+            "ko": "대릉원",
+            "en": "Daereungwon"
+          },
+          "aliases": [
+            "경주 대릉원",
+            "대릉원 고분군",
+            "Daereungwon Tomb Complex"
+          ],
+          "city": [
+            "Gyeongju",
+            "경주"
+          ],
+          "lat": 35.838,
+          "lon": 129.212
         }
       ]
     },
@@ -2706,10 +2919,10 @@
       "name": {
         "ko": "제주특별자치도"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2651,
-      "sha256": "4bc8cbdb94df55e3cac2beae641dd1166b03f1dabbff0e75cffd613a256b52ff",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 12040,
+      "sha256": "fdcca7a9710884e914e5c736e349780c7ce98ab00ed37cf847a25fa40efaf008",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeju.json",
       "places": [
         {
@@ -2733,6 +2946,91 @@
           ],
           "lat": 33.4585,
           "lon": 126.942
+        },
+        {
+          "id": "cheonjiyeon-waterfall",
+          "name": {
+            "ko": "천지연폭포",
+            "en": "Cheonjiyeon Waterfall"
+          },
+          "aliases": [
+            "천지연 폭포",
+            "천지연"
+          ],
+          "city": [
+            "Seogwipo",
+            "Jeju",
+            "서귀포시",
+            "제주",
+            "서귀포"
+          ],
+          "lat": 33.24694444,
+          "lon": 126.55441667
+        },
+        {
+          "id": "jeongbang-waterfall",
+          "name": {
+            "ko": "정방폭포",
+            "en": "Jeongbang Waterfall"
+          },
+          "aliases": [
+            "정방 폭포",
+            "서귀포 정방폭포",
+            "Seogwipo Jeongbang Waterfall"
+          ],
+          "city": [
+            "Seogwipo",
+            "Jeju",
+            "서귀포시",
+            "제주",
+            "서귀포"
+          ],
+          "lat": 33.244649,
+          "lon": 126.571662
+        },
+        {
+          "id": "daepo-jusangjeolli",
+          "name": {
+            "ko": "중문대포해안 주상절리대",
+            "en": "Daepo Jusangjeolli Cliff"
+          },
+          "aliases": [
+            "중문 대포해안 주상절리대",
+            "대포 주상절리대",
+            "중문 주상절리대",
+            "주상절리대",
+            "Jusangjeolli Cliff"
+          ],
+          "city": [
+            "Seogwipo",
+            "Jeju",
+            "서귀포시",
+            "제주",
+            "서귀포"
+          ],
+          "lat": 33.2366944,
+          "lon": 126.4253333
+        },
+        {
+          "id": "cheonjeyeon-waterfalls",
+          "name": {
+            "ko": "천제연폭포",
+            "en": "Cheonjeyeon Waterfalls"
+          },
+          "aliases": [
+            "천제연 폭포",
+            "천제연",
+            "Cheonjeyeon Waterfall"
+          ],
+          "city": [
+            "Seogwipo",
+            "Jeju",
+            "서귀포시",
+            "제주",
+            "서귀포"
+          ],
+          "lat": 33.2528,
+          "lon": 126.4173
         }
       ]
     },
@@ -2776,10 +3074,10 @@
       "name": {
         "ko": "전주시"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2486,
-      "sha256": "b9001c4690c49e2a5fc1f352376fcc39b78a85cb4b1feaa46406daf3ba61db84",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 10445,
+      "sha256": "0fac8cc3892e02de77c0db90e0660d03d286a0e6789af4a012a32cc9780d960d",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonju.json",
       "places": [
         {
@@ -2799,6 +3097,74 @@
           ],
           "lat": 35.81512,
           "lon": 127.15356
+        },
+        {
+          "id": "gyeonggijeon-shrine",
+          "name": {
+            "ko": "경기전",
+            "en": "Gyeonggijeon Shrine"
+          },
+          "aliases": [
+            "전주 경기전",
+            "경기전 정전"
+          ],
+          "city": [
+            "Jeonju",
+            "전주"
+          ],
+          "lat": 35.81536,
+          "lon": 127.14952
+        },
+        {
+          "id": "jeondong-cathedral",
+          "name": {
+            "ko": "전동성당",
+            "en": "Jeondong Cathedral"
+          },
+          "aliases": [
+            "전주 전동성당",
+            "전동 성당",
+            "Jeondong Church"
+          ],
+          "city": [
+            "Jeonju",
+            "전주"
+          ],
+          "lat": 35.8135,
+          "lon": 127.149
+        },
+        {
+          "id": "pungnammun",
+          "name": {
+            "ko": "풍남문",
+            "en": "Pungnammun"
+          },
+          "aliases": [
+            "전주 풍남문",
+            "풍남문 남문"
+          ],
+          "city": [
+            "Jeonju",
+            "전주"
+          ],
+          "lat": 35.81361,
+          "lon": 127.1475
+        },
+        {
+          "id": "jeonju-hyanggyo",
+          "name": {
+            "ko": "전주향교",
+            "en": "Jeonju Hyanggyo"
+          },
+          "aliases": [
+            "전주 향교"
+          ],
+          "city": [
+            "Jeonju",
+            "전주"
+          ],
+          "lat": 35.81278,
+          "lon": 127.15694
         }
       ]
     },
@@ -2875,10 +3241,10 @@
       "name": {
         "ko": "서울특별시"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2083,
-      "sha256": "afd36513b841c0ad32b1e724cbfc29b700480f71d05a9d7f61f8cfa8f90d33a5",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 10643,
+      "sha256": "3b78517de92ca3d1ef501ffd878897129b9236ab927a6f7b0d237115828b0465",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-seoul.json",
       "places": [
         {
@@ -2897,6 +3263,77 @@
           ],
           "lat": 37.579884,
           "lon": 126.9768
+        },
+        {
+          "id": "changdeokgung",
+          "name": {
+            "ko": "창덕궁",
+            "en": "Changdeokgung"
+          },
+          "aliases": [
+            "창덕궁 궁궐",
+            "Changdeokgung Palace"
+          ],
+          "city": [
+            "Seoul",
+            "서울"
+          ],
+          "lat": 37.57944444,
+          "lon": 126.99277778
+        },
+        {
+          "id": "n-seoul-tower",
+          "name": {
+            "ko": "남산서울타워",
+            "en": "N Seoul Tower"
+          },
+          "aliases": [
+            "남산 서울타워",
+            "남산타워",
+            "N서울타워",
+            "Namsan Seoul Tower",
+            "Seoul Tower"
+          ],
+          "city": [
+            "Seoul",
+            "서울"
+          ],
+          "lat": 37.551216,
+          "lon": 126.988276
+        },
+        {
+          "id": "bukchon-hanok-village",
+          "name": {
+            "ko": "북촌한옥마을",
+            "en": "Bukchon Hanok Village"
+          },
+          "aliases": [
+            "북촌 한옥마을",
+            "북촌"
+          ],
+          "city": [
+            "Seoul",
+            "서울"
+          ],
+          "lat": 37.58305556,
+          "lon": 126.98361111
+        },
+        {
+          "id": "jongmyo-shrine",
+          "name": {
+            "ko": "종묘",
+            "en": "Jongmyo"
+          },
+          "aliases": [
+            "종묘 사당",
+            "Jongmyo Shrine"
+          ],
+          "city": [
+            "Seoul",
+            "서울"
+          ],
+          "lat": 37.57444,
+          "lon": 126.99417
         }
       ]
     },
@@ -2905,10 +3342,10 @@
       "name": {
         "ko": "속초시"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2513,
-      "sha256": "5dcb4527ea9205daf394d27f5ddcc5967b2b31ee10ff4c1c0848c18456293a94",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 11006,
+      "sha256": "49a9c1b56346d920d1fe5a417414a95e8cd4002d7e2a26306104b9b4fc22309c",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-sokcho.json",
       "places": [
         {
@@ -2930,6 +3367,78 @@
           ],
           "lat": 38.16722,
           "lon": 128.48461
+        },
+        {
+          "id": "sokcho-beach",
+          "name": {
+            "ko": "속초해수욕장",
+            "en": "Sokcho Beach"
+          },
+          "aliases": [
+            "속초 해수욕장",
+            "속초해변",
+            "속초 해변"
+          ],
+          "city": [
+            "Sokcho",
+            "속초"
+          ],
+          "lat": 38.19069,
+          "lon": 128.60369
+        },
+        {
+          "id": "abai-village",
+          "name": {
+            "ko": "아바이마을",
+            "en": "Abai Village"
+          },
+          "aliases": [
+            "아바이 마을",
+            "속초 아바이마을",
+            "아바이촌"
+          ],
+          "city": [
+            "Sokcho",
+            "속초"
+          ],
+          "lat": 38.200607,
+          "lon": 128.5947547
+        },
+        {
+          "id": "sinheungsa-sokcho",
+          "name": {
+            "ko": "설악산 신흥사",
+            "en": "Sinheungsa"
+          },
+          "aliases": [
+            "속초 신흥사",
+            "신흥사",
+            "Sinheungsa Temple",
+            "Shinheungsa"
+          ],
+          "city": [
+            "Sokcho",
+            "속초"
+          ],
+          "lat": 38.175376,
+          "lon": 128.484703
+        },
+        {
+          "id": "yeongnangho-lake",
+          "name": {
+            "ko": "영랑호",
+            "en": "Yeongnangho Lake"
+          },
+          "aliases": [
+            "영랑 호수",
+            "Yeongnangho"
+          ],
+          "city": [
+            "Sokcho",
+            "속초"
+          ],
+          "lat": 38.21648,
+          "lon": 128.57981
         }
       ]
     },

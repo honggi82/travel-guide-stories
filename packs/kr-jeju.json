@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-jeju",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "제주특별자치도"
   },
@@ -51,6 +51,167 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/Seongsan%20Ilchulbong%20South%20Korea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "cheonjiyeon-waterfall",
+      "name": {
+        "ko": "천지연폭포",
+        "en": "Cheonjiyeon Waterfall"
+      },
+      "aliases": [
+        "천지연 폭포",
+        "천지연"
+      ],
+      "city": [
+        "Seogwipo",
+        "Jeju",
+        "서귀포시",
+        "제주",
+        "서귀포"
+      ],
+      "lat": 33.24694444,
+      "lon": 126.55441667,
+      "scripts": {
+        "ko": "천지연폭포에서는 물이 떨어지는 위쪽과 아래에 고이는 물을 번갈아 바라보세요. 떨어지는 소리와 주변 풍경이 한 장면을 만듭니다. 폭포를 한 장의 사진으로만 기억하기보다 흐르는 물의 움직임을 잠시 지켜보면 좋겠습니다.\n\n천지연은 제주 서귀포의 폭포로 높이는 약 22미터입니다. 이름이 비슷한 중문 지역의 천제연폭포와는 다른 장소입니다. 영어 표기도 Cheonjiyeon과 Cheonjeyeon으로 비슷하므로 이름만 보고 목적지를 정하면 혼동하기 쉽습니다. 일정에 위치와 정확한 한글 이름을 함께 남겨 두면 편리합니다.\n\n서귀포의 다른 폭포와 비교할 때는 물이 모이는 공간과 바다와의 거리, 주변 보행로의 구성을 살펴보세요. 이 해설은 당일 수량이나 조명 운영을 알려 주는 자료가 아닙니다. 참고 좌표는 폭포의 위치이며 물가 접근 지점이나 입구를 지정하지 않습니다. 관람로와 보호 구역, 비가 온 뒤의 통제 안내를 확인하고 정해진 길을 이용해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Cheonjiyeon Waterfall",
+          "url": "https://en.wikipedia.org/wiki/Cheonjiyeon_Waterfall"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Explore%2BCheonjiyeon%2BWaterfall%2C%2BHallasan%2BNational%2BPark%2C%2BSouth%2BKorea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Explore%2BCheonjiyeon%2BWaterfall%2C%2BHallasan%2BNational%2BPark%2C%2BSouth%2BKorea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "jeongbang-waterfall",
+      "name": {
+        "ko": "정방폭포",
+        "en": "Jeongbang Waterfall"
+      },
+      "aliases": [
+        "정방 폭포",
+        "서귀포 정방폭포",
+        "Seogwipo Jeongbang Waterfall"
+      ],
+      "city": [
+        "Seogwipo",
+        "Jeju",
+        "서귀포시",
+        "제주",
+        "서귀포"
+      ],
+      "lat": 33.244649,
+      "lon": 126.571662,
+      "scripts": {
+        "ko": "정방폭포에서는 떨어지는 물과 가까이 있는 바다를 함께 살펴보세요. 내륙의 연못으로 떨어지는 폭포와 다른 풍경이 펼쳐집니다. 물이 높은 곳에서 내려오는 움직임과 해안의 넓은 수평선이 한 자리에서 만납니다.\n\n서귀포에 자리한 정방폭포는 높이가 약 23미터이며 동홍천의 물이 이어지는 폭포입니다. 바다와 매우 가까운 위치가 특징이지만 이 점을 해안 어디로든 자유롭게 접근할 수 있다는 뜻으로 받아들이면 안 됩니다. 실제 수량과 주변 바닥 상태는 날씨에 따라 달라집니다.\n\n허용된 관람 위치에서 폭포 위쪽의 지형과 아래의 바위, 바다가 이어지는 구성을 살펴보세요. 같은 서귀포의 천지연폭포와는 별도 장소이므로 지도와 관람 입구를 구분해야 합니다. 이 참고 좌표가 안전한 물가 진입점이나 수영 장소를 뜻하지는 않습니다. 젖은 바위와 파도, 통제 구역에 대한 현장 안내를 확인하고 정해진 보행로를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Jeongbang Waterfall",
+          "url": "https://en.wikipedia.org/wiki/Jeongbang_Waterfall"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Explore%2BCheonjiyeon%2BWaterfall%2C%2BHallasan%2BNational%2BPark%2C%2BSouth%2BKorea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Explore%2BCheonjiyeon%2BWaterfall%2C%2BHallasan%2BNational%2BPark%2C%2BSouth%2BKorea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "daepo-jusangjeolli",
+      "name": {
+        "ko": "중문대포해안 주상절리대",
+        "en": "Daepo Jusangjeolli Cliff"
+      },
+      "aliases": [
+        "중문 대포해안 주상절리대",
+        "대포 주상절리대",
+        "중문 주상절리대",
+        "주상절리대",
+        "Jusangjeolli Cliff"
+      ],
+      "city": [
+        "Seogwipo",
+        "Jeju",
+        "서귀포시",
+        "제주",
+        "서귀포"
+      ],
+      "lat": 33.2366944,
+      "lon": 126.4253333,
+      "scripts": {
+        "ko": "중문대포해안 주상절리대에서는 바위들이 기둥처럼 나란히 서 있는 모습을 살펴보세요. 사람이 돌을 잘라 배열한 듯한 인상을 주지만 화산 활동과 관련된 자연 지형입니다. 멀리서 본 절벽의 윤곽과 가까이 보이는 기하학적인 면이 서로 다른 관찰을 이끕니다.\n\n제주 남쪽 해안의 이 지형은 용암이 바다 쪽으로 흘러 형성된 암석과 연결됩니다. 주상절리는 기둥 모양으로 갈라진 암석의 구조를 부르는 말입니다. 따라서 주상절리라는 용어가 언제나 이곳 한 장소만을 뜻하는 것은 아닙니다. 다른 지역의 주상절리와 구분하려면 중문대포해안이라는 위치를 함께 확인해야 합니다.\n\n기둥의 방향과 절벽을 따라 이어지는 선을 살펴보며 땅이 만들어진 시간을 떠올려 보세요. 참고 좌표는 해안 지형의 한 지점이며 바위 아래로 내려가는 동선을 지정하지 않습니다. 관람 가능한 전망 구역에서 감상하고 보호 울타리와 기상·파도에 따른 현장의 통제 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Daepo Jusangjeolli Cliff",
+          "url": "https://en.wikipedia.org/wiki/Daepo_Jusangjeolli_Cliff"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/No%20State%20Jeju-do%2C%207939%20Jungsangandong-ro%2C%20Seogwipo-si%2C%2063586%2C%20South%20Korea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/No%20State%20Jeju-do%2C%207939%20Jungsangandong-ro%2C%20Seogwipo-si%2C%2063586%2C%20South%20Korea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "cheonjeyeon-waterfalls",
+      "name": {
+        "ko": "천제연폭포",
+        "en": "Cheonjeyeon Waterfalls"
+      },
+      "aliases": [
+        "천제연 폭포",
+        "천제연",
+        "Cheonjeyeon Waterfall"
+      ],
+      "city": [
+        "Seogwipo",
+        "Jeju",
+        "서귀포시",
+        "제주",
+        "서귀포"
+      ],
+      "lat": 33.2528,
+      "lon": 126.4173,
+      "scripts": {
+        "ko": "천제연폭포에서는 물이 한 번 떨어지는 장면만 떠올리기보다 세 단계로 이어지는 흐름을 생각해 보세요. 제주 중문 지역의 이 폭포는 여러 폭포와 그 사이의 물길이 하나의 지형을 이룹니다. 어느 구간을 바라보는지에 따라 풍경이 달라집니다.\n\n주변의 난대림은 희귀 식물과 연구 가치를 인정받아 천연기념물로 지정되었습니다. 폭포의 물뿐 아니라 그 곁의 식생도 보호의 대상이라는 뜻입니다. 일곱 선녀가 내려와 목욕했다는 이야기도 전해지지만 이는 지역의 전설이며 실제 역사적 사건이나 물놀이 안내가 아닙니다.\n\n이름이 비슷한 서귀포 시내의 천지연폭포와는 서로 다른 장소입니다. 한 글자 차이와 영어 철자를 확인하면 잘못된 지도 연결을 줄일 수 있습니다. 참고 좌표는 폭포 구역의 한 지점이며 모든 구간의 입구가 아닙니다. 수량과 공개 동선은 당일 상황에 따라 달라지므로 정해진 관람로와 보호 구역의 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Cheonjeyeon Waterfalls",
+          "url": "https://en.wikipedia.org/wiki/Cheonjeyeon_Waterfalls"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Explore%2BCheonjiyeon%2BWaterfall%2C%2BHallasan%2BNational%2BPark%2C%2BSouth%2BKorea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Explore%2BCheonjiyeon%2BWaterfall%2C%2BHallasan%2BNational%2BPark%2C%2BSouth%2BKorea",
       "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

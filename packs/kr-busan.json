@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-busan",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "부산광역시"
   },
@@ -40,6 +40,145 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beomeosa%20Busan",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "gamcheon-culture-village",
+      "name": {
+        "ko": "감천문화마을",
+        "en": "Gamcheon Culture Village"
+      },
+      "aliases": [
+        "감천 문화마을",
+        "부산 감천문화마을"
+      ],
+      "city": [
+        "Busan",
+        "부산"
+      ],
+      "lat": 35.097,
+      "lon": 129.009,
+      "scripts": {
+        "ko": "감천문화마을에서는 경사면을 따라 겹쳐 보이는 집들과 그 사이를 잇는 골목에 눈을 돌려 보세요. 멀리서 보면 색과 지붕이 큰 풍경을 이루지만 가까이에서는 집으로 드나드는 작은 길이 보입니다. 같은 마을을 전망과 생활의 두 거리에서 경험하게 됩니다.\n\n부산 사하구 감천동의 이 마을은 산비탈의 층층이 이어지는 주거지와 굽은 골목이 특징입니다. 집과 거리를 고치고 색과 예술 요소를 더하는 과정을 거치며 방문객이 찾는 문화마을로 알려졌습니다. 지금의 모습을 처음부터 관광을 위해 만든 세트장으로 생각하지 않는 것이 좋겠습니다.\n\n공개된 관람 동선에서 건물 사이의 높이 차이와 길의 연결을 살펴보세요. 사진 속 풍경 뒤에는 주민의 생활 공간이 있습니다. 대문과 사유지의 경계를 존중하고 조용히 이동해 주세요. 계단과 경사가 많으므로 참고 좌표를 향해 곧장 지름길을 찾기보다 실제 안내된 보행로와 방문 가능한 구역을 따라 이동하는 것이 좋겠습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Gamcheon Culture Village",
+          "url": "https://en.wikipedia.org/wiki/Gamcheon_Culture_Village"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gamcheon%20Culture%20Village%20Busan",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "haeundae-beach",
+      "name": {
+        "ko": "해운대해수욕장",
+        "en": "Haeundae Beach"
+      },
+      "aliases": [
+        "해운대 해수욕장",
+        "해운대 해변",
+        "해운대해변"
+      ],
+      "city": [
+        "Busan",
+        "부산"
+      ],
+      "lat": 35.15855,
+      "lon": 129.16053,
+      "scripts": {
+        "ko": "해운대해수욕장에서는 바다를 본 뒤 몸을 돌려 도시 쪽도 바라보세요. 넓은 모래사장과 높은 건물, 해변 뒤의 길이 가까이 놓여 있습니다. 자연의 풍경과 큰 도시의 일상이 만나는 것이 이 해변의 중요한 특징입니다.\n\n해운대는 부산 해운대구의 도시 해변입니다. 여행에서 해운대라는 이름은 더 넓은 동네를 가리키기도 하지만 해수욕장은 그 안의 특정 해변입니다. 주변 동백섬이나 다른 전망 시설을 같은 목적지로 생각하면 실제 도착 위치가 달라질 수 있습니다. 장소 이름을 구체적으로 구분하면 일정을 정하기 편해집니다.\n\n물가를 따라 시점을 옮기며 해안선과 도시의 관계가 어떻게 달라지는지 살펴보세요. 모래사장을 걷는 사람과 뒤쪽 산책로를 지나는 사람이 같은 공간을 다른 방식으로 이용합니다. 이 글은 현재의 입수 가능 여부를 알려 주지 않습니다. 실제 물놀이와 보행은 현장 표지와 인명구조 안내, 당일 기상·해상 상황을 확인해 주세요. 참고 좌표가 안전한 입수 지점을 뜻하지는 않습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Haeundae Beach",
+          "url": "https://en.wikipedia.org/wiki/Haeundae_Beach"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Haeundae%2BBeach%2Band%2BDongbaek%2BIsland%2C%2BBusan%2C%2BSouth%2BKorea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Haeundae%2BBeach%2Band%2BDongbaek%2BIsland%2C%2BBusan%2C%2BSouth%2BKorea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "gwangalli-beach",
+      "name": {
+        "ko": "광안리해수욕장",
+        "en": "Gwangalli Beach"
+      },
+      "aliases": [
+        "광안리 해수욕장",
+        "광안리 해변",
+        "광안리해변",
+        "Gwangan Beach"
+      ],
+      "city": [
+        "Busan",
+        "부산"
+      ],
+      "lat": 35.15416667,
+      "lon": 129.12055556,
+      "scripts": {
+        "ko": "광안리해수욕장에서는 휘어진 해안선과 바다를 가로지르는 광안대교를 함께 바라보세요. 다리가 수평선과 다른 선을 만들며 해변의 풍경에 들어옵니다. 같은 바다라도 어느 쪽으로 걷느냐에 따라 다리와 주변 건물이 겹치는 모습이 달라집니다.\n\n부산 수영구에 있는 광안리는 해운대해수욕장보다 서쪽에 자리합니다. 만 안쪽으로 굽은 모래 해변과 그 뒤의 도시가 가깝게 이어지는 장소입니다. 광안리의 해변과 광안대교는 함께 보이지만 서로 다른 시설이므로 지도에서 목적지를 구분해야 합니다.\n\n모래사장과 산책로에서 각각 바라보며 물과 도시 사이의 거리를 느껴 보세요. 야간 조명이나 행사는 날짜와 운영에 따라 달라지며 이 해설이 당일 볼거리를 보장하지는 않습니다. 해변의 참고 좌표는 입수 지점이나 특정 행사 관람 위치를 지정하지 않습니다. 실제 이동과 물놀이는 현장 안내와 당일 해상 상황을 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Gwangalli Beach",
+          "url": "https://en.wikipedia.org/wiki/Gwangalli_Beach"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Gwangalli%2BBeach%2B%26%2BGwangan%2BBridge%2C%2BBusan%2C%2BSouth%2BKorea"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Gwangalli%2BBeach%2B%26%2BGwangan%2BBridge%2C%2BBusan%2C%2BSouth%2BKorea",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "taejongdae",
+      "name": {
+        "ko": "태종대",
+        "en": "Taejongdae"
+      },
+      "aliases": [
+        "태종대 유원지",
+        "태종대유원지"
+      ],
+      "city": [
+        "Busan",
+        "부산"
+      ],
+      "lat": 35.05,
+      "lon": 129.08305556,
+      "scripts": {
+        "ko": "태종대에서는 바다를 바라보는 풍경과 나무가 이어지는 길을 함께 경험할 수 있습니다. 부산 영도 남쪽 끝의 자연공원으로, 해운대나 광안리의 넓은 모래 해변과는 다른 해안의 모습을 보여 줍니다. 도시의 해안을 하나의 풍경으로만 기억하지 않게 해 주는 장소입니다.\n\n상록수가 우거진 구역과 바다를 바라보는 전망 공간, 등대 등 여러 시설이 공원 안에 놓여 있습니다. 이름 하나로 표시되지만 넓은 구역을 포함하므로 어디를 방문하는지에 따라 실제 동선이 달라집니다. 숲을 지나는 시간과 해안의 넓은 전망을 보는 시간을 나누어 생각해도 좋겠습니다.\n\n허용된 전망 구역에서 해안의 선과 바다의 관계를 살펴보세요. 절벽 가장자리나 통제 구역으로 들어가야 풍경을 볼 수 있는 것은 아닙니다. 이 참고 좌표는 공원의 한 지점이며 보행 진입점이나 이동 시설의 승차 위치를 뜻하지 않습니다. 당일 열려 있는 길과 시설, 기상에 따른 통제 안내를 확인하고 정해진 동선을 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Taejongdae",
+          "url": "https://en.wikipedia.org/wiki/Taejongdae"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taejongdae%20Busan",
       "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

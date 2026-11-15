@@ -1,6 +1,6 @@
 {
   "schemaVersion": 2,
-  "updatedAt": "2026-11-15",
+  "updatedAt": "2026-11-16",
   "regions": [
     {
       "id": "ae-dubai",
@@ -1077,10 +1077,10 @@
       "name": {
         "ko": "프라하"
       },
-      "version": 4,
-      "placeCount": 5,
-      "sizeBytes": 12446,
-      "sha256": "b94ad7c253e4329876c1bd2f3f21cb2dce9efbc907b9dd7018dcae4a993a0d98",
+      "version": 5,
+      "placeCount": 10,
+      "sizeBytes": 26108,
+      "sha256": "434dd7e2e315546ef3da32c76e310542eb3a34bb3e58f2bbef4b5dcb768516da",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cz-prague.json",
       "places": [
         {
@@ -1179,6 +1179,112 @@
           ],
           "lat": 50.07555556,
           "lon": 14.41416667
+        },
+        {
+          "id": "prague-astronomical-clock",
+          "name": {
+            "ko": "프라하 천문시계",
+            "en": "Prague Astronomical Clock"
+          },
+          "aliases": [
+            "프라하 천문 시계",
+            "천문시계",
+            "구시청사 천문시계",
+            "Prague Orloj",
+            "Pražský orloj",
+            "Staroměstský orloj"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.0870083,
+          "lon": 14.4209167
+        },
+        {
+          "id": "powder-tower",
+          "name": {
+            "ko": "프라하 화약탑",
+            "en": "Powder Tower"
+          },
+          "aliases": [
+            "화약탑",
+            "화약문",
+            "프라하 화약문",
+            "Powder Gate",
+            "Powder Gate Tower",
+            "Prašná brána"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.0872,
+          "lon": 14.4278
+        },
+        {
+          "id": "petrin-lookout-tower",
+          "name": {
+            "ko": "페트르진 전망탑",
+            "en": "Petřín Lookout Tower"
+          },
+          "aliases": [
+            "페트린 타워",
+            "페트린 전망대",
+            "페트린 전망탑",
+            "페트르진 타워",
+            "Petrin Tower",
+            "Petrin Lookout Tower",
+            "Petřínská rozhledna"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.0835444,
+          "lon": 14.39505
+        },
+        {
+          "id": "vysehrad",
+          "name": {
+            "ko": "비셰흐라트",
+            "en": "Vyšehrad"
+          },
+          "aliases": [
+            "비셰흐라드",
+            "비셰흐라트 성",
+            "비셰흐라드 요새",
+            "Vysehrad",
+            "Vyšehrad fortress"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.06417,
+          "lon": 14.41944
+        },
+        {
+          "id": "strahov-monastery",
+          "name": {
+            "ko": "스트라호프 수도원",
+            "en": "Strahov Monastery"
+          },
+          "aliases": [
+            "스트라호브 수도원",
+            "Strahovský klášter"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.086,
+          "lon": 14.39
         }
       ]
     },

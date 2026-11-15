@@ -1,0 +1,153 @@
+[
+  {
+    "region": "cz-prague",
+    "id": "prague-astronomical-clock",
+    "name": {
+      "ko": "프라하 천문시계",
+      "en": "Prague Astronomical Clock"
+    },
+    "aliases": [
+      "프라하 천문 시계",
+      "천문시계",
+      "구시청사 천문시계",
+      "Prague Orloj",
+      "Pražský orloj",
+      "Staroměstský orloj"
+    ],
+    "city": [
+      "Prague",
+      "Praha",
+      "프라하"
+    ],
+    "lat": 50.0870083,
+    "lon": 14.4209167,
+    "wiki": "Prague_astronomical_clock",
+    "official": "https://prague.eu/en/objevujte/old-town-hall-with-astronomical-clock-staromestska-radnice-s-orlojem",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prague+Astronomical+Clock+Prague",
+    "mapsIdentity": {
+      "name": "프라하 천문 시계 · Pražský orloj",
+      "location": "Staroměstské nám. 1, 110 00 Josefov, Czechia"
+    },
+    "text": "구시청사 남쪽 벽 앞에서 시선을 천천히 위로 올려 보세요. 프라하 천문시계는 시간을 알려 주는 장치이면서, 중세 사람들이 하늘을 이해하던 방식을 보여 주는 작은 무대입니다. 복잡한 원과 바늘은 단순한 장식이 아닙니다. 천문 다이얼에는 태양과 달의 위치 등 하늘의 움직임을 표현하는 기능이 담겨 있습니다.\n\n가장 오래된 기계 장치와 천문 다이얼의 역사는 1410년으로 거슬러 올라갑니다. 시계공 미쿨라시와 천문학자 얀 신델의 작업에서 출발한 뒤, 달력판과 조각 등 여러 시대의 요소가 더해졌습니다. 그래서 지금 보는 전체를 한 사람이 한 번에 완성한 작품으로 생각하기보다, 오랫동안 손질하며 이어 온 도시의 공동 작업으로 바라보면 좋겠습니다.\n\n정각의 사도 인형 행렬에만 눈을 빼앗기지 말고, 공연 전후에 다이얼과 주변 조각을 차례로 살펴보세요. 위의 천문 표시와 아래의 달력은 서로 다른 이야기를 전합니다. 인형의 당일 작동 여부와 시청 내부 관람은 공식 안내를 확인하고, 광장과 건물 사이를 지나가는 사람들의 통로를 비워 주세요."
+  },
+  {
+    "region": "cz-prague",
+    "id": "powder-tower",
+    "name": {
+      "ko": "프라하 화약탑",
+      "en": "Powder Tower"
+    },
+    "aliases": [
+      "화약탑",
+      "화약문",
+      "프라하 화약문",
+      "Powder Gate",
+      "Powder Gate Tower",
+      "Prašná brána"
+    ],
+    "city": [
+      "Prague",
+      "Praha",
+      "프라하"
+    ],
+    "lat": 50.0872,
+    "lon": 14.4278,
+    "wiki": "Powder_Tower,_Prague",
+    "official": "https://prague.eu/en/objevujte/powder-gate-tower-prasna-brana",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Powder+Tower+Prague",
+    "mapsIdentity": {
+      "name": "화약탑 · Prašná brána",
+      "location": "Nám. Republiky 5, 110 00 Staré Město, Czechia"
+    },
+    "text": "화약탑 앞에서는 먼저 탑 아래로 이어지는 길을 바라보세요. 높이 솟은 건물 하나가 아니라, 구시가와 신시가가 만나는 도시의 문이라는 성격이 보이기 시작합니다. 고딕 양식의 뾰족한 선과 조각 장식은 이 문을 통과하는 순간에 특별한 의미를 부여합니다.\n\n탑의 건립은 15세기 후반에 시작됐습니다. 프라하성으로 이어지는 대관식 길의 출발점으로도 알려져 있어, 길을 따라 이동하는 행렬과 도시가 왕을 맞이하던 장면을 떠올릴 수 있습니다. 오늘의 모습에는 19세기 복원도 반영돼 있습니다. 눈앞의 장식이 모두 같은 시대에 그대로 남은 것이라고 생각하지 않고, 보존과 복원의 시간이 겹친 건축물로 감상해 보세요.\n\n곁에 있는 시민회관과 탑을 번갈아 보면 프라하에 여러 시대의 건축이 가까이 놓여 있다는 사실도 느낄 수 있습니다. 두 건물은 같은 시설이 아니므로 입장 안내를 구분해 주세요. 탑 위 관람은 실제로 개방된 동선과 계단 이용 안내를 확인하고, 밖에서는 길의 흐름과 문 위 장식을 함께 살펴보면 좋겠습니다."
+  },
+  {
+    "region": "cz-prague",
+    "id": "petrin-lookout-tower",
+    "name": {
+      "ko": "페트르진 전망탑",
+      "en": "Petřín Lookout Tower"
+    },
+    "aliases": [
+      "페트린 타워",
+      "페트린 전망대",
+      "페트린 전망탑",
+      "페트르진 타워",
+      "Petrin Tower",
+      "Petrin Lookout Tower",
+      "Petřínská rozhledna"
+    ],
+    "city": [
+      "Prague",
+      "Praha",
+      "프라하"
+    ],
+    "lat": 50.0835444,
+    "lon": 14.39505,
+    "wiki": "Petřín_Lookout_Tower",
+    "official": "https://prague.eu/en/objevujte/petrin-tower-petrinska-rozhledna/",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Petrin+Lookout+Tower+Prague",
+    "mapsIdentity": {
+      "name": "페트린 타워 · Petřínská rozhledna",
+      "location": "Petřínské sady 633, 118 00 Praha 1-Malá Strana, Czechia"
+    },
+    "text": "페트르진 언덕의 철골 탑을 올려다보면 파리의 에펠탑이 떠오를지 모릅니다. 그 닮은 모습에는 실제 인연이 있습니다. 1889년 파리 박람회를 찾은 체코 여행가들이 에펠탑에서 영감을 얻었고, 프라하에서도 도시를 내려다보는 탑을 세우려 했습니다.\n\n전망탑은 1891년 박람회에 맞추어 건설됐으며 높이는 약 64미터입니다. 탑 자체의 높이와 언덕이 제공하는 높은 자리가 함께 전망을 만듭니다. 철골을 따라 시선을 옮겨 보며, 중세의 성과 교회가 익숙한 프라하에도 근대의 기술과 새로운 여행 문화가 들어왔다는 점을 생각해 보세요.\n\n전망을 볼 수 있는 날이라면 유명한 건물을 하나씩 찾는 데서 멈추지 말고, 블타바강을 중심으로 프라하성과 시가지가 어떻게 놓여 있는지 살펴보세요. 아래에서 따로 걷던 장소들이 하나의 도시로 이어집니다. 이 자료의 장소는 언덕 전체나 관광안내소가 아니라 전망탑입니다. 오르는 방법과 실제 이용 가능한 계단·승강기, 언덕 교통편의 운행 여부는 방문 당일 공식 안내에서 확인해 주세요."
+  },
+  {
+    "region": "cz-prague",
+    "id": "vysehrad",
+    "name": {
+      "ko": "비셰흐라트",
+      "en": "Vyšehrad"
+    },
+    "aliases": [
+      "비셰흐라드",
+      "비셰흐라트 성",
+      "비셰흐라드 요새",
+      "Vysehrad",
+      "Vyšehrad fortress"
+    ],
+    "city": [
+      "Prague",
+      "Praha",
+      "프라하"
+    ],
+    "lat": 50.06417,
+    "lon": 14.41944,
+    "wiki": "Vyšehrad",
+    "official": "https://prague.eu/en/objevujte/vysehrad/",
+    "mapsUrl": "https://www.google.com/maps/place/Vy%C5%A1ehrad/data=!4m7!3m6!1s0x470b94673d77dd09:0x4c9f4f645f532866!8m2!3d50.0641941!4d14.4188977!16zL20vMDNmamxs",
+    "mapsIdentity": {
+      "name": "비셰흐라드 · Vyšehrad",
+      "location": "V Pevnosti, Prague; fortress place card, not the district"
+    },
+    "text": "비셰흐라트에서는 성벽과 강의 높이 차이를 먼저 느껴 보세요. 블타바강 동쪽 언덕의 이 요새는 프라하성과 다른 장소입니다. 번잡한 구시가에서 시선을 잠시 옮기면, 프라하의 역사가 하나의 성과 광장에만 모여 있지 않다는 사실을 알게 됩니다.\n\n이곳의 시작은 대체로 10세기 무렵으로 여겨집니다. 부지 안에는 성 베드로와 바울 성당, 묘지, 11세기의 성 마르틴 원형 성당 등 서로 다른 시대의 장소가 함께 있습니다. 둥근 예배당과 더 뒤 시대의 건물을 비교하며 걸으면, 오늘의 요새가 오랜 시간에 걸쳐 바뀐 공간이라는 점이 보입니다.\n\n비셰흐라트 묘지에는 드보르자크와 스메타나를 비롯한 체코의 여러 문화 인물이 잠들어 있습니다. 강을 바라보는 풍경과 함께 도시가 누구를 기억하는지도 생각해 보세요. 묘지는 추모 공간이므로 조용히 관람하고 묘역의 경계를 존중해 주세요. 지도에서는 동명의 지구와 요새를 구분해야 하며, 넓은 부지의 참고 위치가 성당·묘지·지하 통로 각각의 입구를 뜻하지는 않습니다."
+  },
+  {
+    "region": "cz-prague",
+    "id": "strahov-monastery",
+    "name": {
+      "ko": "스트라호프 수도원",
+      "en": "Strahov Monastery"
+    },
+    "aliases": [
+      "스트라호브 수도원",
+      "Strahovský klášter"
+    ],
+    "city": [
+      "Prague",
+      "Praha",
+      "프라하"
+    ],
+    "lat": 50.086,
+    "lon": 14.39,
+    "wiki": "Strahov_Monastery",
+    "official": "https://prague.eu/en/objevujte/strahov-monastery-strahovsky-klaster/",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Strahov+Monastery+Prague",
+    "mapsIdentity": {
+      "name": "스트라호프 수도원 · Strahovský klášter",
+      "location": "Strahovské nádvoří 1/132, 118 00 Praha 1-Strahov, Czechia"
+    },
+    "text": "스트라호프 수도원의 마당에서는 먼저 교회와 주변 건물의 관계를 살펴보세요. 아름다운 도서관으로 유명하지만, 이곳의 출발점은 책을 전시하기 위한 건물이 아니라 기도와 공부가 이어지던 수도 공동체였습니다. 12세기에 세워진 프레몽트레회 수도원의 역사가 그 바탕에 있습니다.\n\n도서관의 신학 홀과 철학 홀은 서로 다른 시대의 공간입니다. 천장화와 책장을 함께 보면 지식을 모으고 분류하던 사람들의 관심을 상상할 수 있습니다. 책의 수만 세기보다, 종교와 학문이 어떤 공간에서 만나고 보존됐는지에 눈을 돌려 보세요. 오늘의 모습에는 오랜 증축과 복구의 시간이 겹쳐 있습니다.\n\n20세기에는 국가의 통제 아래 수도 공동체의 활동이 중단됐고, 1989년 이후 수도원은 다시 수도회에 반환됐습니다. 화려한 내부 뒤에는 정치적 변화 속에서도 자료와 공간을 이어 온 역사가 있습니다. 도서관·미술관·교회는 관람 조건이 서로 다를 수 있으므로 허용된 구간과 촬영 안내를 확인하세요. 책과 실내 장식을 보호하는 경계를 넘지 않고 감상하는 것도 이 장소의 이야기를 지키는 방법입니다."
+  }
+]

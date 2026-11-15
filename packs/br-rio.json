@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "br-rio",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "리우데자네이루"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Christ the Redeemer (statue)",
           "url": "https://en.wikipedia.org/wiki/Christ_the_Redeemer_%28statue%29"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Christ%20the%20Redeemer%20Rio%20de%20Janeiro"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Christ%20the%20Redeemer%20Rio%20de%20Janeiro",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "그리스도 구속자",
+        "location": "Parque Nacional da Tijuca - Alto da Boa Vista, Rio de Janeiro - RJ, 브라질"
+      }
     },
     {
       "id": "sugarloaf-mountain-rio",
@@ -73,12 +82,21 @@
         {
           "title": "Wikipedia: Sugarloaf Mountain",
           "url": "https://en.wikipedia.org/wiki/Sugarloaf_Mountain"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sugarloaf%20Mountain%20Rio%20de%20Janeiro"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sugarloaf%20Mountain%20Rio%20de%20Janeiro",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "팡지아수카르 산",
+        "location": "Urca, 리우데자네이루 - 히우지자네이루 브라질"
+      }
     },
     {
       "id": "fort-copacabana",
@@ -108,12 +126,21 @@
         {
           "title": "Wikipedia: Fort Copacabana",
           "url": "https://en.wikipedia.org/wiki/Fort_Copacabana"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Fort%20Copacabana%20Rio%20de%20Janeiro"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fort%20Copacabana%20Rio%20de%20Janeiro",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Forte de Copacabana (Museu Histórico do Exército e Forte de Copacabana)",
+        "location": "Praça Cel. Eugênio Franco, 1, Posto 6 - Copacabana, Rio de Janeiro - RJ, 22070-020 브라질"
+      }
     },
     {
       "id": "selaron-steps",
@@ -184,12 +211,21 @@
         {
           "title": "Wikipedia: Maracanã Stadium",
           "url": "https://en.wikipedia.org/wiki/Maracan%C3%A3_Stadium"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Maracana%20Stadium%20Rio%20de%20Janeiro"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maracan%C3%A3%20Stadium%20Rio%20de%20Janeiro",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maracana%20Stadium%20Rio%20de%20Janeiro",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "마라카낭",
+        "location": "R. Prof. Eurico Rabelo - Maracanã, Rio de Janeiro - RJ, 20271-150 브라질"
+      }
     }
   ]
 }

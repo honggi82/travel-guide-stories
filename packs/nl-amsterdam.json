@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "nl-amsterdam",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "암스테르담"
   },
@@ -156,12 +156,21 @@
         {
           "title": "Royal Palace Amsterdam: museum partner introduction",
           "url": "https://artsandculture.google.com/partner/koninklijk-paleis-amsterdam"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20Amsterdam%20Amsterdam"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal%20Palace%20Amsterdam%20Amsterdam",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "네덜란드 왕궁",
+        "location": "Nieuwezijds Voorburgwal 147, 1012 RJ Amsterdam, 네덜란드"
+      }
     },
     {
       "id": "oude-kerk-amsterdam",
@@ -191,12 +200,21 @@
         {
           "title": "Wikipedia: Oude Kerk, Amsterdam",
           "url": "https://en.wikipedia.org/wiki/Oude_Kerk%2C_Amsterdam"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Oude%20Kerk%20Amsterdam%20Amsterdam"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oude%20Kerk%20Amsterdam%20Amsterdam",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "암스테르담 구 교회",
+        "location": "Oudekerksplein 23, 1012 GX Amsterdam, 네덜란드"
+      }
     }
   ]
 }

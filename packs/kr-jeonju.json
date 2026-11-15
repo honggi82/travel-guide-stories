@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-jeonju",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "전주시"
   },
@@ -40,12 +40,21 @@
         {
           "title": "참고 좌표: 기존 지역 팩 (GPS 위치 검증을 대신하지 않음)",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-jeonju.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%A0%84%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeonju%20Hanok%20Village%20Jeonju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%95%9C%EC%98%A5%EB%A7%88%EC%9D%84%20%EC%A0%84%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "전주 한옥마을",
+        "location": "전북특별자치도 전주시 완산구 기린대로 99"
+      }
     },
     {
       "id": "gyeonggijeon-shrine",
@@ -76,12 +85,21 @@
         {
           "title": "Reference coordinates: travel-guide-packs Jeonju catalog",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-jeonju.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EC%A0%84%20%EC%A0%84%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyeonggijeon%20Shrine%20Jeonju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EA%B8%B0%EC%A0%84%20%EC%A0%84%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "전주 경기전",
+        "location": "전북특별자치도 전주시 완산구 태조로 44"
+      }
     },
     {
       "id": "jeondong-cathedral",
@@ -109,12 +127,21 @@
         {
           "title": "Wikipedia: Jeondong Cathedral",
           "url": "https://en.wikipedia.org/wiki/Jeondong_Cathedral"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9%20%EC%A0%84%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeondong%20Cathedral%20Jeonju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EB%8F%99%EC%84%B1%EB%8B%B9%20%EC%A0%84%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "전동성당",
+        "location": "전북특별자치도 전주시 완산구 태조로 51"
+      }
     },
     {
       "id": "pungnammun",
@@ -141,12 +168,21 @@
         {
           "title": "Wikipedia: 풍남문",
           "url": "https://ko.wikipedia.org/wiki/%ED%92%8D%EB%82%A8%EB%AC%B8"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%ED%92%8D%EB%82%A8%EB%AC%B8%20%EC%A0%84%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pungnammun%20Jeonju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%ED%92%8D%EB%82%A8%EB%AC%B8%20%EC%A0%84%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "풍남문",
+        "location": "전북특별자치도 전주시 완산구 풍남문3길 1"
+      }
     },
     {
       "id": "jeonju-hyanggyo",
@@ -172,12 +208,21 @@
         {
           "title": "Wikipedia: 전주향교",
           "url": "https://ko.wikipedia.org/wiki/%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90%20%EC%A0%84%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeonju%20Hyanggyo%20Jeonju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%ED%96%A5%EA%B5%90%20%EC%A0%84%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "전주향교",
+        "location": "전북특별자치도 전주시 완산구 향교길 139"
+      }
     }
   ]
 }

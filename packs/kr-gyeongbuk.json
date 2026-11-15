@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-gyeongbuk",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "경상북도"
   },
@@ -44,12 +44,21 @@
         {
           "title": "UNESCO: Historic Villages of Korea: Hahoe and Yangdong",
           "url": "https://whc.unesco.org/en/list/1324/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%ED%9A%8C%EB%A7%88%EC%9D%84%20%EC%95%88%EB%8F%99"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hahoe%20Folk%20Village%20Andong",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%ED%95%98%ED%9A%8C%EB%A7%88%EC%9D%84%20%EC%95%88%EB%8F%99",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "하회마을",
+        "location": "안동시"
+      }
     }
   ]
 }

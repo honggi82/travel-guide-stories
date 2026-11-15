@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "in-agra",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "아그라"
   },
@@ -34,12 +34,21 @@
         {
           "title": "Wikipedia: Taj Mahal",
           "url": "https://en.wikipedia.org/wiki/Taj_Mahal"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Agra"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taj%20Mahal%20Agra",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "타지 마할",
+        "location": "Dharmapuri, Forest Colony, Tajganj, Agra, 아그라 Uttar Pradesh 282001 인도"
+      }
     },
     {
       "id": "agra-fort",
@@ -108,12 +117,21 @@
         {
           "title": "Wikipedia: Itmad Ud Daulah",
           "url": "https://en.wikipedia.org/wiki/Itmad_Ud_Daulah"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Tomb%20of%20Itimad-ud-Daulah%20Agra"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tomb%20of%20Itimad-ud-Daulah%20Agra",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Itmad-ud-Daula",
+        "location": "Moti Bagh, 모티 바그 Agra, 아그라 Uttar Pradesh 282006 인도"
+      }
     },
     {
       "id": "mehtab-bagh",
@@ -141,12 +159,21 @@
         {
           "title": "Wikipedia: Mehtab Bagh",
           "url": "https://en.wikipedia.org/wiki/Mehtab_Bagh"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Mehtab%20Bagh%20Agra"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mehtab%20Bagh%20Agra",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Mehtab Bagh",
+        "location": "인도 282006 Uttar Pradesh, Agra, 나글라 데브짓"
+      }
     },
     {
       "id": "fatehpur-sikri",
@@ -179,12 +206,21 @@
         {
           "title": "UNESCO: Fatehpur Sikri",
           "url": "https://whc.unesco.org/en/list/255/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Fatehpur%20Sikri%20Agra"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fatehpur%20Sikri%20Agra",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "파테푸르 시크리",
+        "location": "283110 우타 프라데쉬, 인도; 아그라구"
+      }
     }
   ]
 }

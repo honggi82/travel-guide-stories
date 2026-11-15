@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "ca-toronto",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "토론토"
   },
@@ -146,12 +146,21 @@
         {
           "title": "Wikipedia: St. Lawrence Market South",
           "url": "https://en.wikipedia.org/wiki/St._Lawrence_Market_South"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=St.%20Lawrence%20Market%20South%20Toronto"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St.%20Lawrence%20Market%20South%20Toronto",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "세인트 로렌스 마켓",
+        "location": "캐나다 M5E 1C3 Ontario, Toronto"
+      }
     },
     {
       "id": "nathan-phillips-square",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-gyeongju",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "경주시"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Bulguksa",
           "url": "https://en.wikipedia.org/wiki/Bulguksa"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%B6%88%EA%B5%AD%EC%82%AC%20%EA%B2%BD%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulguksa%20Gyeongju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B6%88%EA%B5%AD%EC%82%AC%20%EA%B2%BD%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대한불교조계종 제11교구 본사 불국사",
+        "location": "경상북도 경주시 불국로 385"
+      }
     },
     {
       "id": "seokguram-grotto",
@@ -74,12 +83,21 @@
         {
           "title": "UNESCO: Seokguram Grotto and Bulguksa Temple",
           "url": "https://whc.unesco.org/en/list/736/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%9D%EA%B5%B4%EC%95%94%20%EA%B2%BD%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seokguram%20Gyeongju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9D%EA%B5%B4%EC%95%94%20%EA%B2%BD%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대한불교조계종 석굴암(경주)",
+        "location": "경상북도 경주시 석굴로 238"
+      }
     },
     {
       "id": "donggung-wolji",
@@ -109,12 +127,21 @@
         {
           "title": "Wikipedia: Donggung Palace and Wolji Pond",
           "url": "https://en.wikipedia.org/wiki/Donggung_Palace_and_Wolji_Pond"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80%20%EA%B2%BD%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Donggung%20Palace%20and%20Wolji%20Pond%20Gyeongju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80%20%EA%B2%BD%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "동궁과 월지",
+        "location": "경상북도 경주시 원화로 102"
+      }
     },
     {
       "id": "cheomseongdae",
@@ -140,12 +167,21 @@
         {
           "title": "Wikipedia: Cheomseongdae",
           "url": "https://en.wikipedia.org/wiki/Cheomseongdae"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80%20%EA%B2%BD%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cheomseongdae%20Gyeongju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B2%A8%EC%84%B1%EB%8C%80%20%EA%B2%BD%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "첨성대",
+        "location": "경상북도 경주시 인왕동 839-1"
+      }
     },
     {
       "id": "daereungwon",
@@ -173,12 +209,21 @@
         {
           "title": "Wikipedia: Daereungwon",
           "url": "https://en.wikipedia.org/wiki/Daereungwon"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EB%A6%89%EC%9B%90%20%EA%B2%BD%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daereungwon%20Gyeongju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EB%A6%89%EC%9B%90%20%EA%B2%BD%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대릉원",
+        "location": "경상북도 경주시 황남동 31-1"
+      }
     }
   ]
 }

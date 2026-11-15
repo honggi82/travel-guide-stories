@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-ulsan",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "울산광역시"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Daewangam Park",
           "url": "https://en.wikipedia.org/wiki/Daewangam_Park"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%99%95%EC%95%94%EA%B3%B5%EC%9B%90%20%EC%9A%B8%EC%82%B0"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Daewangam%20Park%20Ulsan",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EC%99%95%EC%95%94%EA%B3%B5%EC%9B%90%20%EC%9A%B8%EC%82%B0",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대왕암공원",
+        "location": "울산광역시 동구 등대로 95"
+      }
     }
   ]
 }

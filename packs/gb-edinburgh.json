@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "gb-edinburgh",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "에든버러"
   },
@@ -75,12 +75,21 @@
         {
           "title": "Wikipedia: Palace of Holyroodhouse",
           "url": "https://en.wikipedia.org/wiki/Palace_of_Holyroodhouse"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Holyroodhouse%20Edinburgh"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palace%20of%20Holyroodhouse%20Edinburgh",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "홀리루드 궁전",
+        "location": "Canongate, Edinburgh EH8 8DX 영국"
+      }
     },
     {
       "id": "royal-mile-edinburgh",
@@ -185,12 +194,21 @@
         {
           "title": "Wikipedia: National Museum of Scotland",
           "url": "https://en.wikipedia.org/wiki/National_Museum_of_Scotland"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Scotland%20Edinburgh"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Museum%20of%20Scotland%20Edinburgh",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "스코틀랜드 국립박물관",
+        "location": "Chambers St, Edinburgh EH1 1JF 영국"
+      }
     }
   ]
 }

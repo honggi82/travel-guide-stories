@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "jp-kyoto",
-  "version": 3,
+  "version": 4,
   "name": {
     "ko": "교토"
   },
@@ -194,12 +194,21 @@
         {
           "title": "Wikipedia: Ryōan-ji",
           "url": "https://en.wikipedia.org/wiki/Ry%C5%8Dan-ji"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ryoan-ji%20Kyoto"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ry%C5%8Dan-ji%20Kyoto",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ryoan-ji%20Kyoto",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "료안지",
+        "location": "13 Ryoanji Goryonoshitacho, Ukyo Ward, Kyoto, 616-8001 일본"
+      }
     }
   ]
 }

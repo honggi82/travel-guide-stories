@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-tongyeong",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "통영시"
   },
@@ -42,12 +42,21 @@
         {
           "title": "위키백과: 동피랑마을 (벽화와 마을 보존의 역사)",
           "url": "https://ko.wikipedia.org/wiki/%EB%8F%99%ED%94%BC%EB%9E%91%EB%A7%88%EC%9D%84"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%8F%99%ED%94%BC%EB%9E%91%EB%A7%88%EC%9D%84%20%ED%86%B5%EC%98%81"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dongpirang%20Village%20Tongyeong",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%8F%99%ED%94%BC%EB%9E%91%EB%A7%88%EC%9D%84%20%ED%86%B5%EC%98%81",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "동피랑 벽화마을",
+        "location": "경상남도 통영시 동호동 동피랑1길 6-18"
+      }
     }
   ]
 }

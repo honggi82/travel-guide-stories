@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "us-newyork",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "뉴욕"
   },
@@ -35,12 +35,21 @@
         {
           "title": "Wikipedia: Statue of Liberty",
           "url": "https://en.wikipedia.org/wiki/Statue_of_Liberty"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20Liberty%20New%20York"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Statue%20of%20Liberty%20New%20York",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "스테츄 오브 리버티 국가기념물",
+        "location": "미국 10004 New York"
+      }
     },
     {
       "id": "empire-state-building",
@@ -67,12 +76,21 @@
         {
           "title": "Wikipedia: Empire State Building",
           "url": "https://en.wikipedia.org/wiki/Empire_State_Building"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Empire%20State%20Building%20New%20York"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Empire%20State%20Building%20New%20York",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "엠파이어 스테이트 빌딩",
+        "location": "20 W 34th St., New York, NY 10001 미국"
+      }
     },
     {
       "id": "brooklyn-bridge",
@@ -101,12 +119,21 @@
         {
           "title": "Wikipedia: Brooklyn Bridge",
           "url": "https://en.wikipedia.org/wiki/Brooklyn_Bridge"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Bridge%20New%20York"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brooklyn%20Bridge%20New%20York",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "브루클린 교",
+        "location": "미국 10038 New York"
+      }
     },
     {
       "id": "metropolitan-museum-of-art",
@@ -178,12 +205,21 @@
         {
           "title": "Grand Central Terminal: official location and visitor information",
           "url": "https://grandcentralterminal.com/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Terminal%20New%20York"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Central%20Terminal%20New%20York",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "그랜드 센트럴 터미널",
+        "location": "89 E 42nd St, New York, NY 10017 미국"
+      }
     }
   ]
 }

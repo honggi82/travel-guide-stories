@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-yeosu",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "여수시"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Jinnamgwan",
           "url": "https://en.wikipedia.org/wiki/Jinnamgwan"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EB%82%A8%EA%B4%80%20%EC%97%AC%EC%88%98"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jinnamgwan%20Hall%20Yeosu",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A7%84%EB%82%A8%EA%B4%80%20%EC%97%AC%EC%88%98",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "진남관",
+        "location": "전라남도 여수시 진남로 11"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "za-capetown",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "케이프타운"
   },
@@ -35,12 +35,21 @@
         {
           "title": "Wikipedia: Table Mountain",
           "url": "https://en.wikipedia.org/wiki/Table_Mountain"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Table%20Mountain%20Cape%20Town"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Table%20Mountain%20Cape%20Town",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Maclear's Beacon",
+        "location": "남아프리카 케이프타운 테이블 마운틴"
+      }
     },
     {
       "id": "robben-island",
@@ -67,12 +76,21 @@
         {
           "title": "Wikipedia: Robben Island",
           "url": "https://en.wikipedia.org/wiki/Robben_Island"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Robben%20Island%20Cape%20Town"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robben%20Island%20Cape%20Town",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "로벤 섬",
+        "location": "남아프리카 공화국"
+      }
     },
     {
       "id": "kirstenbosch-garden",
@@ -100,12 +118,21 @@
         {
           "title": "Wikipedia: Kirstenbosch National Botanical Garden",
           "url": "https://en.wikipedia.org/wiki/Kirstenbosch_National_Botanical_Garden"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Kirstenbosch%20National%20Botanical%20Garden%20Cape%20Town"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirstenbosch%20National%20Botanical%20Garden%20Cape%20Town",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "커스텐보쉬 식물원",
+        "location": "Rhodes Dr, Newlands, Cape Town, 7735 남아프리카"
+      }
     },
     {
       "id": "bo-kaap",
@@ -134,12 +161,21 @@
         {
           "title": "Wikipedia: Bo-Kaap",
           "url": "https://en.wikipedia.org/wiki/Bo-Kaap"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Bo-Kaap%20Cape%20Town"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bo-Kaap%20Cape%20Town",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Bo-Kaap",
+        "location": "Schotsche Kloof, 케이프타운, 남아프리카 공화국"
+      }
     },
     {
       "id": "va-waterfront",
@@ -167,12 +203,21 @@
         {
           "title": "Wikipedia: Victoria & Alfred Waterfront",
           "url": "https://en.wikipedia.org/wiki/Victoria_%26_Alfred_Waterfront"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Victoria%20and%20Alfred%20Waterfront%20Cape%20Town"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20%26%20Alfred%20Waterfront%20Cape%20Town",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20and%20Alfred%20Waterfront%20Cape%20Town",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Victoria & Alfred Waterfront",
+        "location": "케이프타운, 남아프리카 공화국"
+      }
     }
   ]
 }

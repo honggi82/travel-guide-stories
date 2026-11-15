@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "au-melbourne",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "멜버른"
   },
@@ -36,12 +36,21 @@
         {
           "title": "Wikipedia: Federation Square",
           "url": "https://en.wikipedia.org/wiki/Federation_Square"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Federation%20Square%20Melbourne"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Federation%20Square%20Melbourne",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "페더레이션 스퀘어",
+        "location": "Swanston St & Flinders St, Melbourne VIC 3000 오스트레일리아"
+      }
     },
     {
       "id": "flinders-street-station",
@@ -69,12 +78,21 @@
         {
           "title": "Wikipedia: Flinders Street railway station",
           "url": "https://en.wikipedia.org/wiki/Flinders_Street_railway_station"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Flinders%20Street%20railway%20station%20Melbourne"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Flinders%20Street%20railway%20station%20Melbourne",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Flinders Street",
+        "location": "Flinders St, Melbourne VIC 3000 오스트레일리아"
+      }
     },
     {
       "id": "royal-exhibition-building",
@@ -138,12 +156,21 @@
         {
           "title": "Wikipedia: Shrine of Remembrance",
           "url": "https://en.wikipedia.org/wiki/Shrine_of_Remembrance"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Shrine%20of%20Remembrance%20Melbourne"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shrine%20of%20Remembrance%20Melbourne",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "슈라인 오브 리멤버랜스",
+        "location": "Birdwood Ave, Melbourne VIC 3004 오스트레일리아"
+      }
     },
     {
       "id": "state-library-victoria",

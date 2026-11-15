@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "in-delhi",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "델리"
   },
@@ -39,12 +39,21 @@
         {
           "title": "Wikipedia: Red Fort",
           "url": "https://en.wikipedia.org/wiki/Red_Fort"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Red%20Fort%20Delhi"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Fort%20Delhi",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "레드 포르",
+        "location": "Netaji Subhash Marg, Old Delhi, Lal Qila, Chandni Chowk, New Delhi, Delhi, 110006 인도"
+      }
     },
     {
       "id": "humayuns-tomb",

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "ch-switzerland",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "스위스"
   },
@@ -39,12 +39,21 @@
         {
           "title": "Wikipedia: Chillon Castle",
           "url": "https://en.wikipedia.org/wiki/Chillon_Castle"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Chillon%20Castle%20Montreux"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chillon%20Castle%20Montreux",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "시옹 성",
+        "location": "Av. de Chillon 21, 1820 Veytaux, 스위스"
+      }
     },
     {
       "id": "freddie-mercury-statue-montreux",
@@ -113,12 +122,21 @@
         {
           "title": "Wikipedia: Montreux Casino",
           "url": "https://en.wikipedia.org/wiki/Montreux_Casino"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Montreux%20Casino%20Montreux"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montreux%20Casino%20Montreux",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Casino Barrière Montreux",
+        "location": "Rue du Théâtre 9, 1820 Montreux, 스위스"
+      }
     },
     {
       "id": "rochers-de-naye",
@@ -147,12 +165,21 @@
         {
           "title": "Wikipedia: Rochers-de-Naye",
           "url": "https://en.wikipedia.org/wiki/Rochers-de-Naye"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Rochers%20de%20Naye%20Montreux"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rochers%20de%20Naye%20Montreux",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "로셰 드 녜",
+        "location": "스위스 1820 베이토"
+      }
     },
     {
       "id": "dent-de-jaman",
@@ -180,12 +207,21 @@
         {
           "title": "Wikipedia: Dent de Jaman",
           "url": "https://en.wikipedia.org/wiki/Dent_de_Jaman"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dent%20de%20Jaman%20Montreux"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dent%20de%20Jaman%20Montreux",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "덩 드 쟈멍",
+        "location": "스위스 1824 몽트뢰"
+      }
     }
   ]
 }

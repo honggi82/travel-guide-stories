@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "es-madrid",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "마드리드"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Museo del Prado",
           "url": "https://en.wikipedia.org/wiki/Museo_del_Prado"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%20Madrid"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museo%20del%20Prado%20Madrid",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "프라도 미술관",
+        "location": "레티로 28014 Madrid, 스페인"
+      }
     },
     {
       "id": "royal-palace-madrid",
@@ -183,12 +192,21 @@
         {
           "title": "Wikipedia: Puerta del Sol",
           "url": "https://en.wikipedia.org/wiki/Puerta_del_Sol"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Puerta%20del%20Sol%20Madrid"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Puerta%20del%20Sol%20Madrid",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Puerta del Sol",
+        "location": "우에스카 마드리드 스페인"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-sejong",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "세종특별자치시"
   },
@@ -46,12 +46,21 @@
         {
           "title": "참고 좌표: travel-guide-packs kr-sejong (GPS 검증을 대신하지 않음)",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sejong.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90%20%EC%84%B8%EC%A2%85"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sejong%20Lake%20Park%20Sejong",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%B8%EC%A2%85%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90%20%EC%84%B8%EC%A2%85",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "세종호수공원",
+        "location": "세종특별자치시 다솜로 216"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-daegu",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "대구광역시"
   },
@@ -41,12 +41,21 @@
         {
           "title": "한국관광공사: Daegu Seomun Market",
           "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=233&menuSn=977&vcontsId=87243"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5%20%EB%8C%80%EA%B5%AC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seomun%20Market%20Daegu",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EB%AC%B8%EC%8B%9C%EC%9E%A5%20%EB%8C%80%EA%B5%AC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "서문시장",
+        "location": "대구광역시 중구 큰장로26길 45"
+      }
     }
   ]
 }

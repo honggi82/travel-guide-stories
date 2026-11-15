@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "mx-mexico-city",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "멕시코시티"
   },
@@ -38,12 +38,21 @@
         {
           "title": "Wikipedia: Zócalo",
           "url": "https://en.wikipedia.org/wiki/Z%C3%B3calo"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Zocalo%20Mexico%20City"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Z%C3%B3calo%20Mexico%20City",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Zocalo%20Mexico%20City",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "소칼로 광장",
+        "location": "Pl. de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06010 Ciudad de México, CDMX, 멕시코"
+      }
     },
     {
       "id": "mexico-city-cathedral",
@@ -72,12 +81,21 @@
         {
           "title": "Wikipedia: Mexico City Metropolitan Cathedral",
           "url": "https://en.wikipedia.org/wiki/Mexico_City_Metropolitan_Cathedral"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%20Metropolitan%20Cathedral%20Mexico%20City"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mexico%20City%20Metropolitan%20Cathedral%20Mexico%20City",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "멕시코시티 메트로폴리탄 대성당",
+        "location": "Pl. de la Constitución S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06000 Ciudad de México, CDMX, 멕시코"
+      }
     },
     {
       "id": "palacio-bellas-artes",
@@ -106,12 +124,21 @@
         {
           "title": "Wikipedia: Palacio de Bellas Artes",
           "url": "https://en.wikipedia.org/wiki/Palacio_de_Bellas_Artes"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Bellas%20Artes%20Mexico%20City"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palacio%20de%20Bellas%20Artes%20Mexico%20City",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Palacio de Bellas Artes",
+        "location": "Av. Juárez S/N, Centro Histórico de la Cdad. de México, Centro, Cuauhtémoc, 06050 Ciudad de México, CDMX, 멕시코"
+      }
     },
     {
       "id": "chapultepec-castle",
@@ -140,12 +167,21 @@
         {
           "title": "Wikipedia: Chapultepec Castle",
           "url": "https://en.wikipedia.org/wiki/Chapultepec_Castle"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Chapultepec%20Castle%20Mexico%20City"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chapultepec%20Castle%20Mexico%20City",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "차풀테펙성",
+        "location": "Av. Heroico Colegio Militar 172, Bosque de Chapultepec I Secc, Miguel Hidalgo, 11580 Ciudad de México, CDMX, 멕시코"
+      }
     },
     {
       "id": "anthropology-museum-mexico",

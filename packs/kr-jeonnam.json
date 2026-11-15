@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-jeonnam",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "전라남도"
   },
@@ -44,12 +44,21 @@
         {
           "title": "UNESCO: Sansa, Buddhist Mountain Monasteries in Korea",
           "url": "https://whc.unesco.org/en/list/1562/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%A0%EC%95%94%EC%82%AC%20%EC%88%9C%EC%B2%9C"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seonamsa%20Suncheon",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%A0%EC%95%94%EC%82%AC%20%EC%88%9C%EC%B2%9C",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "한국불교태고종 선암사",
+        "location": "전라남도 순천시 승주읍 선암사길 450"
+      }
     }
   ]
 }

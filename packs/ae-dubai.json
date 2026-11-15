@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "ae-dubai",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "두바이"
   },
@@ -40,12 +40,21 @@
         {
           "title": "Burj Khalifa: official fact sheet",
           "url": "https://www.burjkhalifa.ae/en/assets/FACT-SHEET.pdf"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Burj%20Khalifa%20Dubai"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Burj%20Khalifa%20Dubai",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "부르즈 할리파",
+        "location": "1 Sheikh Mohammed bin Rashid Blvd - Burj Khalifa - Downtown Dubai - Dubai - 아랍에미리트"
+      }
     },
     {
       "id": "dubai-museum",
@@ -73,12 +82,21 @@
         {
           "title": "Wikipedia: Dubai Museum",
           "url": "https://en.wikipedia.org/wiki/Dubai_Museum"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dubai%20Museum%20Dubai"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Museum%20Dubai",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "두바이 박물관",
+        "location": "Al Fahidi Fort - Al Fahidi St - opp. Nova Hotel - Al Souq Al Kabeer - Al Fahidi - Dubai - 아랍에미리트"
+      }
     },
     {
       "id": "al-fahidi-historical-neighbourhood",
@@ -181,12 +199,21 @@
         {
           "title": "Wikipedia: Dubai Fountain",
           "url": "https://en.wikipedia.org/wiki/Dubai_Fountain"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dubai%20Fountain%20Dubai"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dubai%20Fountain%20Dubai",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "두바이 분수",
+        "location": "Burj Khalifa - Downtown Dubai - Dubai - 아랍에미리트"
+      }
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-gangneung",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "강릉시"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Ojukheon",
           "url": "https://en.wikipedia.org/wiki/Ojukheon"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%A3%BD%ED%97%8C%20%EA%B0%95%EB%A6%89"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ojukheon%20Gangneung",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%A4%EC%A3%BD%ED%97%8C%20%EA%B0%95%EB%A6%89",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "오죽헌",
+        "location": "강원특별자치도 강릉시 율곡로3139번길 24"
+      }
     },
     {
       "id": "gyeongpodae-pavilion",
@@ -143,12 +152,21 @@
         {
           "title": "Wikipedia: 강릉 선교장",
           "url": "https://ko.wikipedia.org/wiki/%EA%B0%95%EB%A6%89_%EC%84%A0%EA%B5%90%EC%9E%A5"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%A0%EA%B5%90%EC%9E%A5%20%EA%B0%95%EB%A6%89"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seongyojang%20Gangneung",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%A0%EA%B5%90%EC%9E%A5%20%EA%B0%95%EB%A6%89",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "선교장",
+        "location": "강원특별자치도 강릉시 운정길 63"
+      }
     },
     {
       "id": "jeongdongjin",
@@ -179,12 +197,21 @@
         {
           "title": "Wikipedia: 정동진",
           "url": "https://ko.wikipedia.org/wiki/%EC%A0%95%EB%8F%99%EC%A7%84"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EB%8F%99%EC%A7%84%20%EA%B0%95%EB%A6%89"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jeongdongjin%20Gangneung",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%A0%95%EB%8F%99%EC%A7%84%20%EA%B0%95%EB%A6%89",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "정동진리",
+        "location": "강원특별자치도 강릉시 강동면"
+      }
     }
   ]
 }

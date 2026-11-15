@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "us-washington",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "워싱턴"
   },
@@ -157,12 +157,21 @@
         {
           "title": "Wikipedia: United States Capitol",
           "url": "https://en.wikipedia.org/wiki/United_States_Capitol"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=United%20States%20Capitol%20Washington%20DC"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=United%20States%20Capitol%20Washington%20DC",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "미국 의회의사당",
+        "location": "미국 20004 District of Columbia, Washington"
+      }
     },
     {
       "id": "smithsonian-natural-history",

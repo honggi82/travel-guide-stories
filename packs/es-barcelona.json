@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "es-barcelona",
-  "version": 5,
+  "version": 6,
   "name": {
     "ko": "바르셀로나"
   },
@@ -76,12 +76,21 @@
         {
           "title": "Park Guell official: Over a hundred years of history",
           "url": "https://parkguell.barcelona/en/park-guell/over-hundred-years-history"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Park%20Guell%20Barcelona"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park+Guell+Barcelona",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Park%20Guell%20Barcelona",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "구엘 공원",
+        "location": "Gràcia, 08024 Barcelona, 바르셀로나 스페인"
+      }
     },
     {
       "id": "casa-batllo",
@@ -109,12 +118,21 @@
         {
           "title": "Wikipedia: Casa Batlló",
           "url": "https://en.wikipedia.org/wiki/Casa_Batll%C3%B3"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Casa%20Batllo%20Barcelona"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Batll%C3%B3%20Barcelona",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Casa%20Batllo%20Barcelona",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "카사 바트요",
+        "location": "Pg. de Gràcia, 43, Eixample, 08007 Barcelona, 스페인"
+      }
     },
     {
       "id": "casa-mila",

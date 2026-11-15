@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "it-venice",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "베네치아"
   },
@@ -45,12 +45,21 @@
         {
           "title": "Basilica di San Marco: essential chronology",
           "url": "https://www.basilicasanmarco.it/en/essential-chronology/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=St%20Mark%27s%20Basilica%20Venice"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=St%20Mark%27s%20Basilica%20Venice",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "산마르코 대성당",
+        "location": "P.za San Marco, 328, 30100 Venezia VE, 이탈리아"
+      }
     },
     {
       "id": "doges-palace-venice",
@@ -201,12 +210,21 @@
         {
           "title": "Wikipedia: La Fenice",
           "url": "https://en.wikipedia.org/wiki/La_Fenice"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=La%20Fenice%20Venice"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=La%20Fenice%20Venice",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "라 페니체",
+        "location": "Campo S. Fantin, 1965, 30124 Venezia VE, 이탈리아"
+      }
     }
   ]
 }

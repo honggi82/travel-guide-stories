@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "jp-osaka",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "오사카"
   },
@@ -148,12 +148,21 @@
         {
           "title": "Wikipedia: Shitennō-ji",
           "url": "https://en.wikipedia.org/wiki/Shitenn%C5%8D-ji"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%AF%BA%20%E5%A4%A7%E9%98%AA%20%E5%AF%BA"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shitennoji%20Osaka",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%AF%BA%20%E5%A4%A7%E9%98%AA%20%E5%AF%BA",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "시텐노지",
+        "location": "1 Chome-11-18 Shitennoji, Tennoji Ward, Osaka, 543-0051 일본"
+      }
     },
     {
       "id": "tsutenkaku",

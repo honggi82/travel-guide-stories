@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-busan",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "부산광역시"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Beomeosa",
           "url": "https://en.wikipedia.org/wiki/Beomeosa"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%B2%94%EC%96%B4%EC%82%AC%20%EB%B6%80%EC%82%B0"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Beomeosa%20Busan",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%B2%94%EC%96%B4%EC%82%AC%20%EB%B6%80%EC%82%B0",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "범어사",
+        "location": "부산광역시 금정구 범어사로 250"
+      }
     },
     {
       "id": "gamcheon-culture-village",
@@ -69,12 +78,21 @@
         {
           "title": "Wikipedia: Gamcheon Culture Village",
           "url": "https://en.wikipedia.org/wiki/Gamcheon_Culture_Village"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84%20%EB%B6%80%EC%82%B0"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gamcheon%20Culture%20Village%20Busan",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84%20%EB%B6%80%EC%82%B0",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "감천문화마을",
+        "location": "부산광역시 사하구 감내2로 203"
+      }
     },
     {
       "id": "haeundae-beach",
@@ -176,12 +194,21 @@
         {
           "title": "Wikipedia: Taejongdae",
           "url": "https://en.wikipedia.org/wiki/Taejongdae"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%ED%83%9C%EC%A2%85%EB%8C%80%20%EB%B6%80%EC%82%B0"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taejongdae%20Busan",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%ED%83%9C%EC%A2%85%EB%8C%80%20%EB%B6%80%EC%82%B0",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "태종대유원지",
+        "location": "부산광역시 영도구 전망로 24"
+      }
     }
   ]
 }

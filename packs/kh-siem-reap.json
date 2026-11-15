@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kh-siem-reap",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "시엠레아프"
   },
@@ -76,12 +76,21 @@
         {
           "title": "Wikipedia: Bayon",
           "url": "https://en.wikipedia.org/wiki/Bayon"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Bayon%20Siem%20Reap"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bayon%20Siem%20Reap",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "바이욘 사원",
+        "location": "캄보디아 시엠레아프"
+      }
     },
     {
       "id": "ta-prohm",
@@ -111,12 +120,21 @@
         {
           "title": "Wikipedia: Ta Prohm",
           "url": "https://en.wikipedia.org/wiki/Ta_Prohm"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ta%20Prohm%20Siem%20Reap"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ta%20Prohm%20Siem%20Reap",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "타 프롬 사원",
+        "location": "Krong Siem Reap, 캄보디아"
+      }
     },
     {
       "id": "banteay-srei",
@@ -146,12 +164,21 @@
         {
           "title": "Wikipedia: Banteay Srei",
           "url": "https://en.wikipedia.org/wiki/Banteay_Srei"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%91%E1%9E%94%E1%9E%93%E1%9F%92%E1%9E%91%E1%9E%B6%E1%9E%99%E1%9E%9F%E1%9F%92%E1%9E%9A%E1%9E%B8"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Banteay%20Srei%20Siem%20Reap",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%E1%9E%94%E1%9F%92%E1%9E%9A%E1%9E%B6%E1%9E%9F%E1%9E%B6%E1%9E%91%E1%9E%94%E1%9E%93%E1%9F%92%E1%9E%91%E1%9E%B6%E1%9E%99%E1%9E%9F%E1%9F%92%E1%9E%9A%E1%9E%B8",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "밴티 스라이 템플",
+        "location": "Angkor Archaeological Park, Siem Reap 17000 캄보디아"
+      }
     },
     {
       "id": "preah-khan-angkor",
@@ -181,12 +208,21 @@
         {
           "title": "Wikipedia: Preah Khan",
           "url": "https://en.wikipedia.org/wiki/Preah_Khan"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Preah%20Khan%20Siem%20Reap"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Preah%20Khan%20Siem%20Reap",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "쁘레아 칸",
+        "location": "Krong Siem Reap, 캄보디아"
+      }
     }
   ]
 }

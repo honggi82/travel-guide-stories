@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "it-florence",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "피렌체"
   },
@@ -124,12 +124,21 @@
         {
           "title": "Wikipedia: Ponte Vecchio",
           "url": "https://en.wikipedia.org/wiki/Ponte_Vecchio"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Ponte%20Vecchio%20Florence"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte%20Vecchio%20Florence",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "베키오 다리",
+        "location": "Ponte Vecchio, 50125 Firenze FI, 이탈리아"
+      }
     },
     {
       "id": "palazzo-vecchio",
@@ -159,12 +168,21 @@
         {
           "title": "Wikipedia: Palazzo Vecchio",
           "url": "https://en.wikipedia.org/wiki/Palazzo_Vecchio"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Vecchio%20Florence"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Vecchio%20Florence",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "베키오궁",
+        "location": "P.za della Signoria, 50122 Firenze FI, 이탈리아"
+      }
     },
     {
       "id": "accademia-gallery-florence",

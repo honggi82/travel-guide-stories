@@ -7,10 +7,10 @@
       "name": {
         "ko": "두바이"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10343,
-      "sha256": "95f0036454a89643e9eab9dc61b468efda77c25881f715b4f0cc2b9b8708816f",
+      "sizeBytes": 11577,
+      "sha256": "b4bb7914d1b5b9d06b577a0efba0c5a5bfa83508801e36b0645aa8df57d52199",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ae-dubai.json",
       "places": [
         {
@@ -111,10 +111,10 @@
       "name": {
         "ko": "빈"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 12287,
-      "sha256": "e25b50690b68b0035ab441c70a8692de20bd7aba56a7e9e2f65c51d56bd0d81f",
+      "sizeBytes": 13021,
+      "sha256": "3031e452800f6a1934595341e5433471c57e126e31e1994ff0ad7374348c269d",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/at-vienna.json",
       "places": [
         {
@@ -230,10 +230,10 @@
       "name": {
         "ko": "멜버른"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 9869,
-      "sha256": "efeb751ee28b4133a77677cd37c44fc6b542daa54f4794db88c26a46ecfedbba",
+      "sizeBytes": 11084,
+      "sha256": "694b7943bdb523f0d799c53bf08466f78ac1adae53c16f2d10b72c2d51a75147",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/au-melbourne.json",
       "places": [
         {
@@ -332,10 +332,10 @@
       "name": {
         "ko": "시드니"
       },
-      "version": 3,
+      "version": 4,
       "placeCount": 5,
-      "sizeBytes": 11732,
-      "sha256": "d02f9529baf0c55c1c9bdebe0bdcce3feaba701be1c1a800992e335a7f3d5883",
+      "sizeBytes": 12542,
+      "sha256": "ff795a584b1b8b377098a58372cabb2d15ec5b366fbca194b2045c4bc4787239",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/au-sydney.json",
       "places": [
         {
@@ -437,10 +437,10 @@
       "name": {
         "ko": "리우데자네이루"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 9899,
-      "sha256": "0c54810589d1cf7b7e442efe258e3217df7ea9a6da7308bea6cabbd53eceaf7f",
+      "sizeBytes": 11629,
+      "sha256": "80af30014490edff047eb79007bcc8bf68f19fe0b13399780626ecd4bcc47cdd",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/br-rio.json",
       "places": [
         {
@@ -552,10 +552,10 @@
       "name": {
         "ko": "토론토"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 9766,
-      "sha256": "333488aa51278f0a590a89a98021eb25f3f2ae39ce92db3af785832432c6e0f5",
+      "sizeBytes": 10151,
+      "sha256": "e13efcef446bd0b6cfacb8acfb8557999123fe2c80f0d92655a03952dd28e86d",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ca-toronto.json",
       "places": [
         {
@@ -653,10 +653,10 @@
       "name": {
         "ko": "밴쿠버"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 9719,
-      "sha256": "be9b16b58d03f7240624302b8e76e55e98666ef3f93c5191bba32972e52ff80a",
+      "sizeBytes": 10807,
+      "sha256": "5bc916c6c0aec7fddae28de09d3aeb457b91f5bff06bcfb8e471cd4d570240d3",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ca-vancouver.json",
       "places": [
         {
@@ -753,10 +753,10 @@
       "name": {
         "ko": "스위스"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 9805,
-      "sha256": "ae42938b63a2b39772c307a64ccfea9cf6c7624ceae510d6906a38241c0879a0",
+      "sizeBytes": 11251,
+      "sha256": "6cbafb3307b6a749ec8718e04e87a42046fcd8a4631a4b00bdf8fd9217762e83",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ch-switzerland.json",
       "places": [
         {
@@ -860,10 +860,10 @@
       "name": {
         "ko": "베이징"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 9690,
-      "sha256": "31c60507713d893d2ad1995cf06d97ff11f3aca038483b0603c27636cbc1ba13",
+      "sizeBytes": 10794,
+      "sha256": "8a6c67b427fb1d5f2854bd1b68c5623df6a87c1ee1b113509cf76c32426824a6",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cn-beijing.json",
       "places": [
         {
@@ -972,10 +972,10 @@
       "name": {
         "ko": "상하이"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10321,
-      "sha256": "b05e4316f994b3d4f1ace5ddbda8309caedfd32f9f86497cdb52cccedc319d18",
+      "sizeBytes": 11073,
+      "sha256": "e94eadacccf1528a8fe7ff682ecc7facf781eafd7cef7416e5eb1f357c78b0c6",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cn-shanghai.json",
       "places": [
         {
@@ -1077,10 +1077,10 @@
       "name": {
         "ko": "프라하"
       },
-      "version": 3,
+      "version": 4,
       "placeCount": 5,
-      "sizeBytes": 12070,
-      "sha256": "06709c09e0ae510d4faff87a477448c44e73e593e14d5ad021c2685648d45c70",
+      "sizeBytes": 12446,
+      "sha256": "b94ad7c253e4329876c1bd2f3f21cb2dce9efbc907b9dd7018dcae4a993a0d98",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cz-prague.json",
       "places": [
         {
@@ -1187,10 +1187,10 @@
       "name": {
         "ko": "베를린"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 12563,
-      "sha256": "0c5872314520165dca2409eb7307b31a0137cc0db40b4be3c1e809d389caabda",
+      "sizeBytes": 13266,
+      "sha256": "55ea48004c9271695b556bed4d92c81798f4c795905909bbd76e901fd2b3111c",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/de-berlin.json",
       "places": [
         {
@@ -1514,10 +1514,10 @@
       "name": {
         "ko": "바르셀로나"
       },
-      "version": 5,
+      "version": 6,
       "placeCount": 5,
-      "sizeBytes": 11361,
-      "sha256": "d68f1911a8a258bb490e882cdccf1d72824aca0acbc57c4815fb69b0dce98a50",
+      "sizeBytes": 12113,
+      "sha256": "5b9a965fcd21c57bf9e8b31d30e766d7699b8d92d7e5136d13e30cbc78b3f1f7",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
       "places": [
         {
@@ -1619,10 +1619,10 @@
       "name": {
         "ko": "마드리드"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 11164,
-      "sha256": "931e1464414f3f668c3c470c25a75bc512dba43e792b120f0ed8b38c8c9264fd",
+      "sizeBytes": 11888,
+      "sha256": "c79d6b9c73d32ff340598c57f7daf1df47a1d43a51441c460d6f1a5b9fa3f642",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-madrid.json",
       "places": [
         {
@@ -1828,10 +1828,10 @@
       "name": {
         "ko": "에든버러"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 11168,
-      "sha256": "03d33412d160a2b54a397645393501fc8d730567398b55909a2995ac6515bfde",
+      "sizeBytes": 11942,
+      "sha256": "2048654ab1cad362eef48bc1926974345f53afc5b64d0faffa1e1a1cde72693d",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gb-edinburgh.json",
       "places": [
         {
@@ -2036,10 +2036,10 @@
         "ko": "아테네",
         "en": "Athens"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 13348,
-      "sha256": "380b6f662e9dcd706affeb0586b9ebd3daddce1f8bfe12d76c0deb8cf43a74ad",
+      "sizeBytes": 13733,
+      "sha256": "7fb102b90d536843e23c9533872a85e74ff776007c1d65a2e6c377e638df2ce9",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gr-athens.json",
       "places": [
         {
@@ -2149,10 +2149,10 @@
       "name": {
         "ko": "부다페스트"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10929,
-      "sha256": "dbed108f38716547da4a77403116efb703fe0b2f87dd9b7d4020ca1724843e5e",
+      "sizeBytes": 12418,
+      "sha256": "f0e2cef486362f8d629adce138e65efc6f7a549448e58576dd38ca74768d3bf7",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/hu-budapest.json",
       "places": [
         {
@@ -2256,10 +2256,10 @@
       "name": {
         "ko": "아그라"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 10705,
-      "sha256": "5c66f25203799fa8fcacd4ce70dd55debbb872673b525aa81b4965627c775463",
+      "sizeBytes": 12246,
+      "sha256": "9085b906615c17e79caaf5a859fd76b86b0bcbab25aa1953935390d3af6b21c7",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/in-agra.json",
       "places": [
         {
@@ -2362,10 +2362,10 @@
       "name": {
         "ko": "델리"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10895,
-      "sha256": "5c71a1f8f6eba78d50f7d02238c1b63984104ed4abf765c8018658604d91ce15",
+      "sizeBytes": 11298,
+      "sha256": "8cd0e9b17f117de8b60588d94763fef75cf1cd320cb40e8110ec03f6da4daeca",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/in-delhi.json",
       "places": [
         {
@@ -2479,10 +2479,10 @@
       "name": {
         "ko": "피렌체"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 11669,
-      "sha256": "957da398f50d7a527d6eaa25867ad999a78ecf69d4546a31683b35c6def8a824",
+      "sizeBytes": 12415,
+      "sha256": "0c075c32b3fc9270bdc4312856a74f15df932223125368ac0d8ed075ad67cce0",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/it-florence.json",
       "places": [
         {
@@ -2703,10 +2703,10 @@
       "name": {
         "ko": "베네치아"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 11867,
-      "sha256": "5410c4cdb45c7d733c427c71f1f2b8c6bc404f217fe38bd2858010a14cf48c1f",
+      "sizeBytes": 12627,
+      "sha256": "9b711d198fd8f91e0a64f75aea3f6640476b76cdc40a5306b0dadb81435fe34c",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/it-venice.json",
       "places": [
         {
@@ -2823,10 +2823,10 @@
       "name": {
         "ko": "교토"
       },
-      "version": 3,
+      "version": 4,
       "placeCount": 5,
-      "sizeBytes": 11611,
-      "sha256": "de47c47529540be969708339ceac5cf2698db9c2ed244a76ba6d64da7f1cb9a4",
+      "sizeBytes": 11976,
+      "sha256": "d46dcccdfc9ac801d03c33477abdbe0d316335ba1832cc4b59c56a042eb7bbac",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-kyoto.json",
       "places": [
         {
@@ -2928,10 +2928,10 @@
       "name": {
         "ko": "오사카"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 11377,
-      "sha256": "cf2e8cce6a875396e709e32d6be51e58b1a2d61ea737b1f99c955cb7eac92069",
+      "sizeBytes": 11855,
+      "sha256": "8b3a81aff80ecad1a40acc980efaafb1789b719c7ad38e8bc99aa1f17ffe64e5",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-osaka.json",
       "places": [
         {
@@ -3138,10 +3138,10 @@
       "name": {
         "ko": "시엠레아프"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 9284,
-      "sha256": "bcf8f3e1f05f2381c5583ced0f282d10ce2172a7996c4116f30312502fdf3020",
+      "sizeBytes": 10978,
+      "sha256": "4c6424dd715212f1297fbbb0fc803db88f12968b589ed5f33d36ba186ee93440",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kh-siem-reap.json",
       "places": [
         {
@@ -3250,10 +3250,10 @@
       "name": {
         "ko": "부산광역시"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 10669,
-      "sha256": "b60882aeb01d02289b769e133d8273ced0ac36cea35fd88a88202ac4e1c2e44f",
+      "sizeBytes": 11958,
+      "sha256": "eb2492e6190177073221b88abbc688bf2d9588a88e5216f5e4ffab57f25b0e5b",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-busan.json",
       "places": [
         {
@@ -3353,10 +3353,10 @@
       "name": {
         "ko": "충청북도"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2348,
-      "sha256": "57a225b55b173f645f079d9474a40fee24cd94ceb020ccf142feedbf2284bfde",
+      "sizeBytes": 2813,
+      "sha256": "8b86665808c4d7daf0043f47512a96773a0c324e06f0846c970826d9a2175553",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-chungbuk.json",
       "places": [
         {
@@ -3388,10 +3388,10 @@
       "name": {
         "ko": "충청남도"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2364,
-      "sha256": "85601835bb60295e85320e914bdb99a62d8243183de38dced411623bdd9e6cb5",
+      "sizeBytes": 2826,
+      "sha256": "78e2d3c256ce4eec292acdf0dc735f3287516c9a09fc13801651acb319e73fa4",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-chungnam.json",
       "places": [
         {
@@ -3422,10 +3422,10 @@
       "name": {
         "ko": "대구광역시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2295,
-      "sha256": "5a0e1f5ea79cb4552c4bbf35b5bd78de460ae1bc136e062a358a58b640c37d49",
+      "sizeBytes": 2722,
+      "sha256": "4e07235296013bf2813658c6bf0babd7baa4123c2f7047ed8180189e9ab4c929",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-daegu.json",
       "places": [
         {
@@ -3454,10 +3454,10 @@
       "name": {
         "ko": "대전광역시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2203,
-      "sha256": "ec0115ce767d535819c6476cee9988b9028fe6dd0a02c1bf019cd45ab1ecbf42",
+      "sizeBytes": 2695,
+      "sha256": "f9bae4441e81c4474f31f89f93248c80430ebedcf9cce7bfc792cbd79ffe7419",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-daejeon.json",
       "places": [
         {
@@ -3486,10 +3486,10 @@
       "name": {
         "ko": "강릉시"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 10601,
-      "sha256": "d63a47e2f787dd30d8ce0410faa976e2661b8e21b5bfc41d946c9886ef606f27",
+      "sizeBytes": 11843,
+      "sha256": "43c571a0fdb104bb98e9a62aa6ee23a23e57a781389fb93a42fa298f1698b914",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gangneung.json",
       "places": [
         {
@@ -3623,10 +3623,10 @@
       "name": {
         "ko": "광주광역시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2275,
-      "sha256": "0ce1f51281a6696c56c52da3474e151174e6606a639abb1b6f800608774c3787",
+      "sizeBytes": 2792,
+      "sha256": "2f8f463eaba3014eefd0c05d8020c58a70ca01e3a93c66144353479586b747bc",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gwangju.json",
       "places": [
         {
@@ -3654,10 +3654,10 @@
       "name": {
         "ko": "경상북도"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2488,
-      "sha256": "1c6d73d4335aee28979838fcc84efd2517aa5f12fb79e07e9d2b1e16cec4b726",
+      "sizeBytes": 2876,
+      "sha256": "1c8c2178a05baf3eff557536e80191ca05958b0a4374e88f95ff272c61071c76",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeongbuk.json",
       "places": [
         {
@@ -3689,10 +3689,10 @@
       "name": {
         "ko": "경기도"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2470,
-      "sha256": "417530993dfd8323a1f40ab4a85e1b4d488cf689aa87a5e31f01b2941a16d389",
+      "sizeBytes": 2862,
+      "sha256": "cbd650ffc6cae3329fc5a92b83820c1da0d0fe62282ffbe7dcecc1453c001f3d",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeonggi.json",
       "places": [
         {
@@ -3725,10 +3725,10 @@
       "name": {
         "ko": "경주시"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 10230,
-      "sha256": "beb80a4ac1b708545430c0038fd7851ff0a92a44e6826d92156a31c19a94916a",
+      "sizeBytes": 12344,
+      "sha256": "ea7f3849c20e20c71f6c0ddf913d546b59e569c3897045426d8fee91a463b4de",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-gyeongju.json",
       "places": [
         {
@@ -3864,10 +3864,10 @@
       "name": {
         "ko": "인천광역시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2385,
-      "sha256": "946264591cf5054e9bd648f6033ed9b30d51c31cf45dc7788156e92d3592c28f",
+      "sizeBytes": 2849,
+      "sha256": "ef83021c398ba7e5cf1c04813776ca16dedcc9ae3cc9268e2a0fa415cbdfdeb8",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-incheon.json",
       "places": [
         {
@@ -4016,10 +4016,10 @@
       "name": {
         "ko": "전북특별자치도"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2276,
-      "sha256": "6f92d95cb01a383c675e9ebc060a861ffbf819940e733556c3cdfd85e86200cc",
+      "sizeBytes": 2747,
+      "sha256": "b7e35691bd18844e146cc3d8693a9f103af43d70b708bd67e27d21c6ebdff80e",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonbuk.json",
       "places": [
         {
@@ -4051,10 +4051,10 @@
       "name": {
         "ko": "전주시"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 10445,
-      "sha256": "0fac8cc3892e02de77c0db90e0660d03d286a0e6789af4a012a32cc9780d960d",
+      "sizeBytes": 12643,
+      "sha256": "a19a912bebeca010706a1e87449b6f3475574265cbbcd788a9774a291296d950",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonju.json",
       "places": [
         {
@@ -4150,10 +4150,10 @@
       "name": {
         "ko": "전라남도"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2368,
-      "sha256": "8be4a2977c08f972e56426f38401456bf8610be27df61611e22d49d05523aed0",
+      "sizeBytes": 2809,
+      "sha256": "5c50e12b4fc39228ccdf422b7bf04b03646ec22cdde597114fc453454b797075",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-jeonnam.json",
       "places": [
         {
@@ -4185,10 +4185,10 @@
       "name": {
         "ko": "세종특별자치시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2698,
-      "sha256": "9e8462548ae9ea8c994e73d2a7e897a360d568541edeb4b1e3614c251672a7bb",
+      "sizeBytes": 3156,
+      "sha256": "634c93f16f7419f9fcfcd550159638733f29dd44cc8985681395c1e35d21636f",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-sejong.json",
       "places": [
         {
@@ -4218,10 +4218,10 @@
       "name": {
         "ko": "서울특별시"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 10643,
-      "sha256": "3b78517de92ca3d1ef501ffd878897129b9236ab927a6f7b0d237115828b0465",
+      "sizeBytes": 11455,
+      "sha256": "a4334ee8568253785c73db38d5e12304ba1e277eb7685c13589f9cae9bd35a21",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-seoul.json",
       "places": [
         {
@@ -4319,10 +4319,10 @@
       "name": {
         "ko": "속초시"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 11006,
-      "sha256": "49a9c1b56346d920d1fe5a417414a95e8cd4002d7e2a26306104b9b4fc22309c",
+      "sizeBytes": 13256,
+      "sha256": "7e038810d47d53587ad3d5cc28cb76cf6ccc6871057fb84804e6f603d600d0b9",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-sokcho.json",
       "places": [
         {
@@ -4424,10 +4424,10 @@
       "name": {
         "ko": "통영시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2396,
-      "sha256": "f45f11bafcadfdbb29b373798cd517fe047159c9500e813198f6657e7a5f1f2d",
+      "sizeBytes": 2853,
+      "sha256": "3e8c9b2a6ef265b013b9d84cec390c44ee39b8b50186009e0ec45283e4f0ed29",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-tongyeong.json",
       "places": [
         {
@@ -4457,10 +4457,10 @@
       "name": {
         "ko": "울산광역시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2251,
-      "sha256": "26a75a28ac925d373d3b44b7b75dd965d39b719a8b3cca2fa525a09143c0bbad",
+      "sizeBytes": 2693,
+      "sha256": "18b343af40fdf333d9a53bd8ba4a4b5f24ce10a45c8dce0ffb17d4d03c96f226",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-ulsan.json",
       "places": [
         {
@@ -4489,10 +4489,10 @@
       "name": {
         "ko": "여수시"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2155,
-      "sha256": "b7d5367ddbc7d59dcb2f5fd1e2d947e18650e0f271d826418e0661abbca8b1dc",
+      "sizeBytes": 2554,
+      "sha256": "a0761a5dfc5aadc2861dc100c99a45e4d97130dad308fbcc6d5e12b4f64ddcfa",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kr-yeosu.json",
       "places": [
         {
@@ -4521,10 +4521,10 @@
       "name": {
         "ko": "멕시코시티"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10075,
-      "sha256": "80e2dc28ce99a2f16b8b585b9001c00cde0aa1269281d5152e4a87c450cd1870",
+      "sizeBytes": 11966,
+      "sha256": "5229aa6de95c88349f4d745b13aadd80df1be1024af49c0bbb11decc1a7b39ad",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/mx-mexico-city.json",
       "places": [
         {
@@ -4630,10 +4630,10 @@
       "name": {
         "ko": "암스테르담"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 12336,
-      "sha256": "7dd0be1b79cf73db0525ef25b85cd99fcdf3536002beecc266f6d5ce4e0a4da0",
+      "sizeBytes": 13132,
+      "sha256": "290c572b7e5f2a1b5130bcae0ff255cbea4ab06a040f6aa60f600a13ab6e703d",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/nl-amsterdam.json",
       "places": [
         {
@@ -4736,10 +4736,10 @@
       "name": {
         "ko": "오클랜드"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 9285,
-      "sha256": "32c2e502ab55765a1765078a2da98fdf0e10adf46d6349979cba21d4e4e0c412",
+      "sizeBytes": 11184,
+      "sha256": "b46a58e939af937a1258c12aaa0b11fb4b8782e26bceaf71f6d63a1e981436aa",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/nz-auckland.json",
       "places": [
         {
@@ -4841,10 +4841,10 @@
       "name": {
         "ko": "리스본"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 11542,
-      "sha256": "d0f8cb4711d5cba6abf0cbc00253178c44a651744da8e7235dc88c0b2cd49079",
+      "sizeBytes": 12289,
+      "sha256": "ba55ddbbd4bedae85c0281ae3d1b3e298e0711ad91299d52ceb54a83161292c7",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/pt-lisbon.json",
       "places": [
         {
@@ -4960,10 +4960,10 @@
       "name": {
         "ko": "싱가포르"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 12437,
-      "sha256": "f7bff91a7f812e012f9f459356e5821ffd453de63de5196ee9c760c1c15161b0",
+      "sizeBytes": 12814,
+      "sha256": "48b5f0389654f04b25cfdea1fa838d9e3a636f09819b287cfd2c2c3b46431e15",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/sg-singapore.json",
       "places": [
         {
@@ -5061,10 +5061,10 @@
       "name": {
         "ko": "방콕"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 11751,
-      "sha256": "7d685220782e2315ab7c65460e4a0cef539efcbe59e31ca341b56862e78e9e86",
+      "sizeBytes": 12554,
+      "sha256": "495d9d6566d609c37b1232b25436e11addabd8848c027a53a2fa8c1a786c0481",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/th-bangkok.json",
       "places": [
         {
@@ -5292,10 +5292,10 @@
       "name": {
         "ko": "타이베이"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10593,
-      "sha256": "f13f092f3311f1e385ff24bf74a54c2be04548bdc31990fe6bbddaacd5df2275",
+      "sizeBytes": 11310,
+      "sha256": "0aa4271f5049bed65ca329793f650e2589bae3cc5b52e46846f5ccc291ce2be7",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/tw-taipei.json",
       "places": [
         {
@@ -5406,10 +5406,10 @@
       "name": {
         "ko": "뉴욕"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 11091,
-      "sha256": "1d82f4b4b717b4e01ad3880029b324ce5fdab79eaabb8a6549c794d5072d76bc",
+      "sizeBytes": 12608,
+      "sha256": "084ce43170c155d5a37455a73eff7ff8de45ebca7e6b42daffe29510991a784f",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/us-newyork.json",
       "places": [
         {
@@ -5511,10 +5511,10 @@
       "name": {
         "ko": "샌프란시스코"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 9594,
-      "sha256": "dd88432504ff466eca6f5520018249f7bc6bc938c93d666c3d6cb0ab3c71b3e4",
+      "sizeBytes": 10362,
+      "sha256": "fafde457c29c604939d4042803a05b44f31dd69141d535b9ebdcc17f681494ec",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/us-sanfrancisco.json",
       "places": [
         {
@@ -5611,10 +5611,10 @@
       "name": {
         "ko": "워싱턴"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 10653,
-      "sha256": "7e25e028fb3f6106f2fd6ece8d0305e5f210f29b26afe6de4a463cc7f645c0bc",
+      "sizeBytes": 11047,
+      "sha256": "9708fbe4d030695021642eafc82110f27de4ae0dbc7d8a4611b268b1ec060139",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/us-washington.json",
       "places": [
         {
@@ -5728,10 +5728,10 @@
       "name": {
         "ko": "하노이"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 5,
-      "sizeBytes": 12286,
-      "sha256": "1bda502327e1e9351b6ec21480d63d2a6819e727192c1e6a555fec6ec728138f",
+      "sizeBytes": 12640,
+      "sha256": "2f6584496c546f81de7288f2dffcd0a0b7cf0ef428ca9ceaec392545b63cbad5",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/vn-hanoi.json",
       "places": [
         {
@@ -5844,10 +5844,10 @@
       "name": {
         "ko": "케이프타운"
       },
-      "version": 2,
+      "version": 3,
       "placeCount": 5,
-      "sizeBytes": 9438,
-      "sha256": "45f4fe050715f7b51267741eb463d4a79722e6f718f16af046765d648ca8084f",
+      "sizeBytes": 11361,
+      "sha256": "b3c170bd91ba17e26771ee66dd26fb007bc92be126cd3eff223d4bdfefd0af56",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/za-capetown.json",
       "places": [
         {

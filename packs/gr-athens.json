@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "gr-athens",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "아테네",
     "en": "Athens"
@@ -207,12 +207,21 @@
         {
           "title": "Panathenaic Stadium: modern reconstruction and the 1896 Olympics",
           "url": "https://www.panathenaicstadium.gr/en/sigxrono-stadio-2/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Panathenaic%20Stadium%20Athens"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Panathenaic%20Stadium%20Athens",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "Panathenaic Stadium",
+        "location": "Leof. Vasileos Konstantinou, Athina 116 35 그리스"
+      }
     }
   ]
 }

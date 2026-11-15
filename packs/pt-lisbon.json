@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "pt-lisbon",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "리스본"
   },
@@ -39,12 +39,21 @@
         {
           "title": "Wikipedia: Belém Tower",
           "url": "https://en.wikipedia.org/wiki/Bel%C3%A9m_Tower"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Belem%20Tower%20Lisbon"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bel%C3%A9m%20Tower%20Lisbon",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belem%20Tower%20Lisbon",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "벨렝탑",
+        "location": "Av. Brasília, 1400-038 Lisboa, 포르투갈"
+      }
     },
     {
       "id": "jeronimos-monastery",
@@ -196,12 +205,21 @@
         {
           "title": "Wikipedia: Santa Justa Lift",
           "url": "https://en.wikipedia.org/wiki/Santa_Justa_Lift"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Santa%20Justa%20Lift%20Lisbon"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Santa%20Justa%20Lift%20Lisbon",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "산타 후스타 엘리베이터",
+        "location": "R. de Santa Justa, 1150-060 Lisboa, 포르투갈"
+      }
     }
   ]
 }

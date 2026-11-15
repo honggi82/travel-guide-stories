@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "us-sanfrancisco",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "샌프란시스코"
   },
@@ -35,12 +35,21 @@
         {
           "title": "Wikipedia: Golden Gate Bridge",
           "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Bridge%20San%20Francisco"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Bridge%20San%20Francisco",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "골든게이트 교",
+        "location": "Golden Gate Brg, San Francisco, CA, 미국"
+      }
     },
     {
       "id": "alcatraz-island",
@@ -177,12 +186,21 @@
         {
           "title": "Wikipedia: Coit Tower",
           "url": "https://en.wikipedia.org/wiki/Coit_Tower"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Coit%20Tower%20San%20Francisco"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coit%20Tower%20San%20Francisco",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "코이트 타워",
+        "location": "1 Telegraph Hill Blvd, San Francisco, CA 94133 미국"
+      }
     }
   ]
 }

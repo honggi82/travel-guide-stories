@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-gyeonggi",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "경기도"
   },
@@ -45,12 +45,21 @@
         {
           "title": "수원시: Suwon Hwaseong Fortress (Google Arts & Culture)",
           "url": "https://artsandculture.google.com/story/suwon-hwaseong-fortress/sQWBo3ZQ5R_CLQ"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%ED%99%94%EC%84%B1%20%EC%88%98%EC%9B%90"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hwaseong%20Fortress%20Suwon",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%ED%99%94%EC%84%B1%20%EC%88%98%EC%9B%90",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "수원화성",
+        "location": "경기도 수원시 장안구 영화동 320-2"
+      }
     }
   ]
 }

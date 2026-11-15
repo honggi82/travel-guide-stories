@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "ca-vancouver",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "밴쿠버"
   },
@@ -35,12 +35,21 @@
         {
           "title": "Wikipedia: Stanley Park",
           "url": "https://en.wikipedia.org/wiki/Stanley_Park"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Stanley%20Park%20Vancouver"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stanley%20Park%20Vancouver",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "스탠리 공원",
+        "location": "Vancouver, BC V6G 1Z4 캐나다"
+      }
     },
     {
       "id": "capilano-suspension-bridge",
@@ -106,12 +115,21 @@
         {
           "title": "Wikipedia: Granville Island",
           "url": "https://en.wikipedia.org/wiki/Granville_Island"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Granville%20Island%20Vancouver"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Granville%20Island%20Vancouver",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "그랜빌 섬",
+        "location": "캐나다 브리티시컬럼비아 밴쿠버"
+      }
     },
     {
       "id": "gastown",
@@ -138,12 +156,21 @@
         {
           "title": "Wikipedia: Gastown",
           "url": "https://en.wikipedia.org/wiki/Gastown"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Gastown%20Vancouver"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gastown%20Vancouver",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "가스타운",
+        "location": "브리티시컬럼비아 밴쿠버, 캐나다"
+      }
     },
     {
       "id": "canada-place",

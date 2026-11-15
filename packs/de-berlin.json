@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "de-berlin",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "베를린"
   },
@@ -120,12 +120,21 @@
         {
           "title": "Wikipedia: Museum Island",
           "url": "https://en.wikipedia.org/wiki/Museum_Island"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Museum%20Island%20Berlin"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20Island%20Berlin",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "박물관 섬",
+        "location": "미테 베를린 독일"
+      }
     },
     {
       "id": "east-side-gallery",
@@ -197,12 +206,21 @@
         {
           "title": "Wikipedia: Berlin Cathedral",
           "url": "https://en.wikipedia.org/wiki/Berlin_Cathedral"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Berlin%20Cathedral%20Berlin"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berlin%20Cathedral%20Berlin",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "베를린 돔",
+        "location": "Am Lustgarten, 10178 Berlin, 독일"
+      }
     }
   ]
 }

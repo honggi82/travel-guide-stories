@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-sokcho",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "속초시"
   },
@@ -42,12 +42,21 @@
         {
           "title": "참고 좌표: travel-guide-packs의 설악산 소공원 (공원 전체나 GPS 위치 검증을 대신하지 않음)",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%84%A4%EC%95%85%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%86%8D%EC%B4%88"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seoraksan%20National%20Park%20Sokcho",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%84%A4%EC%95%85%EC%82%B0%EA%B5%AD%EB%A6%BD%EA%B3%B5%EC%9B%90%20%EC%86%8D%EC%B4%88",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "설악산국립공원",
+        "location": "강원특별자치도 속초시 설악산로 833 KR"
+      }
     },
     {
       "id": "sokcho-beach",
@@ -79,12 +88,21 @@
         {
           "title": "Reference coordinates: travel-guide-packs Sokcho catalog",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%20%EC%86%8D%EC%B4%88"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sokcho%20Beach%20Sokcho",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%86%8D%EC%B4%88%ED%95%B4%EC%88%98%EC%9A%95%EC%9E%A5%20%EC%86%8D%EC%B4%88",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "속초해변",
+        "location": "강원특별자치도 속초시 청호동 해오름로 186"
+      }
     },
     {
       "id": "abai-village",
@@ -112,12 +130,21 @@
         {
           "title": "Wikipedia: 아바이마을",
           "url": "https://ko.wikipedia.org/wiki/%EC%95%84%EB%B0%94%EC%9D%B4%EB%A7%88%EC%9D%84"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EB%B0%94%EC%9D%B4%EB%A7%88%EC%9D%84%20%EC%86%8D%EC%B4%88"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abai%20Village%20Sokcho",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%95%84%EB%B0%94%EC%9D%B4%EB%A7%88%EC%9D%84%20%EC%86%8D%EC%B4%88",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "아바이마을",
+        "location": "속초시 청호동 550-14"
+      }
     },
     {
       "id": "sinheungsa-sokcho",
@@ -150,12 +177,21 @@
         {
           "title": "Reference coordinates: travel-guide-packs Sokcho catalog",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%8B%A0%ED%9D%A5%EC%82%AC%20%EC%86%8D%EC%B4%88"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinheungsa%20Sokcho",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%8B%A0%ED%9D%A5%EC%82%AC%20%EC%86%8D%EC%B4%88",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대한불교조계종 제3교구 본사 신흥사",
+        "location": "강원특별자치도 속초시 특별자치도, 설악산로 1137"
+      }
     },
     {
       "id": "yeongnangho-lake",
@@ -186,12 +222,21 @@
         {
           "title": "Reference coordinates: travel-guide-packs Sokcho catalog",
           "url": "https://github.com/honggi82/travel-guide-packs/blob/main/packs/kr-sokcho.json"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EB%9E%91%ED%98%B8%20%EC%86%8D%EC%B4%88"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yeongnangho%20Lake%20Sokcho",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%98%81%EB%9E%91%ED%98%B8%20%EC%86%8D%EC%B4%88",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "영랑호",
+        "location": "속초시"
+      }
     }
   ]
 }

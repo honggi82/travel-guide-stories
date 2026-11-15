@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-daejeon",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "대전광역시"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Expo Science Park",
           "url": "https://en.wikipedia.org/wiki/Expo_Science_Park"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%97%91%EC%8A%A4%ED%8F%AC%EA%B3%BC%ED%95%99%EA%B3%B5%EC%9B%90%20%EB%8C%80%EC%A0%84"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Expo%20Science%20Park%20Daejeon",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%97%91%EC%8A%A4%ED%8F%AC%EA%B3%BC%ED%95%99%EA%B3%B5%EC%9B%90%20%EB%8C%80%EC%A0%84",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대전 엑스포 과학공원",
+        "location": "대전광역시 유성구 대덕대로 480"
+      }
     }
   ]
 }

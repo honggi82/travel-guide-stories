@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-chungnam",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "충청남도"
   },
@@ -43,12 +43,21 @@
         {
           "title": "UNESCO: Sansa, Buddhist Mountain Monasteries in Korea",
           "url": "https://whc.unesco.org/en/list/1562/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%A7%88%EA%B3%A1%EC%82%AC%20%EA%B3%B5%EC%A3%BC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Magoksa%20Gongju",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%A7%88%EA%B3%A1%EC%82%AC%20%EA%B3%B5%EC%A3%BC",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대한불교조계종 제6교구 본사 마곡사",
+        "location": "충청남도 공주시 사곡면 마곡사로 966"
+      }
     }
   ]
 }

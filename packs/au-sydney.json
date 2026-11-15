@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "au-sydney",
-  "version": 3,
+  "version": 4,
   "name": {
     "ko": "시드니"
   },
@@ -76,12 +76,21 @@
         {
           "title": "Transport for NSW: a short history of Sydney Harbour Bridge",
           "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/harbour-bridge-history.pdf"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sydney%20Harbour%20Bridge%20landmark%20Sydney"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Harbour%20Bridge%20Sydney",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Harbour%20Bridge%20landmark%20Sydney",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "시드니 하버 브리지",
+        "location": "Sydney Hbr Brg, Sydney NSW, 오스트레일리아"
+      }
     },
     {
       "id": "royal-botanic-garden-sydney",
@@ -194,12 +203,21 @@
         {
           "title": "Wikipedia: Queen Victoria Building",
           "url": "https://en.wikipedia.org/wiki/Queen_Victoria_Building"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Queen%20Victoria%20Building%20Sydney"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Queen%20Victoria%20Building%20Sydney",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "퀸 빅토리아 빌딩",
+        "location": "455 George St, Sydney NSW 2000 오스트레일리아"
+      }
     }
   ]
 }

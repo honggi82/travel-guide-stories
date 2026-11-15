@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "cz-prague",
-  "version": 3,
+  "version": 4,
   "name": {
     "ko": "프라하"
   },
@@ -195,12 +195,21 @@
         {
           "title": "Wikipedia: Dancing House",
           "url": "https://en.wikipedia.org/wiki/Dancing_House"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Dancing%20House%20Prague"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dancing%20House%20Prague",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "댄싱 하우스",
+        "location": "Jiráskovo nám. 1981/6, 120 00 Nové Město, 체코"
+      }
     }
   ]
 }

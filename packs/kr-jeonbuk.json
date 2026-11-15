@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-jeonbuk",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "전북특별자치도"
   },
@@ -40,12 +40,21 @@
         {
           "title": "Wikipedia: Naesosa",
           "url": "https://en.wikipedia.org/wiki/Naesosa"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EB%82%B4%EC%86%8C%EC%82%AC%20%EB%B6%80%EC%95%88"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Naesosa%20Buan",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EB%82%B4%EC%86%8C%EC%82%AC%20%EB%B6%80%EC%95%88",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "대한불교조계종 내소사",
+        "location": "전북특별자치도 부안군 특별자치도 진서면 내소사로 243"
+      }
     }
   ]
 }

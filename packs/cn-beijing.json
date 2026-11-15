@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "cn-beijing",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "베이징"
   },
@@ -37,12 +37,21 @@
         {
           "title": "Wikipedia: Forbidden City",
           "url": "https://en.wikipedia.org/wiki/Forbidden_City"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Forbidden%20City%20Beijing"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Forbidden%20City%20Beijing",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "자금성",
+        "location": "4 Jingshan Front St, Dongcheng, Beijing, 중국 100009"
+      }
     },
     {
       "id": "badaling-great-wall",
@@ -112,12 +121,21 @@
         {
           "title": "Wikipedia: Temple of Heaven",
           "url": "https://en.wikipedia.org/wiki/Temple_of_Heaven"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Temple%20of%20Heaven%20Beijing"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Temple%20of%20Heaven%20Beijing",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "천단",
+        "location": "Dongcheng, 중국 100061"
+      }
     },
     {
       "id": "summer-palace",
@@ -185,12 +203,21 @@
         {
           "title": "Wikipedia: Tiananmen Square",
           "url": "https://en.wikipedia.org/wiki/Tiananmen_Square"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Tiananmen%20Square%20Beijing"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tiananmen%20Square%20Beijing",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "톈안먼 광장",
+        "location": "중국 베이징 시 Dongcheng, 前门 邮政编码: 100051"
+      }
     }
   ]
 }

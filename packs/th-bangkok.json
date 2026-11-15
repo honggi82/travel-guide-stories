@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "th-bangkok",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "방콕"
   },
@@ -118,12 +118,21 @@
         {
           "title": "Wikipedia: Wat Arun",
           "url": "https://en.wikipedia.org/wiki/Wat_Arun"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Wat%20Arun%20Bangkok"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Arun%20Bangkok",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "아룬 사원(왓 아룬)",
+        "location": "158 Thanon Wang Doem, Wat Arun, Bangkok Yai, Bangkok 10600 태국"
+      }
     },
     {
       "id": "wat-saket",
@@ -153,12 +162,21 @@
         {
           "title": "Wikipedia: Wat Saket",
           "url": "https://en.wikipedia.org/wiki/Wat_Saket"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Wat%20Saket%20Bangkok"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Saket%20Bangkok",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "푸카오텅 (왓 싸껫)",
+        "location": "344 Chakkraphatdi Phong Rd, Ban Bat, Pom Prap Sattru Phai, Bangkok 10100 태국"
+      }
     },
     {
       "id": "jim-thompson-house",

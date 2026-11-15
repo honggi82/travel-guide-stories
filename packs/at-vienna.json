@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "at-vienna",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "빈"
   },
@@ -172,12 +172,21 @@
         {
           "title": "Vienna State Opera: the house from the outside",
           "url": "https://www.wiener-staatsoper.at/en/architecture/from-the-outside/"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Vienna%20State%20Opera%20Vienna"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vienna%20State%20Opera%20Vienna",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "빈 국립 오페라극장",
+        "location": "Opernring 2, 1010 Wien, 오스트리아"
+      }
     },
     {
       "id": "belvedere-vienna",
@@ -208,12 +217,21 @@
         {
           "title": "Wikipedia: Belvedere, Vienna",
           "url": "https://en.wikipedia.org/wiki/Belvedere%2C_Vienna"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Belvedere%20Palace%20Vienna"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belvedere%2C%20Vienna%20Vienna",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Belvedere%20Palace%20Vienna",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "벨베데레 궁전",
+        "location": "오스트리아 1030 Vienna"
+      }
     }
   ]
 }

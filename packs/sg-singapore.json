@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "sg-singapore",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "싱가포르"
   },
@@ -161,12 +161,21 @@
         {
           "title": "National Gallery Singapore: transformation of the buildings",
           "url": "https://www.nationalgallery.sg/sg/en/visit/tours/audio-guide.stop.html/building-history-highlights-audio-tour/5.html?lang=English"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20Singapore%20Singapore"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=National%20Gallery%20Singapore%20Singapore",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "내셔널 갤러리 싱가포르",
+        "location": "싱가포르 178957"
+      }
     },
     {
       "id": "marina-bay-sands",

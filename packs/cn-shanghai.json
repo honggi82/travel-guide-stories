@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "cn-shanghai",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "상하이"
   },
@@ -74,12 +74,21 @@
         {
           "title": "Wikipedia: Oriental Pearl Tower",
           "url": "https://en.wikipedia.org/wiki/Oriental_Pearl_Tower"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Oriental%20Pearl%20Tower%20Shanghai"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oriental%20Pearl%20Tower%20Shanghai",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "동방명주탑",
+        "location": "1 Shiji Blvd, Lujiazui, Pudong, Shanghai, 중국 200120"
+      }
     },
     {
       "id": "yu-garden",
@@ -182,12 +191,21 @@
         {
           "title": "Wikipedia: Jade Buddha Temple",
           "url": "https://en.wikipedia.org/wiki/Jade_Buddha_Temple"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Jade%20Buddha%20Temple%20Shanghai"
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jade%20Buddha%20Temple%20Shanghai",
-      "mapsVerification": "pending",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "위포쓰",
+        "location": "170 Anyuan Rd, Jing'An, 중국 200061"
+      }
     }
   ]
 }

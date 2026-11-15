@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "kr-incheon",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "인천광역시"
   },
@@ -41,12 +41,21 @@
         {
           "title": "인천광역시: Incheon Chinatown",
           "url": "https://www.incheon.go.kr/en/EN030115/view?contentid=264513"
+        },
+        {
+          "title": "Google Maps: live place identity (name and location)",
+          "url": "https://www.google.com/maps/search/?api=1&query=%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4%20%EC%9D%B8%EC%B2%9C"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Incheon%20Chinatown%20Incheon",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4%20%EC%9D%B8%EC%B2%9C",
+      "mapsVerification": "live-identity",
       "coordinatePrecision": "reference",
-      "license": "CC-BY-SA-4.0"
+      "license": "CC-BY-SA-4.0",
+      "mapsVerifiedAt": "2026-11-15",
+      "mapsIdentity": {
+        "name": "인천 차이나타운",
+        "location": "인천광역시 중구 차이나타운로26번길 12-17"
+      }
     }
   ]
 }

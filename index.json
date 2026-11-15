@@ -539,6 +539,117 @@
       ]
     },
     {
+      "id": "de-munich",
+      "name": {
+        "ko": "뮌헨"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 11436,
+      "sha256": "3d1fe0f0541ed0bef148e50ab5048e97bcd0cda2e1096bc2af40c9baf6343dac",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/de-munich.json",
+      "places": [
+        {
+          "id": "marienplatz-munich",
+          "name": {
+            "ko": "마리엔 광장",
+            "en": "Marienplatz"
+          },
+          "aliases": [
+            "마리엔광장",
+            "마리엔플라츠"
+          ],
+          "city": [
+            "Munich",
+            "München",
+            "뮌헨"
+          ],
+          "lat": 48.1373,
+          "lon": 11.5755
+        },
+        {
+          "id": "munich-residenz",
+          "name": {
+            "ko": "뮌헨 레지덴츠",
+            "en": "Munich Residenz"
+          },
+          "aliases": [
+            "뮌헨 레지던츠",
+            "레지덴츠",
+            "Munich Residence",
+            "Residenz München"
+          ],
+          "city": [
+            "Munich",
+            "München",
+            "뮌헨"
+          ],
+          "lat": 48.14111111,
+          "lon": 11.57805556
+        },
+        {
+          "id": "frauenkirche-munich",
+          "name": {
+            "ko": "뮌헨 프라우엔 교회",
+            "en": "Frauenkirche, Munich"
+          },
+          "aliases": [
+            "프라우엔 교회",
+            "프라우엔교회",
+            "뮌헨 대성당",
+            "Frauenkirche",
+            "Münchner Dom"
+          ],
+          "city": [
+            "Munich",
+            "München",
+            "뮌헨"
+          ],
+          "lat": 48.13861111,
+          "lon": 11.57388889
+        },
+        {
+          "id": "nymphenburg-palace",
+          "name": {
+            "ko": "님펜부르크 궁전",
+            "en": "Nymphenburg Palace"
+          },
+          "aliases": [
+            "님펜부르크궁전",
+            "님펜부르그 궁전",
+            "Schloss Nymphenburg"
+          ],
+          "city": [
+            "Munich",
+            "München",
+            "뮌헨"
+          ],
+          "lat": 48.158056,
+          "lon": 11.503611
+        },
+        {
+          "id": "englischer-garten",
+          "name": {
+            "ko": "뮌헨 영국 정원",
+            "en": "Englischer Garten"
+          },
+          "aliases": [
+            "영국 정원",
+            "잉글리시 가든",
+            "English Garden Munich",
+            "English Garden"
+          ],
+          "city": [
+            "Munich",
+            "München",
+            "뮌헨"
+          ],
+          "lat": 48.15277778,
+          "lon": 11.59194444
+        }
+      ]
+    },
+    {
       "id": "eg-giza",
       "name": {
         "ko": "카이로"
@@ -756,6 +867,112 @@
       ]
     },
     {
+      "id": "es-madrid",
+      "name": {
+        "ko": "마드리드"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 11164,
+      "sha256": "931e1464414f3f668c3c470c25a75bc512dba43e792b120f0ed8b38c8c9264fd",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-madrid.json",
+      "places": [
+        {
+          "id": "prado-museum",
+          "name": {
+            "ko": "프라도 미술관",
+            "en": "Museo del Prado"
+          },
+          "aliases": [
+            "프라도미술관",
+            "프라도 국립미술관",
+            "Museo Nacional del Prado",
+            "Prado Museum"
+          ],
+          "city": [
+            "Madrid",
+            "마드리드"
+          ],
+          "lat": 40.4139,
+          "lon": -3.6922
+        },
+        {
+          "id": "royal-palace-madrid",
+          "name": {
+            "ko": "마드리드 왕궁",
+            "en": "Royal Palace of Madrid"
+          },
+          "aliases": [
+            "마드리드왕궁",
+            "스페인 왕궁",
+            "Palacio Real de Madrid"
+          ],
+          "city": [
+            "Madrid",
+            "마드리드"
+          ],
+          "lat": 40.41805556,
+          "lon": -3.71416667
+        },
+        {
+          "id": "retiro-park-madrid",
+          "name": {
+            "ko": "레티로 공원",
+            "en": "Buen Retiro Park"
+          },
+          "aliases": [
+            "레티로공원",
+            "엘 레티로 공원",
+            "El Retiro Park",
+            "Parque de El Retiro",
+            "Retiro Park"
+          ],
+          "city": [
+            "Madrid",
+            "마드리드"
+          ],
+          "lat": 40.415,
+          "lon": -3.68388889
+        },
+        {
+          "id": "plaza-mayor-madrid",
+          "name": {
+            "ko": "마드리드 마요르 광장",
+            "en": "Plaza Mayor, Madrid"
+          },
+          "aliases": [
+            "마요르 광장",
+            "마요르광장",
+            "Plaza Mayor"
+          ],
+          "city": [
+            "Madrid",
+            "마드리드"
+          ],
+          "lat": 40.415364,
+          "lon": -3.707391
+        },
+        {
+          "id": "puerta-del-sol",
+          "name": {
+            "ko": "푸에르타 델 솔",
+            "en": "Puerta del Sol"
+          },
+          "aliases": [
+            "솔 광장",
+            "푸에르타델솔",
+            "태양의 문 광장"
+          ],
+          "city": [
+            "Madrid",
+            "마드리드"
+          ],
+          "lat": 40.41694444,
+          "lon": -3.70361111
+        }
+      ]
+    },
+    {
       "id": "fr-paris",
       "name": {
         "ko": "파리"
@@ -855,6 +1072,114 @@
           ],
           "lat": 48.886944,
           "lon": 2.343056
+        }
+      ]
+    },
+    {
+      "id": "gb-edinburgh",
+      "name": {
+        "ko": "에든버러"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 11168,
+      "sha256": "03d33412d160a2b54a397645393501fc8d730567398b55909a2995ac6515bfde",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gb-edinburgh.json",
+      "places": [
+        {
+          "id": "edinburgh-castle",
+          "name": {
+            "ko": "에든버러 성",
+            "en": "Edinburgh Castle"
+          },
+          "aliases": [
+            "에든버러성",
+            "에딘버러 성",
+            "에딘버러성"
+          ],
+          "city": [
+            "Edinburgh",
+            "에딘버러",
+            "에든버러"
+          ],
+          "lat": 55.94861111,
+          "lon": -3.20083333
+        },
+        {
+          "id": "holyroodhouse-palace",
+          "name": {
+            "ko": "홀리루드 궁전",
+            "en": "Palace of Holyroodhouse"
+          },
+          "aliases": [
+            "홀리루드하우스 궁전",
+            "홀리루드궁전",
+            "Holyrood Palace"
+          ],
+          "city": [
+            "Edinburgh",
+            "에딘버러",
+            "에든버러"
+          ],
+          "lat": 55.9525,
+          "lon": -3.1725
+        },
+        {
+          "id": "royal-mile-edinburgh",
+          "name": {
+            "ko": "로열 마일",
+            "en": "Royal Mile"
+          },
+          "aliases": [
+            "로얄 마일",
+            "로열마일",
+            "로얄마일"
+          ],
+          "city": [
+            "Edinburgh",
+            "에딘버러",
+            "에든버러"
+          ],
+          "lat": 55.95055556,
+          "lon": -3.18555556
+        },
+        {
+          "id": "arthurs-seat",
+          "name": {
+            "ko": "아서스 시트",
+            "en": "Arthur's Seat"
+          },
+          "aliases": [
+            "아서 시트",
+            "아더스 시트",
+            "아서스시트",
+            "Arthurs Seat"
+          ],
+          "city": [
+            "Edinburgh",
+            "에딘버러",
+            "에든버러"
+          ],
+          "lat": 55.94417,
+          "lon": -3.16194
+        },
+        {
+          "id": "national-museum-scotland",
+          "name": {
+            "ko": "스코틀랜드 국립박물관",
+            "en": "National Museum of Scotland"
+          },
+          "aliases": [
+            "스코틀랜드 국립 박물관",
+            "에든버러 국립박물관"
+          ],
+          "city": [
+            "Edinburgh",
+            "에딘버러",
+            "에든버러"
+          ],
+          "lat": 55.94694444,
+          "lon": -3.19
         }
       ]
     },
@@ -2816,10 +3141,10 @@
       "name": {
         "ko": "리스본"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2166,
-      "sha256": "f18677368fd7620abc0a92a57c864c6b941ffe2a6f8551b3e4469dc7de0b384a",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 11542,
+      "sha256": "d0f8cb4711d5cba6abf0cbc00253178c44a651744da8e7235dc88c0b2cd49079",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/pt-lisbon.json",
       "places": [
         {
@@ -2842,6 +3167,91 @@
           ],
           "lat": 38.69167,
           "lon": -9.21611
+        },
+        {
+          "id": "jeronimos-monastery",
+          "name": {
+            "ko": "제로니무스 수도원",
+            "en": "Jerónimos Monastery"
+          },
+          "aliases": [
+            "제로니모스 수도원",
+            "제로나무스 수도원",
+            "제로니무스수도원",
+            "Mosteiro dos Jerónimos",
+            "Jeronimos Monastery"
+          ],
+          "city": [
+            "Lisbon",
+            "Lisboa",
+            "리스본"
+          ],
+          "lat": 38.69777778,
+          "lon": -9.20611111
+        },
+        {
+          "id": "sao-jorge-castle",
+          "name": {
+            "ko": "상 조르즈 성",
+            "en": "São Jorge Castle"
+          },
+          "aliases": [
+            "상조르즈 성",
+            "상 조르제 성",
+            "상조르제성",
+            "Castelo de São Jorge",
+            "Sao Jorge Castle",
+            "Saint George's Castle"
+          ],
+          "city": [
+            "Lisbon",
+            "Lisboa",
+            "리스본"
+          ],
+          "lat": 38.71388889,
+          "lon": -9.13361111
+        },
+        {
+          "id": "praca-do-comercio",
+          "name": {
+            "ko": "코메르시우 광장",
+            "en": "Praça do Comércio"
+          },
+          "aliases": [
+            "코메르시오 광장",
+            "코메르시우광장",
+            "리스본 상업 광장",
+            "Praca do Comercio",
+            "Terreiro do Paço"
+          ],
+          "city": [
+            "Lisbon",
+            "Lisboa",
+            "리스본"
+          ],
+          "lat": 38.7075,
+          "lon": -9.13639
+        },
+        {
+          "id": "santa-justa-lift",
+          "name": {
+            "ko": "산타 주스타 엘리베이터",
+            "en": "Santa Justa Lift"
+          },
+          "aliases": [
+            "산타주스타 엘리베이터",
+            "산타 주스타 리프트",
+            "산타 주스타 승강기",
+            "Elevador de Santa Justa",
+            "Carmo Lift"
+          ],
+          "city": [
+            "Lisbon",
+            "Lisboa",
+            "리스본"
+          ],
+          "lat": 38.71222222,
+          "lon": -9.13944444
         }
       ]
     },

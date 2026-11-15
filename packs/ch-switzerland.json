@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "ch-switzerland",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "스위스"
   },
@@ -42,6 +42,147 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chillon%20Castle%20Montreux",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "freddie-mercury-statue-montreux",
+      "name": {
+        "ko": "몽트뢰 프레디 머큐리 동상",
+        "en": "Freddie Mercury Statue, Montreux"
+      },
+      "aliases": [
+        "프레디 머큐리 동상",
+        "프레디머큐리 동상",
+        "Freddie Mercury Statue",
+        "Statue de Freddie Mercury"
+      ],
+      "city": [
+        "Montreux",
+        "몽트뢰"
+      ],
+      "lat": 46.4320174234763,
+      "lon": 6.909120976924896,
+      "scripts": {
+        "ko": "몽트뢰 호숫가의 프레디 머큐리 동상 앞에서는 조각과 그 뒤의 레만호 풍경을 함께 바라보세요. 공연장의 가수를 기억하는 모습이 조용한 산책 공간 안에 놓여 있습니다. 한 음악가와 도시의 관계를 떠올리게 하는 장소입니다.\n\n프레디 머큐리는 몽트뢰에 살며 퀸과 녹음 작업을 했습니다. 그의 몽트뢰 생활을 기리기 위한 청동상은 1996년부터 호숫가 산책로에 서 있습니다. 무대에서 만들어진 기억과 실제 작업하고 머물렀던 도시의 기억이 연결됩니다.\n\n동상과 주변 산책로, 별도의 퀸 관련 전시 시설은 구분해야 합니다. 참고 좌표는 지역 관광청이 연결한 지도 위치이며 현장 GPS 확인을 대신하지 않습니다. 촬영할 때 다른 보행자의 통행을 배려하고 호숫가의 공개 구역과 보호 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Montreux",
+          "url": "https://en.wikipedia.org/wiki/Montreux"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Explore%2Bthe%2BMontreux%2BLakeside%2BPromenade%2C%2BMontreux%2C%2BSwitzerland"
+        },
+        {
+          "title": "Montreux Riviera: Freddie Mercury Statue and its linked reference location",
+          "url": "https://www.montreuxriviera.com/en/P976/freddie-mercury-statue"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Explore%2Bthe%2BMontreux%2BLakeside%2BPromenade%2C%2BMontreux%2C%2BSwitzerland",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "montreux-casino",
+      "name": {
+        "ko": "몽트뢰 카지노",
+        "en": "Montreux Casino"
+      },
+      "aliases": [
+        "몽트뢰카지노",
+        "Casino Barrière de Montreux"
+      ],
+      "city": [
+        "Montreux",
+        "몽트뢰"
+      ],
+      "lat": 46.4295,
+      "lon": 6.9117,
+      "scripts": {
+        "ko": "몽트뢰 카지노의 이야기는 게임 시설이라는 이름을 넘어 음악의 역사와 이어집니다. 레만호 가까이에서 이 건물을 바라보며 한 장소가 어떤 공연과 녹음의 기억을 쌓았는지 떠올려 보세요.\n\n1881년에 세워진 시설은 여러 음악 공연과 몽트뢰 재즈 페스티벌의 무대로 쓰였습니다. 1971년 화재 뒤 재건되었으며 이 화재는 딥 퍼플의 곡 스모크 온 더 워터와 연결되어 알려졌습니다. 건물 안의 마운틴 스튜디오도 퀸의 작업과 연결되는 공간입니다.\n\n오늘 보는 건물을 19세기의 원형이 그대로 남은 상태로 생각해서는 안 됩니다. 개별 공연·전시 공간과 카지노의 출입 조건은 다릅니다. 이 글은 시설 이용이나 당일 행사를 권유·보장하는 안내가 아니므로 방문할 공간의 실제 운영과 입구를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Montreux Casino",
+          "url": "https://en.wikipedia.org/wiki/Montreux_Casino"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Montreux%20Casino%20Montreux",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "rochers-de-naye",
+      "name": {
+        "ko": "로셰드네",
+        "en": "Rochers de Naye"
+      },
+      "aliases": [
+        "로셰 드 네",
+        "로쉐드네",
+        "Rochers-de-Naye"
+      ],
+      "city": [
+        "Montreux",
+        "Villeneuve",
+        "몽트뢰"
+      ],
+      "lat": 46.43194,
+      "lon": 6.976167,
+      "scripts": {
+        "ko": "로셰드네에서는 몽트뢰 호숫가에서 바라보던 산을 높은 지형의 관점으로 다시 생각해 볼 수 있습니다. 레만호 가까이 솟은 스위스 알프스의 산으로 높이는 약 2,042미터입니다.\n\n호수 쪽과 사린 계곡 쪽을 나누는 산줄기에 있으며 론강과 라인강으로 향하는 물길의 경계와도 연결됩니다. 눈앞의 능선을 단순한 전망으로 보다가 물이 어느 방향으로 흘러갈지 생각하면 산의 지리가 더 구체적으로 느껴집니다.\n\n이 좌표는 산 정상의 참고 지점이며 열차역이나 안전한 등산로 입구가 아닙니다. 방문일의 교통·기상과 탐방로 통제를 확인해야 합니다. 좌표를 곧장 따라 비공식 산길로 이동하지 말고 자신의 이동 능력에 맞는 공식 동선과 현장 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Rochers-de-Naye",
+          "url": "https://en.wikipedia.org/wiki/Rochers-de-Naye"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rochers%20de%20Naye%20Montreux",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "dent-de-jaman",
+      "name": {
+        "ko": "당드자망",
+        "en": "Dent de Jaman"
+      },
+      "aliases": [
+        "당 드 자망",
+        "덴트 드 자망",
+        "덴트 데 자만"
+      ],
+      "city": [
+        "Montreux",
+        "몽트뢰"
+      ],
+      "lat": 46.444917,
+      "lon": 6.974861,
+      "scripts": {
+        "ko": "당드자망은 몽트뢰 위쪽, 로셰드네 북쪽에 있는 약 1,875미터의 산입니다. 호숫가 도시에서 바라보는 산의 윤곽과 산지에서 경험하는 지형은 다릅니다. 멀리 보이는 봉우리의 이름을 알면 풍경을 읽는 단서가 하나 더 생깁니다.\n\n이곳을 일정에 넣을 때는 봉우리와 주변 산지, 실제 이용할 교통시설을 구분해 주세요. 산의 높이와 참고 좌표만으로 접근 경로나 보행 난도를 판단할 수는 없습니다. 전망을 감상하는 방문과 정상까지 가는 산행도 같은 계획이 아닙니다.\n\n참고 좌표는 정상의 위치이며 안전한 진입점을 지정하지 않습니다. 날씨와 공식 탐방 안내를 확인하고 통제되거나 비공식인 길로 좌표를 곧장 따라가지 말아 주세요. 자신의 장비와 이동 능력에 맞는 구간에서 산의 풍경을 경험해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Dent de Jaman",
+          "url": "https://en.wikipedia.org/wiki/Dent_de_Jaman"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dent%20de%20Jaman%20Montreux",
       "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

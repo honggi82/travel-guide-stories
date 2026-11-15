@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 2,
+  "id": "tw-taipei",
+  "version": 1,
+  "name": {
+    "ko": "타이베이"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "taipei-101",
+      "name": {
+        "ko": "타이베이 101",
+        "en": "Taipei 101"
+      },
+      "aliases": [
+        "타이페이 101",
+        "타이베이101",
+        "Taipei World Financial Center"
+      ],
+      "city": [
+        "Taipei",
+        "타이페이",
+        "타이베이"
+      ],
+      "lat": 25.0336,
+      "lon": 121.5647,
+      "scripts": {
+        "ko": "타이베이 101은 멀리서 도시를 바라볼 때와 가까운 거리에서 올려다볼 때의 인상이 다른 건물입니다. 위로 이어지는 형태를 따라 눈을 움직여 보세요. 높은 구조물이 주변의 길과 건물 사이에서 어떻게 위치를 드러내는지 살펴볼 수 있습니다.\n\n2004년 말 문을 연 이 초고층 건물은 지상 101층, 높이 약 508미터입니다. 한때 세계 최고층 건물이었지만 그 뒤 부르즈 할리파에 기록을 넘겼습니다. 건물이 세워졌을 때의 기록과 현재의 순위를 구분하면 변하는 도시의 역사를 이해하기 쉽습니다.\n\n전망대에서 관람할 기회가 있다면 아래의 거리와 가까운 산으로 시선을 넓혀 보세요. 쇼핑 공간과 전망대, 업무 공간은 입장 조건과 동선이 다릅니다. 이 참고 좌표가 모든 시설의 입구를 뜻하지는 않으므로 실제 방문권과 당일 운영 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Taipei 101",
+          "url": "https://en.wikipedia.org/wiki/Taipei_101"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/?api=1&query=Taipei+101+Taipei"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taipei+101+Taipei",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "chiang-kai-shek-memorial",
+      "name": {
+        "ko": "중정기념당",
+        "en": "Chiang Kai-shek Memorial Hall"
+      },
+      "aliases": [
+        "중정 기념당",
+        "장제스 기념관",
+        "CKS Memorial Hall"
+      ],
+      "city": [
+        "Taipei",
+        "타이페이",
+        "타이베이"
+      ],
+      "lat": 25.03444444,
+      "lon": 121.52166667,
+      "scripts": {
+        "ko": "중정기념당에서는 큰 계단과 기념 건물, 그 앞의 열린 광장을 함께 바라보세요. 한 인물을 기념하기 위해 만든 건축이 도시 안에서 어떤 규모와 배치로 드러나는지 살펴볼 수 있습니다. 건물의 형태와 그것이 담은 기억을 함께 읽는 관람입니다.\n\n기념당은 장제스를 기리기 위해 계엄 시기에 건설되어 1980년에 문을 열었습니다. 이 장소를 이해할 때는 기념의 목적뿐 아니라 대만의 계엄 통치와 그에 대한 성찰도 함께 생각해야 합니다. 근래에는 계엄 시기의 기억을 다루는 내용도 공간에 더해져 왔습니다.\n\n하나의 기념물이 시대와 사회에 따라 다른 질문을 받는다는 점을 떠올려 보세요. 건물과 주변 광장, 다른 문화 시설은 가까이 있어도 관람 대상과 운영이 다릅니다. 이 안내는 특정 의식이나 전시의 현재 운영을 보장하지 않습니다. 당일의 공개 구역과 행사 안내를 확인하고 관람해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Chiang Kai-shek Memorial Hall",
+          "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek_Memorial_Hall"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Chiang%20Kai-shek%20Memorial%20Hall%20Taipei",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "national-palace-museum-taipei",
+      "name": {
+        "ko": "타이베이 국립고궁박물원",
+        "en": "National Palace Museum"
+      },
+      "aliases": [
+        "국립고궁박물원",
+        "타이베이 고궁박물관",
+        "Taipei Palace Museum",
+        "國立故宮博物院"
+      ],
+      "city": [
+        "Taipei",
+        "타이페이",
+        "타이베이"
+      ],
+      "lat": 25.1022,
+      "lon": 121.5486,
+      "scripts": {
+        "ko": "국립고궁박물원에서는 작품 하나의 세부를 본 뒤 그 작품이 어느 시대와 재료로 만들어졌는지 살펴보세요. 많은 소장품을 한 번에 기억하기보다 몇 점을 비교하면 수집과 보존의 의미가 더 구체적으로 느껴집니다.\n\n박물원의 출발은 1925년 베이징으로 거슬러 올라가며 타이베이 스린의 시설은 1965년에 문을 열었습니다. 이처럼 기관과 소장품의 역사, 현재 건물의 개관 시기는 서로 다릅니다. 베이징의 고궁박물원과 타이베이의 국립고궁박물원은 현재 별도 시설입니다. 자이에 있는 남부 분원도 이곳과 다른 방문지입니다.\n\n여행 일정에는 어느 박물원과 분원을 방문하는지 구체적으로 적어 두면 좋겠습니다. 유명한 소장품이라도 대여나 보존·전시 교체에 따라 당일 볼 수 없을 수 있습니다. 현재 전시와 입장 위치를 확인하고 전시실의 촬영·보존 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: National Palace Museum",
+          "url": "https://en.wikipedia.org/wiki/National_Palace_Museum"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Visit%20the%20National%20Palace%20Museum%2C%20Taipei%2C%20Taiwan"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Visit%20the%20National%20Palace%20Museum%2C%20Taipei%2C%20Taiwan",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "lungshan-temple-taipei",
+      "name": {
+        "ko": "타이베이 용산사",
+        "en": "Lungshan Temple (Taipei)"
+      },
+      "aliases": [
+        "용산사",
+        "룽산사",
+        "Lungshan Temple",
+        "Longshan Temple",
+        "Bangka Lungshan Temple",
+        "艋舺龍山寺"
+      ],
+      "city": [
+        "Taipei",
+        "타이페이",
+        "타이베이"
+      ],
+      "lat": 25.03722,
+      "lon": 121.49944,
+      "scripts": {
+        "ko": "용산사에서는 전각의 장식과 마당을 오가는 사람들의 움직임을 함께 살펴보세요. 타이베이 완화 지역의 이 사원은 관광객이 찾는 유산이면서 신앙과 공동체의 활동이 이어지는 장소입니다. 관람하는 사람과 기도하는 사람이 같은 공간을 나눕니다.\n\n1738년에 푸젠 출신 이주민들이 세운 사원은 예배와 모임의 장소였습니다. 이후 지진과 화재, 전쟁 피해를 겪으며 거듭 고치고 다시 지었습니다. 오늘의 건물을 처음 세울 때부터 그대로 남은 것으로 생각해서는 안 됩니다. 이주와 정착, 복구의 역사가 함께 담겨 있습니다.\n\n다른 지역에도 용산사라는 이름이 있으므로 타이베이 완화의 사원인지 확인해야 합니다. 같은 이름의 지하철역도 사원 자체와는 별도 위치입니다. 공개된 동선을 따라 장식을 감상하고 예배와 촬영, 전각 출입에 대한 현장 안내를 존중해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Bangka Lungshan Temple",
+          "url": "https://en.wikipedia.org/wiki/Bangka_Lungshan_Temple"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/%E9%BE%8D%E5%B1%B1%E5%AF%BA"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/%E9%BE%8D%E5%B1%B1%E5%AF%BA",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "xiangshan-elephant-mountain",
+      "name": {
+        "ko": "타이베이 샹산",
+        "en": "Xiangshan, Taipei"
+      },
+      "aliases": [
+        "샹산",
+        "상산",
+        "코끼리산",
+        "Elephant Mountain",
+        "Mount Elephant"
+      ],
+      "city": [
+        "Taipei",
+        "타이페이",
+        "타이베이"
+      ],
+      "lat": 25.0269,
+      "lon": 121.5766,
+      "scripts": {
+        "ko": "샹산에서는 타이베이의 높은 건물과 가까운 산지가 함께 보이는 풍경을 만날 수 있습니다. 신이구의 이 산은 영어로 코끼리산이라고도 부릅니다. 도심의 거리에서 올려다본 타이베이 101을 산 쪽의 다른 각도에서 바라보는 경험이 될 수 있습니다.\n\n해발 약 183미터의 샹산에는 산책·등산 동선과 전망 지점들이 있습니다. 산이 낮다는 설명만으로 누구에게나 쉬운 길이라고 생각해서는 안 됩니다. 실제 경사와 계단, 날씨에 따라 이동 경험은 다릅니다. 같은 이름의 지하철역이나 공원과 산 정상의 위치도 구분해야 합니다.\n\n이 좌표는 산의 참고 지점이며 안전한 등산 진입점을 지정하지 않습니다. 전망을 보려고 비공식 지름길이나 바위 가장자리로 이동하지 말아 주세요. 당일 열려 있는 길과 날씨를 확인하고 자신의 이동 능력에 맞는 구간을 선택하며, 촬영할 때도 다른 사람의 통행을 배려해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Xiangshan, Taipei",
+          "url": "https://en.wikipedia.org/wiki/Xiangshan%2C_Taipei"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Xiangshan%2C%20Taipei%20Taipei",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

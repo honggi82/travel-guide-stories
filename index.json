@@ -3,6 +3,110 @@
   "updatedAt": "2026-11-15",
   "regions": [
     {
+      "id": "ae-dubai",
+      "name": {
+        "ko": "두바이"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10343,
+      "sha256": "95f0036454a89643e9eab9dc61b468efda77c25881f715b4f0cc2b9b8708816f",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ae-dubai.json",
+      "places": [
+        {
+          "id": "burj-khalifa",
+          "name": {
+            "ko": "부르즈 할리파",
+            "en": "Burj Khalifa"
+          },
+          "aliases": [
+            "버즈 칼리파",
+            "부르즈 칼리파",
+            "부르즈할리파"
+          ],
+          "city": [
+            "Dubai",
+            "두바이"
+          ],
+          "lat": 25.1972,
+          "lon": 55.2742
+        },
+        {
+          "id": "dubai-museum",
+          "name": {
+            "ko": "두바이 박물관",
+            "en": "Dubai Museum"
+          },
+          "aliases": [
+            "두바이박물관",
+            "알 파히디 요새",
+            "Al Fahidi Fort"
+          ],
+          "city": [
+            "Dubai",
+            "두바이"
+          ],
+          "lat": 25.26306,
+          "lon": 55.29722
+        },
+        {
+          "id": "al-fahidi-historical-neighbourhood",
+          "name": {
+            "ko": "알 파히디 역사 지구",
+            "en": "Al Fahidi Historical Neighbourhood"
+          },
+          "aliases": [
+            "알파히디 역사 지구",
+            "알 바스타키야",
+            "Al Bastakiya",
+            "Bastakiya"
+          ],
+          "city": [
+            "Dubai",
+            "두바이"
+          ],
+          "lat": 25.26389,
+          "lon": 55.3
+        },
+        {
+          "id": "palm-jumeirah",
+          "name": {
+            "ko": "팜 주메이라",
+            "en": "Palm Jumeirah"
+          },
+          "aliases": [
+            "팜주메이라",
+            "팜 주메이라 인공섬",
+            "더 팜 주메이라"
+          ],
+          "city": [
+            "Dubai",
+            "두바이"
+          ],
+          "lat": 25.11805556,
+          "lon": 55.13333333
+        },
+        {
+          "id": "dubai-fountain",
+          "name": {
+            "ko": "두바이 분수",
+            "en": "Dubai Fountain"
+          },
+          "aliases": [
+            "두바이분수",
+            "더 두바이 파운틴",
+            "The Dubai Fountain"
+          ],
+          "city": [
+            "Dubai",
+            "두바이"
+          ],
+          "lat": 25.1951849,
+          "lon": 55.2750599
+        }
+      ]
+    },
+    {
       "id": "at-vienna",
       "name": {
         "ko": "빈"
@@ -122,6 +226,108 @@
       ]
     },
     {
+      "id": "au-melbourne",
+      "name": {
+        "ko": "멜버른"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 9869,
+      "sha256": "efeb751ee28b4133a77677cd37c44fc6b542daa54f4794db88c26a46ecfedbba",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/au-melbourne.json",
+      "places": [
+        {
+          "id": "federation-square",
+          "name": {
+            "ko": "페더레이션 광장",
+            "en": "Federation Square"
+          },
+          "aliases": [
+            "페더레이션 스퀘어",
+            "페더레이션광장",
+            "Fed Square"
+          ],
+          "city": [
+            "Melbourne",
+            "멜버른"
+          ],
+          "lat": -37.817798,
+          "lon": 144.968714
+        },
+        {
+          "id": "flinders-street-station",
+          "name": {
+            "ko": "플린더스 스트리트역",
+            "en": "Flinders Street railway station"
+          },
+          "aliases": [
+            "플린더스 스트리트 역",
+            "플린더스역",
+            "Flinders Street Station"
+          ],
+          "city": [
+            "Melbourne",
+            "멜버른"
+          ],
+          "lat": -37.818078,
+          "lon": 144.96681
+        },
+        {
+          "id": "royal-exhibition-building",
+          "name": {
+            "ko": "왕립전시관",
+            "en": "Royal Exhibition Building"
+          },
+          "aliases": [
+            "멜버른 왕립전시관",
+            "로열 엑시비션 빌딩",
+            "왕립 전시관"
+          ],
+          "city": [
+            "Melbourne",
+            "멜버른"
+          ],
+          "lat": -37.80472222,
+          "lon": 144.97138889
+        },
+        {
+          "id": "shrine-remembrance-melbourne",
+          "name": {
+            "ko": "멜버른 전쟁기념관",
+            "en": "Shrine of Remembrance"
+          },
+          "aliases": [
+            "슈라인 오브 리멤브런스",
+            "멜버른 추모의 사원"
+          ],
+          "city": [
+            "Melbourne",
+            "멜버른"
+          ],
+          "lat": -37.830556,
+          "lon": 144.973444
+        },
+        {
+          "id": "state-library-victoria",
+          "name": {
+            "ko": "빅토리아 주립도서관",
+            "en": "State Library Victoria"
+          },
+          "aliases": [
+            "빅토리아 주립 도서관",
+            "스테이트 라이브러리 빅토리아",
+            "State Library of Victoria"
+          ],
+          "city": [
+            "Melbourne",
+            "멜버른"
+          ],
+          "lat": -37.809801,
+          "lon": 144.964787
+        }
+      ]
+    },
+    {
       "id": "au-sydney",
       "name": {
         "ko": "시드니"
@@ -231,10 +437,10 @@
       "name": {
         "ko": "리우데자네이루"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2284,
-      "sha256": "0fb78e1f15685d89ea3fbcfd439635695c252a99f44181b353417f179b2e19ef",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 9899,
+      "sha256": "0c54810589d1cf7b7e442efe258e3217df7ea9a6da7308bea6cabbd53eceaf7f",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/br-rio.json",
       "places": [
         {
@@ -255,6 +461,290 @@
           ],
           "lat": -22.95194,
           "lon": -43.21056
+        },
+        {
+          "id": "sugarloaf-mountain-rio",
+          "name": {
+            "ko": "슈거로프산",
+            "en": "Sugarloaf Mountain"
+          },
+          "aliases": [
+            "슈거로프 산",
+            "팡 지 아수카르",
+            "팡데아수카르",
+            "Pão de Açúcar"
+          ],
+          "city": [
+            "Rio de Janeiro",
+            "Rio",
+            "리우",
+            "리우데자네이루"
+          ],
+          "lat": -22.9494,
+          "lon": -43.1567
+        },
+        {
+          "id": "fort-copacabana",
+          "name": {
+            "ko": "코파카바나 요새",
+            "en": "Fort Copacabana"
+          },
+          "aliases": [
+            "코파카바나요새",
+            "코파카바나 포트",
+            "Forte de Copacabana"
+          ],
+          "city": [
+            "Rio de Janeiro",
+            "Rio",
+            "리우",
+            "리우데자네이루"
+          ],
+          "lat": -22.9858,
+          "lon": -43.1853
+        },
+        {
+          "id": "selaron-steps",
+          "name": {
+            "ko": "셀라론 계단",
+            "en": "Escadaria Selarón"
+          },
+          "aliases": [
+            "세라론 계단",
+            "셀라론계단",
+            "Selaron Steps",
+            "Lapa Steps"
+          ],
+          "city": [
+            "Rio de Janeiro",
+            "Rio",
+            "리우",
+            "리우데자네이루"
+          ],
+          "lat": -22.91432222,
+          "lon": -43.17895278
+        },
+        {
+          "id": "maracana-stadium",
+          "name": {
+            "ko": "마라카낭 경기장",
+            "en": "Maracanã Stadium"
+          },
+          "aliases": [
+            "마라카나 경기장",
+            "마라카낭",
+            "Maracana Stadium",
+            "Estádio Jornalista Mário Filho"
+          ],
+          "city": [
+            "Rio de Janeiro",
+            "Rio",
+            "리우",
+            "리우데자네이루"
+          ],
+          "lat": -22.9122,
+          "lon": -43.2303
+        }
+      ]
+    },
+    {
+      "id": "ca-toronto",
+      "name": {
+        "ko": "토론토"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 9766,
+      "sha256": "333488aa51278f0a590a89a98021eb25f3f2ae39ce92db3af785832432c6e0f5",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ca-toronto.json",
+      "places": [
+        {
+          "id": "cn-tower",
+          "name": {
+            "ko": "CN 타워",
+            "en": "CN Tower"
+          },
+          "aliases": [
+            "씨엔 타워",
+            "CN타워",
+            "토론토 CN 타워"
+          ],
+          "city": [
+            "Toronto",
+            "토론토"
+          ],
+          "lat": 43.64255556,
+          "lon": -79.38708333
+        },
+        {
+          "id": "royal-ontario-museum",
+          "name": {
+            "ko": "로열 온타리오 박물관",
+            "en": "Royal Ontario Museum"
+          },
+          "aliases": [
+            "왕립 온타리오 박물관",
+            "로열온타리오박물관",
+            "ROM"
+          ],
+          "city": [
+            "Toronto",
+            "토론토"
+          ],
+          "lat": 43.667679,
+          "lon": -79.394809
+        },
+        {
+          "id": "casa-loma",
+          "name": {
+            "ko": "카사 로마",
+            "en": "Casa Loma"
+          },
+          "aliases": [
+            "카사로마",
+            "토론토 카사 로마"
+          ],
+          "city": [
+            "Toronto",
+            "토론토"
+          ],
+          "lat": 43.6781,
+          "lon": -79.4095
+        },
+        {
+          "id": "st-lawrence-market-south",
+          "name": {
+            "ko": "세인트로렌스 마켓 남관",
+            "en": "St. Lawrence Market South"
+          },
+          "aliases": [
+            "세인트 로렌스 마켓 남관",
+            "성 로렌스 마켓 남관",
+            "St Lawrence Market South"
+          ],
+          "city": [
+            "Toronto",
+            "토론토"
+          ],
+          "lat": 43.64888889,
+          "lon": -79.37166667
+        },
+        {
+          "id": "nathan-phillips-square",
+          "name": {
+            "ko": "네이선 필립스 광장",
+            "en": "Nathan Phillips Square"
+          },
+          "aliases": [
+            "네이던 필립스 광장",
+            "네이선필립스광장"
+          ],
+          "city": [
+            "Toronto",
+            "토론토"
+          ],
+          "lat": 43.6525,
+          "lon": -79.38361111
+        }
+      ]
+    },
+    {
+      "id": "ca-vancouver",
+      "name": {
+        "ko": "밴쿠버"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 9719,
+      "sha256": "be9b16b58d03f7240624302b8e76e55e98666ef3f93c5191bba32972e52ff80a",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ca-vancouver.json",
+      "places": [
+        {
+          "id": "stanley-park",
+          "name": {
+            "ko": "스탠리 공원",
+            "en": "Stanley Park"
+          },
+          "aliases": [
+            "스탠리공원",
+            "밴쿠버 스탠리 공원"
+          ],
+          "city": [
+            "Vancouver",
+            "밴쿠버"
+          ],
+          "lat": 49.3,
+          "lon": -123.14
+        },
+        {
+          "id": "capilano-suspension-bridge",
+          "name": {
+            "ko": "캐필라노 서스펜션 브리지",
+            "en": "Capilano Suspension Bridge"
+          },
+          "aliases": [
+            "캐필라노 현수교",
+            "카필라노 서스펜션 브리지",
+            "Capilano Suspension Bridge Park"
+          ],
+          "city": [
+            "Vancouver",
+            "North Vancouver",
+            "노스밴쿠버",
+            "밴쿠버"
+          ],
+          "lat": 49.342874,
+          "lon": -123.115129
+        },
+        {
+          "id": "granville-island",
+          "name": {
+            "ko": "그랜빌 아일랜드",
+            "en": "Granville Island"
+          },
+          "aliases": [
+            "그랜빌아일랜드",
+            "그랜빌 섬"
+          ],
+          "city": [
+            "Vancouver",
+            "밴쿠버"
+          ],
+          "lat": 49.27083333,
+          "lon": -123.13416667
+        },
+        {
+          "id": "gastown",
+          "name": {
+            "ko": "개스타운",
+            "en": "Gastown"
+          },
+          "aliases": [
+            "가스타운",
+            "밴쿠버 개스타운"
+          ],
+          "city": [
+            "Vancouver",
+            "밴쿠버"
+          ],
+          "lat": 49.284688,
+          "lon": -123.110953
+        },
+        {
+          "id": "canada-place",
+          "name": {
+            "ko": "캐나다 플레이스",
+            "en": "Canada Place"
+          },
+          "aliases": [
+            "캐나다플레이스"
+          ],
+          "city": [
+            "Vancouver",
+            "밴쿠버"
+          ],
+          "lat": 49.288635,
+          "lon": -123.111119
         }
       ]
     },
@@ -263,10 +753,10 @@
       "name": {
         "ko": "스위스"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2232,
-      "sha256": "e56b7eded1975fc60b6efbe7df5d6fd92c57110f668feb0fb05bc3ba7b1af98b",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 9805,
+      "sha256": "ae42938b63a2b39772c307a64ccfea9cf6c7624ceae510d6906a38241c0879a0",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/ch-switzerland.json",
       "places": [
         {
@@ -289,6 +779,79 @@
           ],
           "lat": 46.41417,
           "lon": 6.9275
+        },
+        {
+          "id": "freddie-mercury-statue-montreux",
+          "name": {
+            "ko": "몽트뢰 프레디 머큐리 동상",
+            "en": "Freddie Mercury Statue, Montreux"
+          },
+          "aliases": [
+            "프레디 머큐리 동상",
+            "프레디머큐리 동상",
+            "Freddie Mercury Statue",
+            "Statue de Freddie Mercury"
+          ],
+          "city": [
+            "Montreux",
+            "몽트뢰"
+          ],
+          "lat": 46.4320174234763,
+          "lon": 6.909120976924896
+        },
+        {
+          "id": "montreux-casino",
+          "name": {
+            "ko": "몽트뢰 카지노",
+            "en": "Montreux Casino"
+          },
+          "aliases": [
+            "몽트뢰카지노",
+            "Casino Barrière de Montreux"
+          ],
+          "city": [
+            "Montreux",
+            "몽트뢰"
+          ],
+          "lat": 46.4295,
+          "lon": 6.9117
+        },
+        {
+          "id": "rochers-de-naye",
+          "name": {
+            "ko": "로셰드네",
+            "en": "Rochers de Naye"
+          },
+          "aliases": [
+            "로셰 드 네",
+            "로쉐드네",
+            "Rochers-de-Naye"
+          ],
+          "city": [
+            "Montreux",
+            "Villeneuve",
+            "몽트뢰"
+          ],
+          "lat": 46.43194,
+          "lon": 6.976167
+        },
+        {
+          "id": "dent-de-jaman",
+          "name": {
+            "ko": "당드자망",
+            "en": "Dent de Jaman"
+          },
+          "aliases": [
+            "당 드 자망",
+            "덴트 드 자망",
+            "덴트 데 자만"
+          ],
+          "city": [
+            "Montreux",
+            "몽트뢰"
+          ],
+          "lat": 46.444917,
+          "lon": 6.974861
         }
       ]
     },
@@ -297,10 +860,10 @@
       "name": {
         "ko": "베이징"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2175,
-      "sha256": "6d161190dcfa27a6910da729b909b0e1e6901af10f19952cb41aa9a8925aa20a",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 9690,
+      "sha256": "31c60507713d893d2ad1995cf06d97ff11f3aca038483b0603c27636cbc1ba13",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cn-beijing.json",
       "places": [
         {
@@ -321,6 +884,191 @@
           ],
           "lat": 39.91583,
           "lon": 116.39083
+        },
+        {
+          "id": "badaling-great-wall",
+          "name": {
+            "ko": "바다링 장성",
+            "en": "Badaling Great Wall"
+          },
+          "aliases": [
+            "팔달령 장성",
+            "바다링 만리장성",
+            "Badaling",
+            "Great Wall of Badaling"
+          ],
+          "city": [
+            "Beijing",
+            "Yanqing",
+            "베이징",
+            "북경"
+          ],
+          "lat": 40.35416667,
+          "lon": 116.00694444
+        },
+        {
+          "id": "temple-of-heaven",
+          "name": {
+            "ko": "천단",
+            "en": "Temple of Heaven"
+          },
+          "aliases": [
+            "천단공원",
+            "베이징 천단",
+            "Tiantan",
+            "天坛"
+          ],
+          "city": [
+            "Beijing",
+            "베이징",
+            "북경"
+          ],
+          "lat": 39.8822,
+          "lon": 116.4066
+        },
+        {
+          "id": "summer-palace",
+          "name": {
+            "ko": "이화원",
+            "en": "Summer Palace"
+          },
+          "aliases": [
+            "베이징 이화원",
+            "이허위안",
+            "Yiheyuan",
+            "颐和园"
+          ],
+          "city": [
+            "Beijing",
+            "베이징",
+            "북경"
+          ],
+          "lat": 39.9975,
+          "lon": 116.2689
+        },
+        {
+          "id": "tiananmen-square",
+          "name": {
+            "ko": "톈안먼 광장",
+            "en": "Tiananmen Square"
+          },
+          "aliases": [
+            "천안문 광장",
+            "톈안먼광장",
+            "Tian'anmen Square"
+          ],
+          "city": [
+            "Beijing",
+            "베이징",
+            "북경"
+          ],
+          "lat": 39.90333333,
+          "lon": 116.39166667
+        }
+      ]
+    },
+    {
+      "id": "cn-shanghai",
+      "name": {
+        "ko": "상하이"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10321,
+      "sha256": "b05e4316f994b3d4f1ace5ddbda8309caedfd32f9f86497cdb52cccedc319d18",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cn-shanghai.json",
+      "places": [
+        {
+          "id": "the-bund",
+          "name": {
+            "ko": "와이탄",
+            "en": "The Bund"
+          },
+          "aliases": [
+            "상하이 와이탄",
+            "외탄",
+            "外滩",
+            "Bund"
+          ],
+          "city": [
+            "Shanghai",
+            "상하이"
+          ],
+          "lat": 31.23802778,
+          "lon": 121.48613889
+        },
+        {
+          "id": "oriental-pearl-tower",
+          "name": {
+            "ko": "동방명주탑",
+            "en": "Oriental Pearl Tower"
+          },
+          "aliases": [
+            "동방명주",
+            "동방 명주탑",
+            "Oriental Pearl TV Tower"
+          ],
+          "city": [
+            "Shanghai",
+            "상하이"
+          ],
+          "lat": 31.241669,
+          "lon": 121.494717
+        },
+        {
+          "id": "yu-garden",
+          "name": {
+            "ko": "예원",
+            "en": "Yu Garden"
+          },
+          "aliases": [
+            "상하이 예원",
+            "위위안",
+            "Yuyuan Garden",
+            "豫园"
+          ],
+          "city": [
+            "Shanghai",
+            "상하이"
+          ],
+          "lat": 31.22916667,
+          "lon": 121.4875
+        },
+        {
+          "id": "shanghai-world-financial-center",
+          "name": {
+            "ko": "상하이 세계금융센터",
+            "en": "Shanghai World Financial Center"
+          },
+          "aliases": [
+            "상하이 월드 파이낸셜 센터",
+            "상하이세계금융센터",
+            "SWFC"
+          ],
+          "city": [
+            "Shanghai",
+            "상하이"
+          ],
+          "lat": 31.23666667,
+          "lon": 121.50277778
+        },
+        {
+          "id": "jade-buddha-temple",
+          "name": {
+            "ko": "옥불사",
+            "en": "Jade Buddha Temple"
+          },
+          "aliases": [
+            "상하이 옥불사",
+            "위포쓰",
+            "玉佛寺"
+          ],
+          "city": [
+            "Shanghai",
+            "상하이"
+          ],
+          "lat": 31.24319167,
+          "lon": 121.44052778
         }
       ]
     },
@@ -1610,6 +2358,123 @@
       ]
     },
     {
+      "id": "in-delhi",
+      "name": {
+        "ko": "델리"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10895,
+      "sha256": "5c71a1f8f6eba78d50f7d02238c1b63984104ed4abf765c8018658604d91ce15",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/in-delhi.json",
+      "places": [
+        {
+          "id": "red-fort-delhi",
+          "name": {
+            "ko": "델리 붉은 요새",
+            "en": "Red Fort"
+          },
+          "aliases": [
+            "델리 레드 포트",
+            "레드 포트",
+            "붉은 요새",
+            "Lal Qila"
+          ],
+          "city": [
+            "Delhi",
+            "New Delhi",
+            "뉴델리",
+            "델리"
+          ],
+          "lat": 28.65583333,
+          "lon": 77.24083333
+        },
+        {
+          "id": "humayuns-tomb",
+          "name": {
+            "ko": "후마윤 묘",
+            "en": "Humayun's Tomb"
+          },
+          "aliases": [
+            "후마윤묘",
+            "후마윤의 묘",
+            "Humayun’s Tomb",
+            "Humayun Tomb"
+          ],
+          "city": [
+            "Delhi",
+            "New Delhi",
+            "뉴델리",
+            "델리"
+          ],
+          "lat": 28.59327778,
+          "lon": 77.25069444
+        },
+        {
+          "id": "qutb-minar",
+          "name": {
+            "ko": "쿠트브 미나르",
+            "en": "Qutb Minar"
+          },
+          "aliases": [
+            "쿠툽 미나르",
+            "꾸뜹 미나르",
+            "Qutub Minar",
+            "Qutab Minar"
+          ],
+          "city": [
+            "Delhi",
+            "New Delhi",
+            "뉴델리",
+            "델리"
+          ],
+          "lat": 28.524355,
+          "lon": 77.185248
+        },
+        {
+          "id": "india-gate",
+          "name": {
+            "ko": "인디아 게이트",
+            "en": "India Gate"
+          },
+          "aliases": [
+            "인디아게이트",
+            "인도문",
+            "델리 인디아 게이트"
+          ],
+          "city": [
+            "Delhi",
+            "New Delhi",
+            "뉴델리",
+            "델리"
+          ],
+          "lat": 28.61286389,
+          "lon": 77.22930556
+        },
+        {
+          "id": "lotus-temple",
+          "name": {
+            "ko": "로터스 사원",
+            "en": "Lotus Temple"
+          },
+          "aliases": [
+            "로터스 템플",
+            "연꽃 사원",
+            "Bahá’í Lotus Temple",
+            "Bahai Lotus Temple"
+          ],
+          "city": [
+            "Delhi",
+            "New Delhi",
+            "뉴델리",
+            "델리"
+          ],
+          "lat": 28.553328,
+          "lon": 77.258456
+        }
+      ]
+    },
+    {
       "id": "it-florence",
       "name": {
         "ko": "피렌체"
@@ -2265,6 +3130,118 @@
           ],
           "lat": 35.6595,
           "lon": 139.70056
+        }
+      ]
+    },
+    {
+      "id": "kh-siem-reap",
+      "name": {
+        "ko": "시엠레아프"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 9284,
+      "sha256": "bcf8f3e1f05f2381c5583ced0f282d10ce2172a7996c4116f30312502fdf3020",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/kh-siem-reap.json",
+      "places": [
+        {
+          "id": "angkor-wat",
+          "name": {
+            "ko": "앙코르 와트",
+            "en": "Angkor Wat"
+          },
+          "aliases": [
+            "앙코르와트",
+            "앙코르 왓"
+          ],
+          "city": [
+            "Siem Reap",
+            "Angkor",
+            "씨엠립",
+            "시엠레아프"
+          ],
+          "lat": 13.4125,
+          "lon": 103.86666667
+        },
+        {
+          "id": "bayon-temple",
+          "name": {
+            "ko": "바이욘 사원",
+            "en": "Bayon"
+          },
+          "aliases": [
+            "바이욘",
+            "바욘 사원",
+            "Bayon Temple"
+          ],
+          "city": [
+            "Siem Reap",
+            "Angkor",
+            "씨엠립",
+            "시엠레아프"
+          ],
+          "lat": 13.44111111,
+          "lon": 103.85861111
+        },
+        {
+          "id": "ta-prohm",
+          "name": {
+            "ko": "타 프롬 사원",
+            "en": "Ta Prohm"
+          },
+          "aliases": [
+            "타프롬",
+            "타 프롬",
+            "따 프롬"
+          ],
+          "city": [
+            "Siem Reap",
+            "Angkor",
+            "씨엠립",
+            "시엠레아프"
+          ],
+          "lat": 13.435,
+          "lon": 103.88917
+        },
+        {
+          "id": "banteay-srei",
+          "name": {
+            "ko": "반테아이 스레이",
+            "en": "Banteay Srei"
+          },
+          "aliases": [
+            "반테이 스레이",
+            "반테이스레이",
+            "반테아이 스레이 사원"
+          ],
+          "city": [
+            "Siem Reap",
+            "Angkor",
+            "씨엠립",
+            "시엠레아프"
+          ],
+          "lat": 13.59889,
+          "lon": 103.96278
+        },
+        {
+          "id": "preah-khan-angkor",
+          "name": {
+            "ko": "프레아 칸 사원",
+            "en": "Preah Khan"
+          },
+          "aliases": [
+            "프레아칸",
+            "프레아 칸",
+            "Preah Khan Angkor"
+          ],
+          "city": [
+            "Siem Reap",
+            "Angkor",
+            "씨엠립",
+            "시엠레아프"
+          ],
+          "lat": 13.4619594,
+          "lon": 103.8715911
         }
       ]
     },
@@ -3540,6 +4517,115 @@
       ]
     },
     {
+      "id": "mx-mexico-city",
+      "name": {
+        "ko": "멕시코시티"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10075,
+      "sha256": "80e2dc28ce99a2f16b8b585b9001c00cde0aa1269281d5152e4a87c450cd1870",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/mx-mexico-city.json",
+      "places": [
+        {
+          "id": "zocalo-mexico-city",
+          "name": {
+            "ko": "소칼로 광장",
+            "en": "Zócalo"
+          },
+          "aliases": [
+            "소칼로",
+            "소깔로 광장",
+            "Zocalo",
+            "Plaza de la Constitución"
+          ],
+          "city": [
+            "Mexico City",
+            "Ciudad de México",
+            "멕시코시티"
+          ],
+          "lat": 19.43277778,
+          "lon": -99.13305556
+        },
+        {
+          "id": "mexico-city-cathedral",
+          "name": {
+            "ko": "멕시코시티 메트로폴리탄 대성당",
+            "en": "Mexico City Metropolitan Cathedral"
+          },
+          "aliases": [
+            "멕시코시티 대성당",
+            "메트로폴리탄 대성당",
+            "Catedral Metropolitana de México"
+          ],
+          "city": [
+            "Mexico City",
+            "Ciudad de México",
+            "멕시코시티"
+          ],
+          "lat": 19.4343942,
+          "lon": -99.1330824
+        },
+        {
+          "id": "palacio-bellas-artes",
+          "name": {
+            "ko": "팔라시오 데 베야스 아르테스",
+            "en": "Palacio de Bellas Artes"
+          },
+          "aliases": [
+            "베야스 아르테스 궁전",
+            "벨라스 아르테스 궁전",
+            "Palace of Fine Arts Mexico City"
+          ],
+          "city": [
+            "Mexico City",
+            "Ciudad de México",
+            "멕시코시티"
+          ],
+          "lat": 19.4353,
+          "lon": -99.1414
+        },
+        {
+          "id": "chapultepec-castle",
+          "name": {
+            "ko": "차풀테펙 성",
+            "en": "Chapultepec Castle"
+          },
+          "aliases": [
+            "차풀테펙성",
+            "차풀테펙 궁전",
+            "Castillo de Chapultepec"
+          ],
+          "city": [
+            "Mexico City",
+            "Ciudad de México",
+            "멕시코시티"
+          ],
+          "lat": 19.42055556,
+          "lon": -99.18166667
+        },
+        {
+          "id": "anthropology-museum-mexico",
+          "name": {
+            "ko": "멕시코 국립인류학박물관",
+            "en": "National Museum of Anthropology (Mexico)"
+          },
+          "aliases": [
+            "국립인류학박물관",
+            "멕시코시티 인류학박물관",
+            "Museo Nacional de Antropología"
+          ],
+          "city": [
+            "Mexico City",
+            "Ciudad de México",
+            "멕시코시티"
+          ],
+          "lat": 19.4261,
+          "lon": -99.1861
+        }
+      ]
+    },
+    {
       "id": "nl-amsterdam",
       "name": {
         "ko": "암스테르담"
@@ -3642,6 +4728,111 @@
           ],
           "lat": 52.3744,
           "lon": 4.898
+        }
+      ]
+    },
+    {
+      "id": "nz-auckland",
+      "name": {
+        "ko": "오클랜드"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 9285,
+      "sha256": "32c2e502ab55765a1765078a2da98fdf0e10adf46d6349979cba21d4e4e0c412",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/nz-auckland.json",
+      "places": [
+        {
+          "id": "sky-tower-auckland",
+          "name": {
+            "ko": "오클랜드 스카이 타워",
+            "en": "Sky Tower (Auckland)"
+          },
+          "aliases": [
+            "스카이 타워",
+            "스카이타워",
+            "Sky Tower"
+          ],
+          "city": [
+            "Auckland",
+            "오클랜드"
+          ],
+          "lat": -36.84847,
+          "lon": 174.76231
+        },
+        {
+          "id": "auckland-war-memorial-museum",
+          "name": {
+            "ko": "오클랜드 전쟁기념박물관",
+            "en": "Auckland War Memorial Museum"
+          },
+          "aliases": [
+            "오클랜드 박물관",
+            "Auckland Museum",
+            "Tāmaki Paenga Hira"
+          ],
+          "city": [
+            "Auckland",
+            "오클랜드"
+          ],
+          "lat": -36.86028,
+          "lon": 174.77778
+        },
+        {
+          "id": "auckland-art-gallery",
+          "name": {
+            "ko": "오클랜드 미술관",
+            "en": "Auckland Art Gallery"
+          },
+          "aliases": [
+            "오클랜드 아트 갤러리",
+            "Auckland Art Gallery Toi o Tāmaki",
+            "Toi o Tāmaki"
+          ],
+          "city": [
+            "Auckland",
+            "오클랜드"
+          ],
+          "lat": -36.8514,
+          "lon": 174.7663
+        },
+        {
+          "id": "maungawhau-mount-eden",
+          "name": {
+            "ko": "마웅아와우 마운트 이든",
+            "en": "Maungawhau / Mount Eden"
+          },
+          "aliases": [
+            "마운트 이든",
+            "마운트 에덴",
+            "마웅아와우",
+            "Mount Eden",
+            "Maungawhau"
+          ],
+          "city": [
+            "Auckland",
+            "오클랜드"
+          ],
+          "lat": -36.877,
+          "lon": 174.764
+        },
+        {
+          "id": "rangitoto-island",
+          "name": {
+            "ko": "랑기토토섬",
+            "en": "Rangitoto Island"
+          },
+          "aliases": [
+            "랑기토토 섬",
+            "랑기토토",
+            "Rangitoto"
+          ],
+          "city": [
+            "Auckland",
+            "오클랜드"
+          ],
+          "lat": -36.786742,
+          "lon": 174.860115
         }
       ]
     },
@@ -4097,6 +5288,120 @@
       ]
     },
     {
+      "id": "tw-taipei",
+      "name": {
+        "ko": "타이베이"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10593,
+      "sha256": "f13f092f3311f1e385ff24bf74a54c2be04548bdc31990fe6bbddaacd5df2275",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/tw-taipei.json",
+      "places": [
+        {
+          "id": "taipei-101",
+          "name": {
+            "ko": "타이베이 101",
+            "en": "Taipei 101"
+          },
+          "aliases": [
+            "타이페이 101",
+            "타이베이101",
+            "Taipei World Financial Center"
+          ],
+          "city": [
+            "Taipei",
+            "타이페이",
+            "타이베이"
+          ],
+          "lat": 25.0336,
+          "lon": 121.5647
+        },
+        {
+          "id": "chiang-kai-shek-memorial",
+          "name": {
+            "ko": "중정기념당",
+            "en": "Chiang Kai-shek Memorial Hall"
+          },
+          "aliases": [
+            "중정 기념당",
+            "장제스 기념관",
+            "CKS Memorial Hall"
+          ],
+          "city": [
+            "Taipei",
+            "타이페이",
+            "타이베이"
+          ],
+          "lat": 25.03444444,
+          "lon": 121.52166667
+        },
+        {
+          "id": "national-palace-museum-taipei",
+          "name": {
+            "ko": "타이베이 국립고궁박물원",
+            "en": "National Palace Museum"
+          },
+          "aliases": [
+            "국립고궁박물원",
+            "타이베이 고궁박물관",
+            "Taipei Palace Museum",
+            "國立故宮博物院"
+          ],
+          "city": [
+            "Taipei",
+            "타이페이",
+            "타이베이"
+          ],
+          "lat": 25.1022,
+          "lon": 121.5486
+        },
+        {
+          "id": "lungshan-temple-taipei",
+          "name": {
+            "ko": "타이베이 용산사",
+            "en": "Lungshan Temple (Taipei)"
+          },
+          "aliases": [
+            "용산사",
+            "룽산사",
+            "Lungshan Temple",
+            "Longshan Temple",
+            "Bangka Lungshan Temple",
+            "艋舺龍山寺"
+          ],
+          "city": [
+            "Taipei",
+            "타이페이",
+            "타이베이"
+          ],
+          "lat": 25.03722,
+          "lon": 121.49944
+        },
+        {
+          "id": "xiangshan-elephant-mountain",
+          "name": {
+            "ko": "타이베이 샹산",
+            "en": "Xiangshan, Taipei"
+          },
+          "aliases": [
+            "샹산",
+            "상산",
+            "코끼리산",
+            "Elephant Mountain",
+            "Mount Elephant"
+          ],
+          "city": [
+            "Taipei",
+            "타이페이",
+            "타이베이"
+          ],
+          "lat": 25.0269,
+          "lon": 121.5766
+        }
+      ]
+    },
+    {
       "id": "us-newyork",
       "name": {
         "ko": "뉴욕"
@@ -4198,6 +5503,223 @@
           ],
           "lat": 40.7528,
           "lon": -73.9772
+        }
+      ]
+    },
+    {
+      "id": "us-sanfrancisco",
+      "name": {
+        "ko": "샌프란시스코"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 9594,
+      "sha256": "dd88432504ff466eca6f5520018249f7bc6bc938c93d666c3d6cb0ab3c71b3e4",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/us-sanfrancisco.json",
+      "places": [
+        {
+          "id": "golden-gate-bridge",
+          "name": {
+            "ko": "금문교",
+            "en": "Golden Gate Bridge"
+          },
+          "aliases": [
+            "골든 게이트 브리지",
+            "골든게이트브리지"
+          ],
+          "city": [
+            "San Francisco",
+            "샌프란시스코"
+          ],
+          "lat": 37.81972222,
+          "lon": -122.47861111
+        },
+        {
+          "id": "alcatraz-island",
+          "name": {
+            "ko": "앨커트래즈섬",
+            "en": "Alcatraz Island"
+          },
+          "aliases": [
+            "알카트라즈 섬",
+            "알카트라즈",
+            "앨커트래즈 섬"
+          ],
+          "city": [
+            "San Francisco",
+            "샌프란시스코"
+          ],
+          "lat": 37.82666667,
+          "lon": -122.42277778
+        },
+        {
+          "id": "golden-gate-park",
+          "name": {
+            "ko": "골든 게이트 공원",
+            "en": "Golden Gate Park"
+          },
+          "aliases": [
+            "골든게이트 공원",
+            "골든게이트공원"
+          ],
+          "city": [
+            "San Francisco",
+            "샌프란시스코"
+          ],
+          "lat": 37.76972222,
+          "lon": -122.47694444
+        },
+        {
+          "id": "san-francisco-ferry-building",
+          "name": {
+            "ko": "샌프란시스코 페리 빌딩",
+            "en": "San Francisco Ferry Building"
+          },
+          "aliases": [
+            "페리 빌딩",
+            "페리빌딩",
+            "Ferry Building"
+          ],
+          "city": [
+            "San Francisco",
+            "샌프란시스코"
+          ],
+          "lat": 37.7955,
+          "lon": -122.3937
+        },
+        {
+          "id": "coit-tower",
+          "name": {
+            "ko": "코이트 타워",
+            "en": "Coit Tower"
+          },
+          "aliases": [
+            "코잇 타워",
+            "코이트타워"
+          ],
+          "city": [
+            "San Francisco",
+            "샌프란시스코"
+          ],
+          "lat": 37.8025,
+          "lon": -122.40583333
+        }
+      ]
+    },
+    {
+      "id": "us-washington",
+      "name": {
+        "ko": "워싱턴"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10653,
+      "sha256": "7e25e028fb3f6106f2fd6ece8d0305e5f210f29b26afe6de4a463cc7f645c0bc",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/us-washington.json",
+      "places": [
+        {
+          "id": "national-mall",
+          "name": {
+            "ko": "내셔널 몰",
+            "en": "National Mall"
+          },
+          "aliases": [
+            "내셔널몰",
+            "워싱턴 내셔널 몰"
+          ],
+          "city": [
+            "Washington DC",
+            "Washington, D.C.",
+            "Washington",
+            "워싱턴 DC",
+            "워싱턴"
+          ],
+          "lat": 38.89,
+          "lon": -77.02361111
+        },
+        {
+          "id": "lincoln-memorial",
+          "name": {
+            "ko": "링컨 기념관",
+            "en": "Lincoln Memorial"
+          },
+          "aliases": [
+            "링컨기념관",
+            "링컨 메모리얼"
+          ],
+          "city": [
+            "Washington DC",
+            "Washington, D.C.",
+            "Washington",
+            "워싱턴 DC",
+            "워싱턴"
+          ],
+          "lat": 38.88927778,
+          "lon": -77.05013889
+        },
+        {
+          "id": "washington-monument",
+          "name": {
+            "ko": "워싱턴 기념탑",
+            "en": "Washington Monument"
+          },
+          "aliases": [
+            "워싱턴기념탑",
+            "워싱턴 모뉴먼트"
+          ],
+          "city": [
+            "Washington DC",
+            "Washington, D.C.",
+            "Washington",
+            "워싱턴 DC",
+            "워싱턴"
+          ],
+          "lat": 38.88944444,
+          "lon": -77.03527778
+        },
+        {
+          "id": "us-capitol",
+          "name": {
+            "ko": "미국 국회의사당",
+            "en": "United States Capitol"
+          },
+          "aliases": [
+            "미국 의사당",
+            "캐피톨 빌딩",
+            "US Capitol",
+            "U.S. Capitol"
+          ],
+          "city": [
+            "Washington DC",
+            "Washington, D.C.",
+            "Washington",
+            "워싱턴 DC",
+            "워싱턴"
+          ],
+          "lat": 38.88972222,
+          "lon": -77.00888889
+        },
+        {
+          "id": "smithsonian-natural-history",
+          "name": {
+            "ko": "스미스소니언 국립자연사박물관",
+            "en": "National Museum of Natural History"
+          },
+          "aliases": [
+            "워싱턴 국립자연사박물관",
+            "스미스소니언 자연사박물관",
+            "Smithsonian National Museum of Natural History",
+            "NMNH"
+          ],
+          "city": [
+            "Washington DC",
+            "Washington, D.C.",
+            "Washington",
+            "워싱턴 DC",
+            "워싱턴"
+          ],
+          "lat": 38.8913,
+          "lon": -77.0259
         }
       ]
     },
@@ -4322,10 +5844,10 @@
       "name": {
         "ko": "케이프타운"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2196,
-      "sha256": "54fdd332cf065013186836e6a54797c62f04b3567c834ba55d13f8c760d41113",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 9438,
+      "sha256": "45f4fe050715f7b51267741eb463d4a79722e6f718f16af046765d648ca8084f",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/za-capetown.json",
       "places": [
         {
@@ -4344,6 +5866,78 @@
           ],
           "lat": -33.96218,
           "lon": 18.409883
+        },
+        {
+          "id": "robben-island",
+          "name": {
+            "ko": "로벤섬",
+            "en": "Robben Island"
+          },
+          "aliases": [
+            "로벤 섬",
+            "로빈섬"
+          ],
+          "city": [
+            "Cape Town",
+            "케이프타운"
+          ],
+          "lat": -33.805,
+          "lon": 18.37
+        },
+        {
+          "id": "kirstenbosch-garden",
+          "name": {
+            "ko": "커스텐보시 국립식물원",
+            "en": "Kirstenbosch National Botanical Garden"
+          },
+          "aliases": [
+            "커스텐보쉬 식물원",
+            "커스텐보스 식물원",
+            "Kirstenbosch"
+          ],
+          "city": [
+            "Cape Town",
+            "케이프타운"
+          ],
+          "lat": -33.9875,
+          "lon": 18.4325
+        },
+        {
+          "id": "bo-kaap",
+          "name": {
+            "ko": "보카프",
+            "en": "Bo-Kaap"
+          },
+          "aliases": [
+            "보카압",
+            "보카프 지구",
+            "보캅",
+            "Bo Kaap"
+          ],
+          "city": [
+            "Cape Town",
+            "케이프타운"
+          ],
+          "lat": -33.92083,
+          "lon": 18.41528
+        },
+        {
+          "id": "va-waterfront",
+          "name": {
+            "ko": "V&A 워터프런트",
+            "en": "Victoria & Alfred Waterfront"
+          },
+          "aliases": [
+            "브이앤에이 워터프런트",
+            "빅토리아 앤드 알프레드 워터프런트",
+            "V&A Waterfront"
+          ],
+          "city": [
+            "Cape Town",
+            "케이프타운"
+          ],
+          "lat": -33.90306,
+          "lon": 18.42278
         }
       ]
     }

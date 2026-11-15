@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "za-capetown",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "케이프타운"
   },
@@ -38,6 +38,138 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Table%20Mountain%20Cape%20Town",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "robben-island",
+      "name": {
+        "ko": "로벤섬",
+        "en": "Robben Island"
+      },
+      "aliases": [
+        "로벤 섬",
+        "로빈섬"
+      ],
+      "city": [
+        "Cape Town",
+        "케이프타운"
+      ],
+      "lat": -33.805,
+      "lon": 18.37,
+      "scripts": {
+        "ko": "로벤섬에서는 도시에서 떨어진 섬이라는 지형과 그 안에 남은 수감의 역사를 함께 생각해 보세요. 케이프타운 북쪽 테이블만에 있는 이곳은 풍경을 감상하는 여행에 더해 기억과 인권의 질문을 마주하는 장소입니다.\n\n아파르트헤이트 시기 정치적 반대자들을 가두는 데 사용되었으며 넬슨 만델라도 수감되었습니다. 수감시설이 끝난 뒤 박물관으로 전환되었고 1999년에 세계유산으로 인정받았습니다. 과거를 설명하는 전시와 당시 그곳에서 살아야 했던 사람들의 경험을 함께 생각하면 좋겠습니다.\n\n참고 좌표는 섬의 위치이며 케이프타운 선착장이 아닙니다. 실제 방문에는 공식 관람과 운항 정보를 확인해야 합니다. 당일 출발지와 귀환 운항, 기상과 현장 공개 구역의 안내를 따르고 추모·보존 공간의 이용을 존중해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Robben Island",
+          "url": "https://en.wikipedia.org/wiki/Robben_Island"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robben%20Island%20Cape%20Town",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "kirstenbosch-garden",
+      "name": {
+        "ko": "커스텐보시 국립식물원",
+        "en": "Kirstenbosch National Botanical Garden"
+      },
+      "aliases": [
+        "커스텐보쉬 식물원",
+        "커스텐보스 식물원",
+        "Kirstenbosch"
+      ],
+      "city": [
+        "Cape Town",
+        "케이프타운"
+      ],
+      "lat": -33.9875,
+      "lon": 18.4325,
+      "scripts": {
+        "ko": "커스텐보시에서는 식물을 감상하는 시선과 테이블마운틴 동쪽 기슭의 풍경을 함께 느껴 보세요. 가까운 잎과 꽃을 본 뒤 주변의 큰 지형으로 시선을 넓히면 식물원이 어디에 놓여 있는지 이해하기 쉽습니다.\n\n1913년에 설립된 식물원은 남아프리카 토종 식물의 보존과 재배에 중점을 둡니다. 여러 나라의 식물을 많이 모았다는 숫자보다 이 땅의 식물과 생태를 어떤 목적으로 보전하는지 생각하며 관람하면 좋겠습니다.\n\n이름표와 식재 구성을 살펴보고 관람 동선을 따라 식물의 차이를 비교해 보세요. 참고 좌표는 넓은 식물원의 한 지점이며 산으로 오르는 길이나 개별 시설의 입구를 지정하지 않습니다. 보호 구역과 실제 열린 보행로, 당일 기상·운영 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Kirstenbosch National Botanical Garden",
+          "url": "https://en.wikipedia.org/wiki/Kirstenbosch_National_Botanical_Garden"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kirstenbosch%20National%20Botanical%20Garden%20Cape%20Town",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "bo-kaap",
+      "name": {
+        "ko": "보카프",
+        "en": "Bo-Kaap"
+      },
+      "aliases": [
+        "보카압",
+        "보카프 지구",
+        "보캅",
+        "Bo Kaap"
+      ],
+      "city": [
+        "Cape Town",
+        "케이프타운"
+      ],
+      "lat": -33.92083,
+      "lon": 18.41528,
+      "scripts": {
+        "ko": "보카프에서는 거리와 집들의 색을 감상한 뒤 그 안에서 이어지는 사람들의 삶에도 관심을 기울여 보세요. 케이프타운 시내 위쪽 시그널 힐 경사면의 이 동네는 케이프 말레이 문화의 중요한 역사 공간입니다.\n\n과거 말레이 쿼터로도 불렸으며 인종에 따라 거주를 나누던 역사와 연결됩니다. 오늘의 주거지와 종교 공간을 사진 배경으로만 보면 공동체가 지켜 온 기억을 놓치기 쉽습니다. 집과 거리, 모스크가 함께 이루는 생활 공간으로 이해하면 좋겠습니다.\n\n공개된 길에서 외관을 살펴보고 대문과 사유지의 경계를 존중해 주세요. 보카프 이름을 쓰는 개별 음식점은 동네 전체와 다른 목적지입니다. 참고 좌표는 지구의 한 지점이며 실제 관람 동선과 종교 시설의 출입·촬영 안내는 현장에서 확인해야 합니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Bo-Kaap",
+          "url": "https://en.wikipedia.org/wiki/Bo-Kaap"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bo-Kaap%20Cape%20Town",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "va-waterfront",
+      "name": {
+        "ko": "V&A 워터프런트",
+        "en": "Victoria & Alfred Waterfront"
+      },
+      "aliases": [
+        "브이앤에이 워터프런트",
+        "빅토리아 앤드 알프레드 워터프런트",
+        "V&A Waterfront"
+      ],
+      "city": [
+        "Cape Town",
+        "케이프타운"
+      ],
+      "lat": -33.90306,
+      "lon": 18.42278,
+      "scripts": {
+        "ko": "V&A 워터프런트에서는 항구의 작업과 이동, 상업과 여가가 가까이 놓인 모습을 살펴보세요. 물가에 있는 건물과 배를 함께 보면 도시가 바다를 통해 다른 지역과 연결되어 온 역사를 떠올릴 수 있습니다.\n\n빅토리아와 알프레드의 이름을 딴 이 지역에는 항구와 상점, 숙박시설, 주거 공간 등이 모여 있습니다. 19세기 방파제와 항구 조성의 역사도 이어집니다. 오늘의 복합 공간을 한 건물이나 한 상점으로 생각하지 않는 것이 좋겠습니다.\n\n지역 안의 개별 박물관과 선착장, 상업 시설은 운영과 출입 조건이 다릅니다. 로벤섬을 방문하려면 실제 관람선의 출발 위치와 운항 안내를 별도로 확인해야 합니다. 참고 좌표를 모든 배의 탑승장으로 생각하지 말고 공개된 보행 구역과 현장의 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Victoria & Alfred Waterfront",
+          "url": "https://en.wikipedia.org/wiki/Victoria_%26_Alfred_Waterfront"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Victoria%20%26%20Alfred%20Waterfront%20Cape%20Town",
       "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

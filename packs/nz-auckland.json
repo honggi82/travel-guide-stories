@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 2,
+  "id": "nz-auckland",
+  "version": 1,
+  "name": {
+    "ko": "오클랜드"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "sky-tower-auckland",
+      "name": {
+        "ko": "오클랜드 스카이 타워",
+        "en": "Sky Tower (Auckland)"
+      },
+      "aliases": [
+        "스카이 타워",
+        "스카이타워",
+        "Sky Tower"
+      ],
+      "city": [
+        "Auckland",
+        "오클랜드"
+      ],
+      "lat": -36.84847,
+      "lon": 174.76231,
+      "scripts": {
+        "ko": "오클랜드 스카이 타워에서는 도시의 여러 거리에서 탑이 어떻게 보이는지 비교해 보세요. 가까이에서 올려다볼 때와 주변 건물 너머로 볼 때의 인상이 다릅니다. 높은 구조물이 도심의 방향을 잡는 표식이 됩니다.\n\n1997년에 완성된 이 통신·전망탑은 지상에서 마스트 끝까지 약 328미터입니다. 방송 기능과 관광 관람의 역할이 함께 있으며 오클랜드의 스카이라인을 이루는 건축물입니다. 비슷한 이름의 다른 도시 타워와 구분하려면 오클랜드라는 위치를 함께 확인해야 합니다.\n\n건물 안의 식당과 전망·개별 체험 시설은 같은 목적지가 아닙니다. 참고 좌표는 탑의 위치이며 모든 관람 시설의 입구를 뜻하지 않습니다. 실제 방문권과 당일 운영을 확인하고 보안·출입 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sky Tower (Auckland)",
+          "url": "https://en.wikipedia.org/wiki/Sky_Tower_%28Auckland%29"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sky%20Tower%20%28Auckland%29%20Auckland",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "auckland-war-memorial-museum",
+      "name": {
+        "ko": "오클랜드 전쟁기념박물관",
+        "en": "Auckland War Memorial Museum"
+      },
+      "aliases": [
+        "오클랜드 박물관",
+        "Auckland Museum",
+        "Tāmaki Paenga Hira"
+      ],
+      "city": [
+        "Auckland",
+        "오클랜드"
+      ],
+      "lat": -36.86028,
+      "lon": 174.77778,
+      "scripts": {
+        "ko": "오클랜드 전쟁기념박물관에서는 이름에 담긴 추모의 기능과 폭넓은 박물관의 역할을 함께 생각해 보세요. 전쟁의 역사뿐 아니라 지역의 역사와 자연사, 마오리와 태평양 문화의 소장품을 다루는 장소입니다.\n\n박물관의 수집과 전시는 1852년에 시작되었고 현재의 중요한 건물은 1929년에 문을 열었습니다. 기관의 출발과 건물의 개관을 같은 날짜로 생각해서는 안 됩니다. 후대의 증축과 변화도 더해져 현재의 공간으로 이어졌습니다.\n\n전시를 보며 물건이 속한 문화와 시대, 추모 공간이 전달하는 의미를 구분해 보세요. 특정 소장품이나 문화 공연의 당일 공개를 이 해설이 보장하지는 않습니다. 실제 전시와 관람 구역을 확인하고 추모·보존·촬영을 위한 현장의 안내를 존중해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Auckland War Memorial Museum",
+          "url": "https://en.wikipedia.org/wiki/Auckland_War_Memorial_Museum"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auckland%20War%20Memorial%20Museum%20Auckland",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "auckland-art-gallery",
+      "name": {
+        "ko": "오클랜드 미술관",
+        "en": "Auckland Art Gallery"
+      },
+      "aliases": [
+        "오클랜드 아트 갤러리",
+        "Auckland Art Gallery Toi o Tāmaki",
+        "Toi o Tāmaki"
+      ],
+      "city": [
+        "Auckland",
+        "오클랜드"
+      ],
+      "lat": -36.8514,
+      "lon": 174.7663,
+      "scripts": {
+        "ko": "오클랜드 미술관에서는 한 작품을 가까이 본 뒤 주변의 다른 작품과 비교해 보세요. 주제와 재료, 인물이나 풍경을 표현한 방식이 달라지는 지점을 찾으면 관람의 이야기가 생깁니다.\n\n알버트 공원 언덕 아래 도심에 자리한 공립 미술관은 1888년에 설립되었습니다. 초기 건물에는 공공도서관도 함께 있었으며 기증자들의 소장품이 출발에 중요한 역할을 했습니다. 예술을 모으는 개인의 활동과 시민이 관람하는 공공 공간의 관계를 생각할 수 있습니다.\n\n이름이 비슷한 오클랜드 주변의 다른 갤러리와는 별도 시설입니다. 소장 사실이 방문일의 전시를 보장하지는 않으므로 현재 전시와 실제 입구를 확인해야 합니다. 전시실의 촬영·보존 안내를 따라 조용히 관람해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Auckland Art Gallery",
+          "url": "https://en.wikipedia.org/wiki/Auckland_Art_Gallery"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Auckland%20Art%20Gallery%20Auckland",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "maungawhau-mount-eden",
+      "name": {
+        "ko": "마웅아와우 마운트 이든",
+        "en": "Maungawhau / Mount Eden"
+      },
+      "aliases": [
+        "마운트 이든",
+        "마운트 에덴",
+        "마웅아와우",
+        "Mount Eden",
+        "Maungawhau"
+      ],
+      "city": [
+        "Auckland",
+        "오클랜드"
+      ],
+      "lat": -36.877,
+      "lon": 174.764,
+      "scripts": {
+        "ko": "마웅아와우에서는 도시 안에 남은 화산 지형을 살펴보세요. 마운트 이든이라고도 부르는 이곳은 오클랜드 화산 지대의 분석구이며 가운데의 분화구가 땅의 형성 과정을 떠올리게 합니다.\n\n이 산은 마오리의 조상과 역사가 연결된 투푸나 마웅아이기도 합니다. 전망을 보는 장소에 더해 과거의 거주와 방어, 문화적 기억을 담은 공간으로 이해하면 좋겠습니다. 마운트 이든이라는 동네 이름과 산 자체의 위치도 구분해야 합니다.\n\n참고 좌표는 산의 한 지점이며 분화구 안이나 비공식 길로 이동하라는 안내가 아닙니다. 문화·자연 유산을 보호하는 실제 보행로와 통제 표지를 따라 주세요. 높이가 비교적 낮다는 이유만으로 누구에게나 적합한 이동 구간이라고 단정하지 말고 당일 상태와 자신의 이동 능력을 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Maungawhau",
+          "url": "https://en.wikipedia.org/wiki/Maungawhau"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maungawhau%20/%20Mount%20Eden%20Auckland",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "rangitoto-island",
+      "name": {
+        "ko": "랑기토토섬",
+        "en": "Rangitoto Island"
+      },
+      "aliases": [
+        "랑기토토 섬",
+        "랑기토토",
+        "Rangitoto"
+      ],
+      "city": [
+        "Auckland",
+        "오클랜드"
+      ],
+      "lat": -36.786742,
+      "lon": 174.860115,
+      "scripts": {
+        "ko": "랑기토토섬에서는 오클랜드의 항구 풍경과 화산 지형이 연결됩니다. 하우라키만에 자리한 화산섬으로 넓게 퍼진 산의 윤곽을 볼 수 있습니다. 도심에서 바라보던 섬을 가까이 경험하면 바위와 길의 작은 차이가 눈에 들어옵니다.\n\n랑기토토는 오클랜드 화산 지대를 이루는 비교적 젊은 화산 가운데 하나입니다. 이웃한 모투타푸섬은 훨씬 오래된 비화산성 섬으로 형성의 역사가 다릅니다. 가까이 놓인 땅이라도 같은 과정으로 만들어진 것은 아닙니다.\n\n실제 방문에는 운항과 탐방로의 현재 안내가 필요합니다. 참고 좌표는 섬의 한 지점이며 선착장이나 안전한 등산 진입점을 지정하지 않습니다. 배의 출발지와 귀환 운항을 확인하고 보호 구역과 당일 열린 길을 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Rangitoto Island",
+          "url": "https://en.wikipedia.org/wiki/Rangitoto_Island"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rangitoto%20Island%20Auckland",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

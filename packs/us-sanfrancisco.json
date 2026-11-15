@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 2,
+  "id": "us-sanfrancisco",
+  "version": 1,
+  "name": {
+    "ko": "샌프란시스코"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "golden-gate-bridge",
+      "name": {
+        "ko": "금문교",
+        "en": "Golden Gate Bridge"
+      },
+      "aliases": [
+        "골든 게이트 브리지",
+        "골든게이트브리지"
+      ],
+      "city": [
+        "San Francisco",
+        "샌프란시스코"
+      ],
+      "lat": 37.81972222,
+      "lon": -122.47861111,
+      "scripts": {
+        "ko": "금문교에서는 두 교탑 사이로 이어지는 케이블의 곡선과 그 아래의 바다를 함께 바라보세요. 멀리서 도시의 표식으로 보이는 다리가 실제로는 만과 태평양을 잇는 해협 위에 놓여 있습니다.\n\n1937년에 개통한 현수교는 샌프란시스코와 북쪽 마린 카운티를 연결합니다. 자동차뿐 아니라 허용된 구역의 보행자와 자전거도 이용하는 교통시설입니다. 사진을 찍는 명소이면서 매일 사람들이 이동하는 길이라는 점을 함께 기억하면 좋겠습니다.\n\n이 참고 좌표는 다리 위의 한 지점이며 보행 진입점이 아닙니다. 바다나 차량 도로 쪽으로 좌표를 곧장 따라가지 말아 주세요. 실제 열린 보행로와 자전거 구역, 날씨와 통행 제한에 대한 당일 공식 안내를 확인하고 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Golden Gate Bridge",
+          "url": "https://en.wikipedia.org/wiki/Golden_Gate_Bridge"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden%20Gate%20Bridge%20San%20Francisco",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "alcatraz-island",
+      "name": {
+        "ko": "앨커트래즈섬",
+        "en": "Alcatraz Island"
+      },
+      "aliases": [
+        "알카트라즈 섬",
+        "알카트라즈",
+        "앨커트래즈 섬"
+      ],
+      "city": [
+        "San Francisco",
+        "샌프란시스코"
+      ],
+      "lat": 37.82666667,
+      "lon": -122.42277778,
+      "scripts": {
+        "ko": "앨커트래즈섬을 바라보면 도심과 가까워 보이는 작은 섬이 물로 분리되어 있음을 느낄 수 있습니다. 샌프란시스코만의 이 섬은 등대와 군사시설, 수감시설 등 서로 다른 기능을 거쳐 왔습니다.\n\n1934년에는 연방 교도소가 되었고 1963년에 그 기능이 끝났습니다. 오늘의 역사 관람을 당시 수감 공간과 구분하며 생각해 보세요. 건물뿐 아니라 섬이라는 지형이 어떻게 격리의 조건이 되었는지 살펴볼 수 있습니다. 교도소가 폐쇄되었다는 설명과 현재 섬 관람이 가능한지는 별개의 문제입니다.\n\n실제 방문은 공식 운항과 관람 조건을 확인해야 합니다. 참고 좌표는 섬의 위치이며 도심 선착장이나 배의 탑승 위치가 아닙니다. 출발지와 예약 내용을 확인하고 당일 운항·보행 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Alcatraz Island",
+          "url": "https://en.wikipedia.org/wiki/Alcatraz_Island"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps?q=alcatraz+prison"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps?q=alcatraz+prison",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "golden-gate-park",
+      "name": {
+        "ko": "골든 게이트 공원",
+        "en": "Golden Gate Park"
+      },
+      "aliases": [
+        "골든게이트 공원",
+        "골든게이트공원"
+      ],
+      "city": [
+        "San Francisco",
+        "샌프란시스코"
+      ],
+      "lat": 37.76972222,
+      "lon": -122.47694444,
+      "scripts": {
+        "ko": "골든 게이트 공원에서는 도시 안에 길게 펼쳐진 녹지의 규모를 느껴 보세요. 샌프란시스코 서쪽의 리치먼드와 선셋 지구 사이에 놓인 큰 도시 공원입니다. 이름이 같다고 금문교 바로 아래의 공원으로 생각하면 목적지를 혼동하게 됩니다.\n\n약 412헥타르의 공원은 한 지점에서 전부 경험하기 어렵습니다. 여러 길과 개별 관람 시설이 하나의 넓은 녹지 안에 연결됩니다. 가까운 나무와 먼 풍경을 번갈아 보며 어느 구역을 걷고 있는지 살펴보세요.\n\n참고 좌표는 공원의 한 지점이며 특정 정원이나 박물관 입구를 뜻하지 않습니다. 방문할 시설을 구체적으로 선택하고 보행자·자전거·차량 구역을 구분해 주세요. 실제 열린 길과 시설별 운영은 당일의 안내를 확인해야 합니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Golden Gate Park",
+          "url": "https://en.wikipedia.org/wiki/Golden_Gate_Park"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Visit%20to%20the%20Golden%20Gate%20Park%2C%20San%20Francisco%2C%20USA"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Visit%20to%20the%20Golden%20Gate%20Park%2C%20San%20Francisco%2C%20USA",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "san-francisco-ferry-building",
+      "name": {
+        "ko": "샌프란시스코 페리 빌딩",
+        "en": "San Francisco Ferry Building"
+      },
+      "aliases": [
+        "페리 빌딩",
+        "페리빌딩",
+        "Ferry Building"
+      ],
+      "city": [
+        "San Francisco",
+        "샌프란시스코"
+      ],
+      "lat": 37.7955,
+      "lon": -122.3937,
+      "scripts": {
+        "ko": "페리 빌딩에서는 물가의 교통시설과 시장 공간이 한 건물에 모인 모습을 살펴보세요. 배를 기다리는 사람과 먹거리·상점을 찾는 사람이 같은 장소를 서로 다른 목적으로 방문합니다.\n\n1898년에 문을 연 이 건물은 엠바카데로의 여객 터미널로 샌프란시스코만의 이동을 연결해 왔습니다. 오늘도 페리 교통과 상업 공간, 업무 공간의 기능이 함께 있습니다. 오래된 항구 건축을 감상하면서 현재의 이동과 생활이 이어지는 장소로 읽을 수 있습니다.\n\n건물 관람과 특정 페리 노선의 탑승은 구분해야 합니다. 이 좌표가 모든 배의 승선장이나 체크인 위치를 뜻하지는 않습니다. 실제 이용할 노선과 부두, 당일 운항과 시설 안내를 확인하고 승객의 통행을 배려해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: San Francisco Ferry Building",
+          "url": "https://en.wikipedia.org/wiki/San_Francisco_Ferry_Building"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/The%2BFerry%2BBuilding%2B"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/The%2BFerry%2BBuilding%2B",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "coit-tower",
+      "name": {
+        "ko": "코이트 타워",
+        "en": "Coit Tower"
+      },
+      "aliases": [
+        "코잇 타워",
+        "코이트타워"
+      ],
+      "city": [
+        "San Francisco",
+        "샌프란시스코"
+      ],
+      "lat": 37.8025,
+      "lon": -122.40583333,
+      "scripts": {
+        "ko": "코이트 타워에서는 텔레그래프 힐 위의 탑과 아래 도시의 관계를 살펴보세요. 언덕이 만드는 높이 위에 다시 탑이 올라서 있어 건물 자체의 높이와 전망의 위치를 나누어 생각하면 좋겠습니다.\n\n파이오니어 공원의 이 탑은 릴리 히치콕 코이트가 도시를 아름답게 만드는 데 쓰도록 남긴 유산으로 1932년부터 1933년 사이에 지어졌습니다. 개인의 기증이 도시의 공공 표식으로 이어진 사례입니다. 탑의 형태를 보며 누가 어떤 목적으로 남긴 건축인지 떠올려 보세요.\n\n탑과 공원, 개별 내부 관람 시설의 접근 조건은 다를 수 있습니다. 참고 좌표를 누구에게나 적합한 오르막 동선으로 생각하지 말아 주세요. 실제 열린 길과 입구, 당일 관람 안내를 확인하고 주변 주거 공간과 다른 방문객의 통행을 배려해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Coit Tower",
+          "url": "https://en.wikipedia.org/wiki/Coit_Tower"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Coit%20Tower%20San%20Francisco",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "cz-prague",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "프라하"
   },
@@ -45,6 +45,160 @@
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles+Bridge+Prague",
       "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "prague-castle",
+      "name": {
+        "ko": "프라하성",
+        "en": "Prague Castle"
+      },
+      "aliases": [
+        "프라하 성",
+        "Pražský hrad"
+      ],
+      "city": [
+        "Prague",
+        "Praha",
+        "프라하"
+      ],
+      "lat": 50.09,
+      "lon": 14.4,
+      "scripts": {
+        "ko": "프라하성에서는 성이라는 이름에서 떠올린 건물 하나를 찾기보다, 마당과 길을 따라 이어지는 여러 공간을 살펴보세요. 문을 지나면 또 다른 정면이 나타나고, 걷는 방향에 따라 탑과 지붕의 관계도 달라집니다. 큰 단지를 작은 도시처럼 천천히 경험해 보면 좋겠습니다.\n\n이 성곽 단지는 9세기에 시작되어 오랜 세월 보헤미아의 왕과 신성로마제국 황제, 이후 대통령의 권력 공간으로 사용되어 왔습니다. 현재도 체코 대통령의 공식 집무 공간과 연결됩니다. 따라서 눈앞의 모든 건물이 같은 시기에 한꺼번에 지어졌다고 생각하기보다, 여러 시대의 필요에 따라 덧붙고 바뀐 장소로 바라보는 편이 좋습니다.\n\n건물의 창과 입구, 마당의 크기를 비교하며 걸어 보세요. 서로 다른 부분을 하나의 단지로 묶는 것은 건축 양식만이 아니라 그 사이를 오가는 동선이기도 합니다. 성 비투스 대성당 등 단지 안의 개별 시설과 성 전체는 지도와 입장 안내에서 구분해야 합니다. 넓은 부지의 참고 좌표가 실제 출입구를 뜻하지는 않습니다. 당일 공개 구역과 보안·입장 동선은 프라하성의 공식 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Prague Castle",
+          "url": "https://en.wikipedia.org/wiki/Prague_Castle"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Prague%2BCastle%2C%2BPraha%2C%2BTsjekkia"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Prague%2BCastle%2C%2BPraha%2C%2BTsjekkia",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "st-vitus-cathedral",
+      "name": {
+        "ko": "성 비투스 대성당",
+        "en": "St. Vitus Cathedral"
+      },
+      "aliases": [
+        "성비투스대성당",
+        "성 비트 대성당",
+        "Saint Vitus Cathedral",
+        "Katedrála svatého Víta"
+      ],
+      "city": [
+        "Prague",
+        "Praha",
+        "프라하"
+      ],
+      "lat": 50.09083333,
+      "lon": 14.40055556,
+      "scripts": {
+        "ko": "프라하성 안에서 성 비투스 대성당을 만나면, 먼저 높은 벽과 창이 시선을 위로 이끄는 모습을 살펴보세요. 가까이에서는 건물 전체를 담기 어렵기 때문에 장식 하나를 본 뒤 조금 물러나 전체 구성을 다시 보는 방법이 좋습니다.\n\n이 자리에는 현재 대성당 이전에도 교회가 있었습니다. 오늘의 고딕 대성당 공사는 1344년에 시작되었지만 전쟁 등으로 중단되었고, 여러 세기에 걸친 보완과 증축을 거쳐 1929년에 봉헌되었습니다. 한 세대의 사람들이 시작한 건축을 아주 먼 후대의 사람들이 이어받은 셈입니다. 오래된 부분과 후대에 완성된 부분을 모두 중세의 동일한 시점으로 생각하지 말아 주세요.\n\n내부 관람이 가능하다면 창을 통과한 빛이 기둥과 바닥에 어떤 분위기를 만드는지 살펴보세요. 대성당은 가톨릭 예배 공간이며, 체코 왕실의 대관식과 여러 인물의 매장 역사도 품고 있습니다. 종교적 기능과 국가의 역사가 같은 공간에 겹쳐 있는 것입니다. 프라하성 단지 전체와 대성당의 공개 구역은 구분하고, 예배·행사·보수 작업에 따른 관람 조건은 당일 공식 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: St. Vitus Cathedral",
+          "url": "https://en.wikipedia.org/wiki/St._Vitus_Cathedral"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Prague%20Castle%20Visit%20Praga"
+        },
+        {
+          "title": "Prague Castle: St. Vitus Cathedral history",
+          "url": "https://www.hrad.cz/en/prague-castle-for-visitors/objects-for-visitors/st.-vitus-cathedral-10330"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Prague%20Castle%20Visit%20Praga",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "old-town-square-prague",
+      "name": {
+        "ko": "프라하 구시가 광장",
+        "en": "Old Town Square"
+      },
+      "aliases": [
+        "구시가 광장",
+        "구시가지 광장",
+        "프라하구시가광장",
+        "Staroměstské náměstí"
+      ],
+      "city": [
+        "Prague",
+        "Praha",
+        "프라하"
+      ],
+      "lat": 50.0875,
+      "lon": 14.4214,
+      "scripts": {
+        "ko": "프라하 구시가 광장에서는 한 방향의 유명한 건물만 바라보지 말고, 광장 가장자리를 따라 천천히 시선을 돌려 보세요. 서로 다른 높이의 지붕과 탑이 넓은 빈 공간을 둘러싸고 있습니다. 골목을 걷다가 광장으로 나올 때 갑자기 하늘이 넓어지는 느낌도 인상적입니다.\n\n이곳은 프라하 구시가지의 역사적 광장으로 카를교와 바츨라프 광장 사이에 자리합니다. 주변에는 고딕 양식의 틴 성모 교회와 바로크 양식의 성 니콜라스 교회 등 서로 다른 시대의 건물이 모여 있습니다. 구시청사에는 중세의 천문시계가 설치되어 있습니다. 광장이라는 하나의 공간이 여러 시대의 건축을 함께 바라보게 하는 셈입니다.\n\n건물의 세부를 살핀 뒤에는 사람들이 광장을 가로지르거나 가장자리에 머무는 방식도 관찰해 보세요. 관광 명소를 잇는 통로이면서 사람을 만나고 쉬어 가는 장소이기도 합니다. 천문시계가 있는 구시청사와 광장 전체는 서로 다른 범위이므로 목적지를 구분하면 좋겠습니다. 이 안내의 좌표는 광장의 참고 지점입니다. 사람이 몰리는 곳에서 촬영할 때에는 통행 흐름과 주변의 안전을 먼저 살펴 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Old Town Square",
+          "url": "https://en.wikipedia.org/wiki/Old_Town_Square"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Old%20Town%20Square%20Prague%20Starom%C4%9Bstsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Old%20Town%20Square%20Prague%20Starom%C4%9Bstsk%C3%A9%20n%C3%A1m%C4%9Bst%C3%AD",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "dancing-house",
+      "name": {
+        "ko": "댄싱 하우스",
+        "en": "Dancing House"
+      },
+      "aliases": [
+        "댄싱하우스",
+        "춤추는 집",
+        "Tančící dům",
+        "Ginger and Fred"
+      ],
+      "city": [
+        "Prague",
+        "Praha",
+        "프라하"
+      ],
+      "lat": 50.07555556,
+      "lon": 14.41416667,
+      "scripts": {
+        "ko": "댄싱 하우스 앞에서는 건물의 선이 어느 방향으로 움직이는 듯 보이는지 살펴보세요. 이름을 들은 뒤 바라보면 정지한 건물에서도 몸을 기울이거나 서로 기대는 동작을 상상하게 됩니다. 먼저 건물 전체를 보고, 다음에는 창과 벽의 선을 따라가 보세요.\n\n이 건물은 블라도 밀루니치와 프랭크 게리가 협력해 설계했습니다. 1992년에 설계가 이루어졌고 1996년에 완공되었습니다. 강변의 빈 대지에 지어진 건물로, 댄싱 하우스 또는 진저와 프레드라는 별명으로 알려져 있습니다. 중세와 근대의 건축을 둘러보던 프라하 여행에서 비교적 최근의 건축 언어를 만나는 장소입니다.\n\n사진으로 보았던 모습과 실제 거리에서 바라보는 모습을 비교해 보세요. 건물의 인상은 독특한 정면뿐 아니라 옆 건물과의 거리, 도로의 방향, 자신이 서 있는 위치에 따라서도 달라집니다. 움직이는 듯한 형태와 실제로 사람을 수용하는 건물의 기능이 어떻게 함께 존재하는지 생각해 보면 좋겠습니다. 외관을 보기 위해 차도로 나서지 말고 안전한 보행 공간을 이용해 주세요. 내부 시설의 이용 조건과 공개 범위는 방문일의 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Dancing House",
+          "url": "https://en.wikipedia.org/wiki/Dancing_House"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dancing%20House%20Prague",
+      "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

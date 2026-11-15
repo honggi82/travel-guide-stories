@@ -135,10 +135,10 @@
       "name": {
         "ko": "프라하"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2397,
-      "sha256": "1de87e714f0249f71f495bb3a73851ea26de1541ee5332d558c2dad04f3bda99",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 12070,
+      "sha256": "06709c09e0ae510d4faff87a477448c44e73e593e14d5ad021c2685648d45c70",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cz-prague.json",
       "places": [
         {
@@ -159,6 +159,84 @@
           ],
           "lat": 50.08639,
           "lon": 14.41194
+        },
+        {
+          "id": "prague-castle",
+          "name": {
+            "ko": "프라하성",
+            "en": "Prague Castle"
+          },
+          "aliases": [
+            "프라하 성",
+            "Pražský hrad"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.09,
+          "lon": 14.4
+        },
+        {
+          "id": "st-vitus-cathedral",
+          "name": {
+            "ko": "성 비투스 대성당",
+            "en": "St. Vitus Cathedral"
+          },
+          "aliases": [
+            "성비투스대성당",
+            "성 비트 대성당",
+            "Saint Vitus Cathedral",
+            "Katedrála svatého Víta"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.09083333,
+          "lon": 14.40055556
+        },
+        {
+          "id": "old-town-square-prague",
+          "name": {
+            "ko": "프라하 구시가 광장",
+            "en": "Old Town Square"
+          },
+          "aliases": [
+            "구시가 광장",
+            "구시가지 광장",
+            "프라하구시가광장",
+            "Staroměstské náměstí"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.0875,
+          "lon": 14.4214
+        },
+        {
+          "id": "dancing-house",
+          "name": {
+            "ko": "댄싱 하우스",
+            "en": "Dancing House"
+          },
+          "aliases": [
+            "댄싱하우스",
+            "춤추는 집",
+            "Tančící dům",
+            "Ginger and Fred"
+          ],
+          "city": [
+            "Prague",
+            "Praha",
+            "프라하"
+          ],
+          "lat": 50.07555556,
+          "lon": 14.41416667
         }
       ]
     },

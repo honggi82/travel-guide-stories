@@ -163,6 +163,110 @@
       ]
     },
     {
+      "id": "de-berlin",
+      "name": {
+        "ko": "베를린"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 12563,
+      "sha256": "0c5872314520165dca2409eb7307b31a0137cc0db40b4be3c1e809d389caabda",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/de-berlin.json",
+      "places": [
+        {
+          "id": "brandenburg-gate",
+          "name": {
+            "ko": "브란덴부르크 문",
+            "en": "Brandenburg Gate"
+          },
+          "aliases": [
+            "브란덴부르크문",
+            "브란덴부르크 게이트",
+            "Brandenburger Tor"
+          ],
+          "city": [
+            "Berlin",
+            "베를린"
+          ],
+          "lat": 52.5163,
+          "lon": 13.3777
+        },
+        {
+          "id": "reichstag-building",
+          "name": {
+            "ko": "독일 국회의사당",
+            "en": "Reichstag Building"
+          },
+          "aliases": [
+            "베를린 국회의사당",
+            "라이히스타크",
+            "Reichstag",
+            "Reichstagsgebäude"
+          ],
+          "city": [
+            "Berlin",
+            "베를린"
+          ],
+          "lat": 52.51861111,
+          "lon": 13.37611111
+        },
+        {
+          "id": "museum-island",
+          "name": {
+            "ko": "베를린 박물관 섬",
+            "en": "Museum Island"
+          },
+          "aliases": [
+            "박물관섬",
+            "베를린박물관섬",
+            "Museumsinsel",
+            "Museumsinsel Berlin"
+          ],
+          "city": [
+            "Berlin",
+            "베를린"
+          ],
+          "lat": 52.52138889,
+          "lon": 13.39555556
+        },
+        {
+          "id": "east-side-gallery",
+          "name": {
+            "ko": "이스트 사이드 갤러리",
+            "en": "East Side Gallery"
+          },
+          "aliases": [
+            "이스트사이드갤러리",
+            "East-Side-Gallery"
+          ],
+          "city": [
+            "Berlin",
+            "베를린"
+          ],
+          "lat": 52.505,
+          "lon": 13.43944444
+        },
+        {
+          "id": "berlin-cathedral",
+          "name": {
+            "ko": "베를린 대성당",
+            "en": "Berlin Cathedral"
+          },
+          "aliases": [
+            "베를린대성당",
+            "베를리너 돔",
+            "Berliner Dom"
+          ],
+          "city": [
+            "Berlin",
+            "베를린"
+          ],
+          "lat": 52.51916667,
+          "lon": 13.40111111
+        }
+      ]
+    },
+    {
       "id": "eg-giza",
       "name": {
         "ko": "카이로"

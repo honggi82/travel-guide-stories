@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "fr-paris",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "파리"
   },
@@ -41,6 +41,180 @@
         }
       ],
       "mapsUrl": "https://www.google.com/maps/search/eiffel%20tower.",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "louvre-museum",
+      "name": {
+        "ko": "루브르 박물관",
+        "en": "Louvre Museum"
+      },
+      "aliases": [
+        "루브르",
+        "Musée du Louvre",
+        "Louvre"
+      ],
+      "city": [
+        "Paris",
+        "파리"
+      ],
+      "lat": 48.8611,
+      "lon": 2.3358,
+      "scripts": {
+        "ko": "루브르에서는 유명한 그림을 만나기 전에 건물 자체를 하나의 전시품처럼 바라보세요. 긴 석조 궁전과 가운데 유리 피라미드가 나란히 있는 모습은 서로 다른 시대의 파리가 한 공간에 겹쳐 있다는 것을 보여 줍니다.\n\n루브르의 출발점은 12세기 말에 세운 방어용 성이었습니다. 이후 왕의 거처가 되었고, 여러 군주가 건물을 넓히며 궁전의 모습을 바꾸었습니다. 프랑스혁명기의 1793년에는 박물관으로 문을 열었습니다. 왕권을 지키던 공간과 작품을 대중에게 보여 주는 공간 사이에 어떤 변화가 있었는지 생각하며 걸어 보세요.\n\n1989년에 공개된 이오밍 페이의 유리 피라미드는 박물관을 현대화한 사업의 상징입니다. 유리 너머로 역사적인 건물의 면이 겹쳐 보이는 장면을 찾아보면, 새 건축물이 오래된 궁전을 어떻게 드러내는지 느낄 수 있습니다. 내부에서는 모든 전시를 한 번에 보려 하기보다 관심 있는 시대나 작품 몇 점을 정해 천천히 살펴보세요. 전시실과 출입구 운영, 예약 조건은 당일 공식 안내에 따라 확인하시면 됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Louvre",
+          "url": "https://en.wikipedia.org/wiki/Louvre"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Pasyalan%2Bng%2BMga%2BTurista%2BParis%2BFrance/"
+        },
+        {
+          "title": "Louvre: the museum at a glance, July 2026",
+          "url": "https://presse.louvre.fr/le-musee-du-louvre-en-bref-1063000220316/?lang=en"
+        },
+        {
+          "title": "Louvre: the palace and its collections",
+          "url": "https://presse.louvre.fr/the-palace-and-its-collections/?lang=en"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Pasyalan%2Bng%2BMga%2BTurista%2BParis%2BFrance/",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "notre-dame-paris",
+      "name": {
+        "ko": "파리 노트르담 대성당",
+        "en": "Notre-Dame de Paris"
+      },
+      "aliases": [
+        "노트르담 대성당",
+        "노트르담 성당",
+        "Notre-Dame Cathedral of Paris",
+        "Notre Dame de Paris"
+      ],
+      "city": [
+        "Paris",
+        "파리"
+      ],
+      "lat": 48.85306,
+      "lon": 2.35,
+      "scripts": {
+        "ko": "센강의 시테섬에 있는 노트르담 대성당에서는 정면과 옆모습을 서로 비교해 보세요. 정면의 두 탑과 조각은 질서 있게 서 있지만, 옆으로 돌아가면 벽 바깥에서 건물을 받치는 구조가 눈에 들어옵니다. 돌로 만든 큰 공간에 빛을 들이려 했던 고딕 건축의 고민을 읽을 수 있습니다.\n\n대성당 공사는 1163년에 시작됐고 여러 세대에 걸쳐 이어졌습니다. 뾰족한 아치와 장미창, 바깥의 지지 구조가 함께 내부의 높이와 빛을 만들어 냅니다. 오래된 건물을 한 시기에 완성된 물건으로 생각하기보다, 사람들이 계속 짓고 고치며 이어 온 장소로 바라보시면 좋겠습니다.\n\n2019년 화재로 큰 피해를 입은 뒤 복원 작업을 거쳐 2024년 12월에 다시 문을 열었습니다. 오늘 보이는 모습에는 중세 장인뿐 아니라 복원에 참여한 현대 장인들의 시간도 들어 있습니다. 건물을 감상하면서 예배가 이루어지는 성당이라는 점도 함께 기억해 주세요. 내부 방문과 예배, 주변 공사 구역의 이용은 현장 표지와 공식 안내를 따르고, 조용히 머물 수 있는 여유를 가져 보시면 좋겠습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Notre-Dame de Paris",
+          "url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Pasyalan%2Bng%2BMga%2BTurista%2BParis%2BFrance/"
+        },
+        {
+          "title": "Notre-Dame de Paris: cathedral dedication and construction history",
+          "url": "https://www.notredamedeparis.fr/fete-dedicace/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Pasyalan%2Bng%2BMga%2BTurista%2BParis%2BFrance/",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "arc-de-triomphe",
+      "name": {
+        "ko": "에투알 개선문",
+        "en": "Arc de Triomphe"
+      },
+      "aliases": [
+        "파리 개선문",
+        "개선문",
+        "Arc de Triomphe de l'Étoile"
+      ],
+      "city": [
+        "Paris",
+        "파리"
+      ],
+      "lat": 48.873778,
+      "lon": 2.295028,
+      "scripts": {
+        "ko": "샹젤리제 거리 서쪽 끝의 개선문은 멀리서는 커다란 문처럼 보이지만, 가까이에서는 조각과 글자가 빼곡한 기념물로 바뀝니다. 주변에서 여러 길이 방사형으로 뻗어 나가는 모습을 보면, 문 하나가 도시의 시선을 모으는 중심이 될 수 있다는 것을 느끼게 됩니다.\n\n나폴레옹이 건립을 명한 1806년부터 완공된 1836년까지는 30년이 걸렸습니다. 그 사이 프랑스의 정치 상황도 달라졌습니다. 승리를 기리려던 건축물에 이후의 세대가 새로운 기억을 더해 온 셈입니다. 벽면의 인물 조각과 새겨진 이름들을 천천히 보면서, 누구를 기억하기 위해 이렇게 큰 공간을 만들었는지 질문해 보세요.\n\n아치 아래의 무명용사의 묘와 추모의 불꽃은 시선을 웅장한 높이에서 한 사람의 기억으로 내려오게 합니다. 승리의 기념과 전쟁의 상실이 같은 장소에 함께 있다는 점이 이곳을 이해하는 열쇠입니다. 이 개선문은 루브르 옆의 카루젤 개선문과 다른 곳입니다. 교통섬으로 접근할 때에는 차도를 가로지르지 말고 현장의 보행 접근 표지를 따르며, 추모 공간의 분위기를 존중해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Arc de Triomphe",
+          "url": "https://en.wikipedia.org/wiki/Arc_de_Triomphe"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Pasyalan%2Bng%2BMga%2BTurista%2BParis%2BFrance/"
+        },
+        {
+          "title": "Centre des monuments nationaux: Arc de Triomphe visitor history",
+          "url": "https://www.paris-arc-de-triomphe.fr/en/content/download/9819343/file/EN%20Document%20de%20visite%20ARC%20DE%20TRIOMPHE.pdf?inLanguage=eng-GB&version=26"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Pasyalan%2Bng%2BMga%2BTurista%2BParis%2BFrance/",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "sacre-coeur-montmartre",
+      "name": {
+        "ko": "사크레쾨르 대성당",
+        "en": "Sacré-Cœur Basilica"
+      },
+      "aliases": [
+        "사크레 쾨르 대성당",
+        "사크레쾨르 성당",
+        "Sacre Coeur",
+        "Basilique du Sacré-Cœur de Montmartre"
+      ],
+      "city": [
+        "Paris",
+        "파리"
+      ],
+      "lat": 48.886944,
+      "lon": 2.343056,
+      "scripts": {
+        "ko": "몽마르트르 언덕 위의 사크레쾨르 대성당에서는 건물과 도시를 번갈아 바라보세요. 흰색 외벽과 둥근 돔은 파리의 다른 성당에서 보던 뾰족한 고딕 윤곽과 다른 인상을 줍니다. 언덕을 올라오며 달라진 시선의 높이도 이 장소를 경험하는 한 부분입니다.\n\n폴 아바디가 설계한 이 성당은 로마네스크와 비잔틴 건축에서 영향을 받은 형태를 갖추고 있습니다. 1875년에 첫 돌을 놓았고, 제1차 세계대전이 끝난 뒤인 1919년에 봉헌됐습니다. 오래된 중세 성당처럼 느껴질 수 있지만, 파리의 근대사가 남긴 건축물이라는 점을 기억하면 주변 풍경이 새롭게 보입니다.\n\n앞쪽에서는 둥근 돔들이 겹치는 모습을 살펴보고, 시야가 열리는 곳에서는 도시의 지붕과 길이 어떻게 이어지는지 찾아보세요. 건물의 장엄함과 언덕 아래 일상의 풍경이 한눈에 만납니다. 성당 안으로 들어간다면 관광객의 공간이면서 기도하는 사람들의 공간이라는 점을 함께 존중해 주세요. 계단과 경사 구간에서는 발밑을 살피고, 내부 관람과 촬영 범위는 현장 안내에 따라 확인하시면 됩니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sacré-Cœur, Paris",
+          "url": "https://en.wikipedia.org/wiki/Sacr%C3%A9-C%C5%93ur%2C_Paris"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Sacr%C3%A9-C%C5%93ur%20%26%20Montmartre%2C%20Paris%2C%20France"
+        },
+        {
+          "title": "Sacré-Cœur Basilica: official history",
+          "url": "https://www.sacre-coeur-montmartre.com/decouvrir/notre-histoire/"
+        },
+        {
+          "title": "French Wikipedia: location reference coordinates",
+          "url": "https://fr.wikipedia.org/wiki/Basilique_du_Sacr%C3%A9-C%C5%93ur_de_Montmartre"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Sacr%C3%A9-C%C5%93ur%20%26%20Montmartre%2C%20Paris%2C%20France",
       "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"

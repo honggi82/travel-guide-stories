@@ -248,10 +248,10 @@
       "name": {
         "ko": "파리"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2235,
-      "sha256": "3bb18e668d192ea38f78a246a76d760bab2b5f06f3b6ad2a9e7ddf489e25bdf7",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 12755,
+      "sha256": "bc54697e288b760ca6fdf44255bd4aa17e22e781fb5a4a700f8c40046eca7644",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/fr-paris.json",
       "places": [
         {
@@ -269,6 +269,80 @@
           ],
           "lat": 48.8583,
           "lon": 2.2945
+        },
+        {
+          "id": "louvre-museum",
+          "name": {
+            "ko": "루브르 박물관",
+            "en": "Louvre Museum"
+          },
+          "aliases": [
+            "루브르",
+            "Musée du Louvre",
+            "Louvre"
+          ],
+          "city": [
+            "Paris",
+            "파리"
+          ],
+          "lat": 48.8611,
+          "lon": 2.3358
+        },
+        {
+          "id": "notre-dame-paris",
+          "name": {
+            "ko": "파리 노트르담 대성당",
+            "en": "Notre-Dame de Paris"
+          },
+          "aliases": [
+            "노트르담 대성당",
+            "노트르담 성당",
+            "Notre-Dame Cathedral of Paris",
+            "Notre Dame de Paris"
+          ],
+          "city": [
+            "Paris",
+            "파리"
+          ],
+          "lat": 48.85306,
+          "lon": 2.35
+        },
+        {
+          "id": "arc-de-triomphe",
+          "name": {
+            "ko": "에투알 개선문",
+            "en": "Arc de Triomphe"
+          },
+          "aliases": [
+            "파리 개선문",
+            "개선문",
+            "Arc de Triomphe de l'Étoile"
+          ],
+          "city": [
+            "Paris",
+            "파리"
+          ],
+          "lat": 48.873778,
+          "lon": 2.295028
+        },
+        {
+          "id": "sacre-coeur-montmartre",
+          "name": {
+            "ko": "사크레쾨르 대성당",
+            "en": "Sacré-Cœur Basilica"
+          },
+          "aliases": [
+            "사크레 쾨르 대성당",
+            "사크레쾨르 성당",
+            "Sacre Coeur",
+            "Basilique du Sacré-Cœur de Montmartre"
+          ],
+          "city": [
+            "Paris",
+            "파리"
+          ],
+          "lat": 48.886944,
+          "lon": 2.343056
         }
       ]
     },
@@ -277,10 +351,10 @@
       "name": {
         "ko": "런던"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2368,
-      "sha256": "554755dbc0a2b450854f85d8417ef7c4bbbee8b11d9e35614bcded036d37d770",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 12454,
+      "sha256": "7db7a579c0dc3280ea0efa2e447b98d832327594c70c3e158b30504aca731b5c",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gb-london.json",
       "places": [
         {
@@ -299,6 +373,108 @@
           ],
           "lat": 51.50806,
           "lon": -0.07611
+        },
+        {
+          "id": "big-ben",
+          "name": {
+            "ko": "빅벤",
+            "en": "Big Ben"
+          },
+          "aliases": [
+            "빅 벤",
+            "엘리자베스 타워",
+            "Elizabeth Tower"
+          ],
+          "city": [
+            "London",
+            "런던"
+          ],
+          "lat": 51.5007,
+          "lon": -0.1245
+        },
+        {
+          "id": "tower-bridge",
+          "name": {
+            "ko": "타워 브리지",
+            "en": "Tower Bridge"
+          },
+          "aliases": [
+            "타워브리지"
+          ],
+          "city": [
+            "London",
+            "런던"
+          ],
+          "lat": 51.5056,
+          "lon": -0.0753
+        },
+        {
+          "id": "buckingham-palace",
+          "name": {
+            "ko": "버킹엄궁",
+            "en": "Buckingham Palace"
+          },
+          "aliases": [
+            "버킹엄 궁전",
+            "버킹엄 궁"
+          ],
+          "city": [
+            "London",
+            "런던"
+          ],
+          "lat": 51.50083,
+          "lon": -0.14194
+        },
+        {
+          "id": "london-eye",
+          "name": {
+            "ko": "런던 아이",
+            "en": "London Eye"
+          },
+          "aliases": [
+            "런던아이",
+            "밀레니엄 휠",
+            "Millennium Wheel"
+          ],
+          "city": [
+            "London",
+            "런던"
+          ],
+          "lat": 51.5033,
+          "lon": -0.1194
+        }
+      ]
+    },
+    {
+      "id": "gr-athens",
+      "name": {
+        "ko": "아테네",
+        "en": "Athens"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 3325,
+      "sha256": "1839df9c21e8615b6861a4fad1a7ab8e1ff01df948b4e838f50f3bf83f092a47",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gr-athens.json",
+      "places": [
+        {
+          "id": "acropolis-of-athens",
+          "name": {
+            "ko": "아테네 아크로폴리스",
+            "en": "Acropolis of Athens"
+          },
+          "aliases": [
+            "아크로폴리스",
+            "아크로폴리스 유적",
+            "아테네의 아크로폴리스",
+            "Ακρόπολη Αθηνών"
+          ],
+          "city": [
+            "Athens",
+            "아테네"
+          ],
+          "lat": 37.97167,
+          "lon": 23.72611
         }
       ]
     },
@@ -1310,39 +1486,6 @@
           ],
           "lat": -33.96218,
           "lon": 18.409883
-        }
-      ]
-    },
-    {
-      "id": "gr-athens",
-      "name": {
-        "ko": "아테네",
-        "en": "Athens"
-      },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 3325,
-      "sha256": "1839df9c21e8615b6861a4fad1a7ab8e1ff01df948b4e838f50f3bf83f092a47",
-      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gr-athens.json",
-      "places": [
-        {
-          "id": "acropolis-of-athens",
-          "name": {
-            "ko": "아테네 아크로폴리스",
-            "en": "Acropolis of Athens"
-          },
-          "aliases": [
-            "아크로폴리스",
-            "아크로폴리스 유적",
-            "아테네의 아크로폴리스",
-            "Ακρόπολη Αθηνών"
-          ],
-          "city": [
-            "Athens",
-            "아테네"
-          ],
-          "lat": 37.97167,
-          "lon": 23.72611
         }
       ]
     }

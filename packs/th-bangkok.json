@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 2,
+  "id": "th-bangkok",
+  "version": 1,
+  "name": {
+    "ko": "방콕"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "grand-palace-bangkok",
+      "name": {
+        "ko": "방콕 왕궁",
+        "en": "Grand Palace"
+      },
+      "aliases": [
+        "태국 왕궁",
+        "방콕왕궁",
+        "The Grand Palace",
+        "พระบรมมหาราชวัง"
+      ],
+      "city": [
+        "Bangkok",
+        "방콕"
+      ],
+      "lat": 13.7501,
+      "lon": 100.492,
+      "scripts": {
+        "ko": "방콕 왕궁에서는 화려한 지붕을 올려다본 뒤 건물 사이의 마당에도 눈을 돌려 보세요. 장식이 빽빽한 부분과 넓게 비어 있는 부분이 번갈아 나타나며 궁전의 리듬을 만듭니다. 왕궁은 한 채의 건물이 아니라 여러 건물이 모인 단지입니다.\n\n1782년부터 왕실의 공식 거처가 된 이곳에는 왕과 궁정, 왕실 행정의 기능이 함께 자리했습니다. 이후 왕실의 실제 생활 공간은 다른 곳으로 옮겨 갔지만 이 단지는 여전히 공식 행사와 의례에 사용됩니다. 오래된 건물을 관람하는 장소인 동시에 오늘의 제도와 연결된 공간인 것입니다. 모든 건물을 1782년에 한꺼번에 완성한 것으로 생각하지 말고, 서로 다른 역할과 시대가 모인 단지로 살펴보세요.\n\n어떤 건물 앞에는 넓은 마당이 있고 어떤 곳은 담과 문으로 구획되는지 비교하면 장식 이외의 특징도 보입니다. 왕궁 전체와 안의 개별 종교시설은 지도와 출입 안내에서 범위를 구분해야 합니다. 의례에 따른 공개 구역과 복장·보안 조건은 바뀔 수 있으므로 방문일의 공식 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Grand Palace",
+          "url": "https://en.wikipedia.org/wiki/Grand_Palace"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/The%2BGrand%2BPalace%2C%2BRattanakosin%2B%2F%2BChao%2BPhraya%2C%2BBangkok%2C%2BThailand"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/The%2BGrand%2BPalace%2C%2BRattanakosin%2B%2F%2BChao%2BPhraya%2C%2BBangkok%2C%2BThailand",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "wat-pho",
+      "name": {
+        "ko": "왓 포",
+        "en": "Wat Pho"
+      },
+      "aliases": [
+        "왓포",
+        "Wat Po",
+        "Temple of the Reclining Buddha",
+        "Wat Phra Chetuphon Wimon Mangkhalaram Rajwaramahawihan",
+        "วัดพระเชตุพนวิมลมังคลาราม ราชวรมหาวิหาร"
+      ],
+      "city": [
+        "Bangkok",
+        "방콕"
+      ],
+      "lat": 13.74638889,
+      "lon": 100.49361111,
+      "scripts": {
+        "ko": "왓 포의 와불 앞에서는 눈길이 머리에서 발끝으로 길게 이어집니다. 공식 안내에서 길이를 46미터로 소개하는 이 불상은, 한 번에 전체를 보려 할 때와 가까이에서 세부를 볼 때 전혀 다른 인상을 줍니다. 규모를 먼저 느낀 뒤 천천히 작은 장식을 살펴보세요.\n\n불상은 벽돌과 회반죽으로 형태를 만들고 옻칠과 금빛 마감으로 표현했습니다. 발바닥의 자개 장식에는 불교의 상징들이 담겨 있습니다. 큰 덩어리를 만드는 재료와 가까이 다가가 보게 하는 정교한 장식이 함께 쓰인 것입니다. 금빛 표면만 보고 지나치기보다 서로 다른 재료가 어떤 역할을 하는지 관찰해 보면 좋겠습니다.\n\n왓 포는 왕궁 남쪽의 넓은 불교 사찰 단지이며, 와불은 그 안의 중요한 불상입니다. 불상을 보는 것과 사찰 전체를 둘러보는 것은 범위가 다릅니다. 이곳을 신앙의 대상으로 찾는 사람들의 동선을 존중하고, 전각별 신발·촬영·출입 안내를 따라 주세요. 지도에는 긴 정식 명칭인 왓 프라 체뚜폰 계열의 이름으로 표시되기도 합니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Wat Pho",
+          "url": "https://en.wikipedia.org/wiki/Wat_Pho"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Explore%20Wat%20Pho%20Temple%2C%20Bangkok%2C%20Thailand"
+        },
+        {
+          "title": "Wat Pho: the Reclining Buddha",
+          "url": "https://www.watpho.com/en/buddha/detail/204"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Explore%20Wat%20Pho%20Temple%2C%20Bangkok%2C%20Thailand",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "wat-arun",
+      "name": {
+        "ko": "왓 아룬",
+        "en": "Wat Arun"
+      },
+      "aliases": [
+        "왓아룬",
+        "새벽 사원",
+        "Wat Arun Ratchawararam Ratchawaramahawihan",
+        "วัดอรุณราชวราราม"
+      ],
+      "city": [
+        "Bangkok",
+        "방콕"
+      ],
+      "lat": 13.74361111,
+      "lon": 100.48888889,
+      "scripts": {
+        "ko": "왓 아룬은 강을 사이에 두고 바라볼 때와 경내 가까이에서 볼 때 인상이 달라집니다. 먼 곳에서는 위로 가늘어지는 탑의 윤곽이 먼저 보이고, 가까이에서는 그 표면을 이루는 작은 요소들이 눈에 들어옵니다. 전체와 세부 사이를 오가며 감상해 보세요.\n\n사찰은 차오프라야강 서쪽 톤부리에 자리합니다. 이름은 떠오르는 해의 빛과 연결되는 아루나 신에서 유래합니다. 사찰의 역사는 적어도 17세기까지 거슬러 올라가지만, 오늘의 두드러진 중앙 프랑은 19세기 초 라마 2세와 라마 3세 시대에 건설되었습니다. 사찰이 처음 존재한 시기와 지금의 대표 건축물이 만들어진 시기를 구분하면 좋겠습니다.\n\n높은 탑을 보는 동안에도 주변의 낮은 전각과 마당이 어떻게 배치되어 있는지 살펴보세요. 강변의 유명한 풍경이 실제로는 예배와 방문이 함께 이루어지는 사찰이라는 점도 기억해 주세요. 부두와 사찰은 지도에서 별도의 장소로 표시될 수 있습니다. 목적지와 실제 입구를 구분하고 공개 구역과 촬영·복장 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Wat Arun",
+          "url": "https://en.wikipedia.org/wiki/Wat_Arun"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Arun%20Bangkok",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "wat-saket",
+      "name": {
+        "ko": "왓 사켓",
+        "en": "Wat Saket"
+      },
+      "aliases": [
+        "왓사켓",
+        "황금산 사원",
+        "Wat Saket Ratchawora Mahawihan",
+        "Golden Mount",
+        "Phu Khao Thong"
+      ],
+      "city": [
+        "Bangkok",
+        "방콕"
+      ],
+      "lat": 13.75388889,
+      "lon": 100.50833333,
+      "scripts": {
+        "ko": "왓 사켓의 황금산을 바라보면 평평한 도시 위에 솟은 언덕이 먼저 눈에 들어옵니다. 이 언덕은 자연적으로 생긴 산이 아니라 사찰 안에 조성된 인공 언덕입니다. 이름을 알고 바라보면 도시와 지형의 관계가 조금 다르게 느껴집니다.\n\n사찰의 역사는 아유타야 시대로 거슬러 올라갑니다. 방콕이 수도가 된 뒤 라마 1세 때 정비되었고, 황금산의 형성에는 후대의 거대한 탑 건설 시도가 연결됩니다. 라마 3세 때 추진한 탑은 지반이 무게를 견디지 못해 무너졌으며, 이후 언덕 위에 더 작은 탑을 건설했습니다. 지금의 풍경은 한 번의 완성된 계획보다 여러 시도의 결과로 이해할 수 있습니다.\n\n오르는 길을 이용한다면 높이가 조금씩 바뀔 때 도시의 지붕이 어떤 순서로 드러나는지 살펴보세요. 언덕만 보고 돌아서기보다 아래의 사찰 공간과 연결해서 생각하면 좋겠습니다. 황금산은 왓 사켓 단지 안의 한 부분이며, 이 참고 좌표가 정상이나 특정 출입구를 뜻하지는 않습니다. 당일 공개 동선과 사찰의 예절 안내를 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Wat Saket",
+          "url": "https://en.wikipedia.org/wiki/Wat_Saket"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wat%20Saket%20Bangkok",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "jim-thompson-house",
+      "name": {
+        "ko": "짐 톰슨의 집",
+        "en": "Jim Thompson House"
+      },
+      "aliases": [
+        "짐 톰슨 하우스",
+        "짐톰슨하우스",
+        "짐 톰슨 하우스 박물관",
+        "Jim Thompson House Museum"
+      ],
+      "city": [
+        "Bangkok",
+        "방콕"
+      ],
+      "lat": 13.74916667,
+      "lon": 100.52833333,
+      "scripts": {
+        "ko": "짐 톰슨의 집에서는 물건을 보관하는 박물관과 사람이 살던 집이라는 두 성격을 함께 떠올려 보세요. 방과 통로를 지나는 방식, 물건을 마주하는 거리도 큰 전시관과는 다른 감상을 만듭니다. 집의 구조와 전시 자료를 번갈아 살피면 좋겠습니다.\n\n이곳은 미국인 사업가이자 건축가였던 짐 톰슨의 미술품 컬렉션을 보존하는 방콕의 박물관입니다. 1959년에 조성된 집이 관람 공간의 바탕이 됩니다. 한 개인이 모은 물건들을 보는 일이면서, 그 물건들이 놓일 생활 공간을 어떻게 구성했는지 살피는 일이기도 합니다. 소장품을 단순히 이국적인 장식으로 보기보다 각 물건의 제작 배경과 설명에 눈을 돌려 보세요.\n\n건축의 재료와 전시품의 재료가 주는 느낌을 비교해 보세요. 작은 공간에서 여러 물건을 연이어 만날 때에는 한두 점을 골라 천천히 살펴보는 방법도 좋습니다. 박물관과 주변의 동명 상점·음식점은 별개의 시설이므로 지도에서 목적지를 구분해 주세요. 내부 관람 방식과 촬영·출입 조건은 현장의 현재 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Jim Thompson House",
+          "url": "https://en.wikipedia.org/wiki/Jim_Thompson_House"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Jim%2BThompson%2BHouse%2BMuseum%2C%2BBangkok%2C%2BThailand"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Jim%2BThompson%2BHouse%2BMuseum%2C%2BBangkok%2C%2BThailand",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

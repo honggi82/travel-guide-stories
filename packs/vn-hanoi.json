@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 2,
+  "id": "vn-hanoi",
+  "version": 1,
+  "name": {
+    "ko": "하노이"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "hoan-kiem-lake",
+      "name": {
+        "ko": "호안끼엠 호수",
+        "en": "Hoan Kiem Lake"
+      },
+      "aliases": [
+        "호안키엠 호수",
+        "호안끼엠호수",
+        "Hoàn Kiếm Lake",
+        "Hồ Hoàn Kiếm",
+        "Sword Lake"
+      ],
+      "city": [
+        "Hanoi",
+        "Hà Nội",
+        "하노이"
+      ],
+      "lat": 21.02888889,
+      "lon": 105.8525,
+      "scripts": {
+        "ko": "호안끼엠 호수에는 이름과 연결된 검의 전설이 전해집니다. 전쟁을 마친 레러이 왕 앞에 거북 신이 나타나 신비한 검을 돌려 달라고 했고, 왕이 검을 돌려주었다는 이야기입니다. 이것은 역사적으로 입증된 사건의 설명이 아니라 이 호수를 둘러싼 전설입니다.\n\n하노이 역사 중심부의 담수호인 이곳에는 수면 가운데의 작은 섬과 거북탑이 있습니다. 검을 돌려준다는 뜻과 연결되는 이름을 알고 보면 도시의 지명에 이야기가 남는 방식을 생각해 볼 수 있습니다. 호수는 관광객이 찾는 명소이면서 주변 사람들이 걷고 만나며 시간을 보내는 생활 공간이기도 합니다.\n\n가장자리의 한 지점에서 물과 건물을 바라본 뒤, 조금 걸어 다른 방향에서도 같은 풍경을 보세요. 큰 건물을 오르는 관람과 달리 물가를 따라 시점이 바뀌는 경험이 중심이 됩니다. 호수 전체와 응옥선 사당·다리 같은 개별 시설은 지도에서 구분해야 합니다. 이 좌표는 수면의 참고 지점으로 보행 목적지나 출입구를 뜻하지 않습니다. 물가의 안전한 산책로를 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Hoàn Kiếm Lake",
+          "url": "https://en.wikipedia.org/wiki/Ho%C3%A0n_Ki%E1%BA%BFm_Lake"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoan%20Kiem%20Lake%20Hanoi",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "temple-of-literature-hanoi",
+      "name": {
+        "ko": "하노이 문묘",
+        "en": "Temple of Literature"
+      },
+      "aliases": [
+        "하노이문묘",
+        "문묘 국자감",
+        "Temple Of Literature Hanoi",
+        "Văn Miếu",
+        "Văn Miếu – Quốc Tử Giám"
+      ],
+      "city": [
+        "Hanoi",
+        "Hà Nội",
+        "하노이"
+      ],
+      "lat": 21.02861111,
+      "lon": 105.83555556,
+      "scripts": {
+        "ko": "하노이 문묘에서는 문을 지나 마당으로 들어갈 때 공간의 분위기가 어떻게 바뀌는지 살펴보세요. 사람을 기리는 장소와 학문을 가르치던 장소가 한 단지에 연결되어 있다는 점을 생각하며 걸으면, 건물과 길의 배치에도 관심이 갑니다.\n\n문묘는 공자를 기리는 시설로 1070년에 세워졌습니다. 1076년부터는 국자감이라는 국가 교육기관이 이곳에 자리했습니다. 문묘의 창건과 교육기관의 시작은 서로 다른 연도입니다. 신앙과 의례, 학문과 교육이 과거 사회에서 어떻게 연결되었는지 보여 주는 장소로 이해하면 좋겠습니다. 창건의 연대를 눈앞의 모든 건물이 그때 그대로 남았다는 뜻으로 받아들이지는 말아 주세요.\n\n마당에서 다음 공간으로 향하는 문을 바라본 뒤 건물의 세부를 살펴보세요. 한 번에 전체를 훑기보다 공간의 순서를 따라가면 방문의 기억이 더 또렷해집니다. 학문과 교육을 기리는 역사적 장소인 만큼 현장의 설명 자료도 함께 읽어 보면 좋겠습니다. 문화행사나 보존 작업에 따른 공개 범위, 촬영과 출입 안내는 방문일에 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Temple of Literature, Hanoi",
+          "url": "https://en.wikipedia.org/wiki/Temple_of_Literature%2C_Hanoi"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Temple%20of%20Literature%20Hanoi"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Temple%20of%20Literature%20Hanoi",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "ho-chi-minh-mausoleum",
+      "name": {
+        "ko": "호찌민 묘소",
+        "en": "Ho Chi Minh Mausoleum"
+      },
+      "aliases": [
+        "호치민 묘소",
+        "호찌민 묘",
+        "호치민묘",
+        "Ho Chi Minh's Mausoleum",
+        "Lăng Chủ tịch Hồ Chí Minh"
+      ],
+      "city": [
+        "Hanoi",
+        "Hà Nội",
+        "하노이"
+      ],
+      "lat": 21.03666667,
+      "lon": 105.83472222,
+      "scripts": {
+        "ko": "호찌민 묘소에서는 건물 가까이로 향하기 전에 바딘 광장과 묘소가 함께 만드는 구성을 바라보세요. 넓은 광장의 중심에 놓인 건물은 한 사람을 추모하는 장소와 국가의 역사를 기념하는 공간이라는 두 성격을 함께 지닙니다.\n\n이 묘소는 베트남의 혁명 지도자이자 대통령이었던 호찌민의 유해를 모신 장소입니다. 바딘 광장은 그가 1945년 9월 2일 독립선언문을 낭독한 곳이기도 합니다. 한 인물의 생애와 현대 베트남의 국가 형성에 관한 기억이 같은 공간에 연결되어 있습니다. 역사적 사건의 날짜와 오늘 이곳에서 이루어지는 추모를 구분해 생각해 보면 좋겠습니다.\n\n관람객의 동선과 사람들이 머무는 방식도 살펴보세요. 누군가에게는 처음 보는 역사 유적이지만 다른 이에게는 개인적·공적 의미가 큰 추모 장소입니다. 내부 공개 여부와 방문 동선은 운영에 따라 달라질 수 있습니다. 촬영·복장·보안에 관한 현재의 공식 안내를 확인하고, 관람 중에는 다른 방문객의 조용한 추모와 이동을 존중해 주세요. 하노이의 묘소와 호찌민시라는 도시 이름은 구분해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Ho Chi Minh Mausoleum",
+          "url": "https://en.wikipedia.org/wiki/Ho_Chi_Minh_Mausoleum"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Ho%2BChi%2BMinh%2BMausoleum%2B%26%2BBa%2BDinh%2BSquare%2C%2BHanoi%2C%2BVietnam"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Ho%2BChi%2BMinh%2BMausoleum%2B%26%2BBa%2BDinh%2BSquare%2C%2BHanoi%2C%2BVietnam",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "tran-quoc-pagoda",
+      "name": {
+        "ko": "쩐꾸옥 사원",
+        "en": "Tran Quoc Pagoda"
+      },
+      "aliases": [
+        "쩐꾸옥사",
+        "쩐꾸옥 사찰",
+        "Trấn Quốc Pagoda",
+        "Chùa Trấn Quốc"
+      ],
+      "city": [
+        "Hanoi",
+        "Hà Nội",
+        "하노이"
+      ],
+      "lat": 21.04777778,
+      "lon": 105.83666667,
+      "scripts": {
+        "ko": "쩐꾸옥 사원은 하노이 서호의 작은 섬에 자리합니다. 물가에서 사찰을 바라본 뒤 연결된 길을 따라 들어가면, 호수의 넓은 풍경과 경내의 가까운 공간을 차례로 경험하게 됩니다. 물과 건축의 관계를 먼저 살펴보면 좋겠습니다.\n\n이 사찰의 창건 역사는 6세기까지 거슬러 올라갑니다. 오랜 세월 이어진 불교 사찰이라는 점이 중요하지만, 창건 연도를 현재의 건물들이 모두 처음 지어진 시기로 생각해서는 안 됩니다. 사찰이 유지되고 정비되는 동안 여러 시대의 사람들이 같은 장소에 의미를 더해 왔다고 이해하면 좋겠습니다.\n\n멀리서 보던 탑과 전각이 가까이에서는 어떤 크기로 느껴지는지 비교해 보세요. 사찰의 윤곽을 이루는 풍경과 안에서 마주하는 개별 공간은 서로 다른 감상을 줍니다. 이곳은 호수를 배경으로 사진을 찍는 명소이면서 예배와 참배가 이루어지는 종교시설입니다. 촬영과 출입 안내를 따르고 참배하는 사람들의 동선을 존중해 주세요. 사찰과 주변 호수의 참고 지점은 실제 출입구와 구분해야 합니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Trấn Quốc Pagoda",
+          "url": "https://en.wikipedia.org/wiki/Tr%E1%BA%A5n_Qu%E1%BB%91c_Pagoda"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Explore%20West%20Lake%20and%20Tran%20Quoc%20Pagoda%2C%20Hanoi%2C%20Vietnam"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Explore%20West%20Lake%20and%20Tran%20Quoc%20Pagoda%2C%20Hanoi%2C%20Vietnam",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "thang-long-imperial-citadel",
+      "name": {
+        "ko": "탕롱 황성",
+        "en": "Imperial Citadel of Thang Long"
+      },
+      "aliases": [
+        "탕롱황성",
+        "탕롱 황궁",
+        "Thăng Long Imperial Citadel",
+        "Hoàng thành Thăng Long"
+      ],
+      "city": [
+        "Hanoi",
+        "Hà Nội",
+        "하노이"
+      ],
+      "lat": 21.03944444,
+      "lon": 105.83722222,
+      "scripts": {
+        "ko": "탕롱 황성에서는 지금 지상에 보이는 건물만으로 이 장소의 시간을 가늠하기 어렵습니다. 여러 시대의 중심 공간이 같은 자리에 겹쳐져 있기 때문입니다. 눈에 남는 건축을 본 뒤에는 유적의 배치와 시대를 설명하는 자료도 함께 살펴보세요.\n\n유네스코는 11세기 리 왕조의 황성이 7세기 중국계 요새의 흔적 위에 세워졌다고 설명합니다. 이 일대는 오랜 기간 정치 권력의 중심으로 사용되었습니다. 황성의 중앙 구역은 2010년에 세계유산으로 등재되었습니다. 오래된 자리 위에 새 중심지를 세운 과정과 이후의 변화를 함께 생각하면, 한 왕조의 궁전이라는 이름보다 더 긴 역사가 보입니다.\n\n건물과 넓은 빈 공간, 유적의 설명을 번갈아 살펴보세요. 어디에 무엇이 남았는지와 무엇이 사라졌는지를 함께 보는 관람이 도움이 됩니다. 세계유산으로 지정된 중앙 구역과 옛 황성 전체의 범위는 같지 않습니다. 이 좌표는 단지의 참고 지점이며 특정 출입구를 뜻하지 않습니다. 방문일에 공개되는 구역과 입장 동선을 공식 안내에서 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Imperial Citadel of Thang Long",
+          "url": "https://en.wikipedia.org/wiki/Imperial_Citadel_of_Thang_Long"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/100000%2BHanoi%2C%2BVietnam/?hl=en"
+        },
+        {
+          "title": "UNESCO: central sector of the Imperial Citadel of Thang Long",
+          "url": "https://whc.unesco.org/en/list/1328/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/100000%2BHanoi%2C%2BVietnam/?hl=en",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

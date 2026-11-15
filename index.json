@@ -200,10 +200,10 @@
       "name": {
         "ko": "바르셀로나"
       },
-      "version": 4,
-      "placeCount": 2,
-      "sizeBytes": 4811,
-      "sha256": "2d40877d53019e65da7f67aa954e52e2a38af61610f351207628730e95784317",
+      "version": 5,
+      "placeCount": 5,
+      "sizeBytes": 11361,
+      "sha256": "d68f1911a8a258bb490e882cdccf1d72824aca0acbc57c4815fb69b0dce98a50",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
       "places": [
         {
@@ -240,6 +240,63 @@
           ],
           "lat": 41.41361,
           "lon": 2.15278
+        },
+        {
+          "id": "casa-batllo",
+          "name": {
+            "ko": "카사 바트요",
+            "en": "Casa Batlló"
+          },
+          "aliases": [
+            "카사바트요",
+            "까사 바뜨요",
+            "Casa Batllo"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.39158,
+          "lon": 2.16492
+        },
+        {
+          "id": "casa-mila",
+          "name": {
+            "ko": "카사 밀라",
+            "en": "Casa Milà"
+          },
+          "aliases": [
+            "카사밀라",
+            "라 페드레라",
+            "La Pedrera",
+            "Casa Mila",
+            "La Pedrera - Casa Milà"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.395278,
+          "lon": 2.161667
+        },
+        {
+          "id": "barcelona-cathedral",
+          "name": {
+            "ko": "바르셀로나 대성당",
+            "en": "Barcelona Cathedral"
+          },
+          "aliases": [
+            "바르셀로나대성당",
+            "Catedral de Barcelona",
+            "Cathedral of the Holy Cross and Saint Eulalia",
+            "Cathedral of Barcelona"
+          ],
+          "city": [
+            "Barcelona",
+            "바르셀로나"
+          ],
+          "lat": 41.383889,
+          "lon": 2.176389
         }
       ]
     },
@@ -512,10 +569,10 @@
       "name": {
         "ko": "로마"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2228,
-      "sha256": "00ceafead6e70741664ce6cf04e53af018e289865e25fc807d8920ab0c9d3e96",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 11429,
+      "sha256": "60fd80a2c72e86c9b56b590ba6300d3d224a79d4e988a0dab9203551ccf37921",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/it-rome.json",
       "places": [
         {
@@ -534,6 +591,81 @@
           ],
           "lat": 41.8902,
           "lon": 12.4922
+        },
+        {
+          "id": "pantheon-rome",
+          "name": {
+            "ko": "로마 판테온",
+            "en": "Pantheon"
+          },
+          "aliases": [
+            "판테온",
+            "Pantheon Roma"
+          ],
+          "city": [
+            "Rome",
+            "Roma",
+            "로마"
+          ],
+          "lat": 41.8986,
+          "lon": 12.4768
+        },
+        {
+          "id": "trevi-fountain",
+          "name": {
+            "ko": "트레비 분수",
+            "en": "Trevi Fountain"
+          },
+          "aliases": [
+            "트레비분수",
+            "Fontana di Trevi"
+          ],
+          "city": [
+            "Rome",
+            "Roma",
+            "로마"
+          ],
+          "lat": 41.900833,
+          "lon": 12.483056
+        },
+        {
+          "id": "roman-forum",
+          "name": {
+            "ko": "포로 로마노",
+            "en": "Roman Forum"
+          },
+          "aliases": [
+            "로마 포럼",
+            "포룸 로마눔",
+            "Foro Romano",
+            "Forum Romanum"
+          ],
+          "city": [
+            "Rome",
+            "Roma",
+            "로마"
+          ],
+          "lat": 41.8922,
+          "lon": 12.4852
+        },
+        {
+          "id": "spanish-steps",
+          "name": {
+            "ko": "스페인 계단",
+            "en": "Spanish Steps"
+          },
+          "aliases": [
+            "스페인계단",
+            "스파냐 계단",
+            "Scalinata di Trinità dei Monti"
+          ],
+          "city": [
+            "Rome",
+            "Roma",
+            "로마"
+          ],
+          "lat": 41.9061,
+          "lon": 12.4828
         }
       ]
     },
@@ -542,10 +674,10 @@
       "name": {
         "ko": "교토"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2434,
-      "sha256": "67d5f81f4e38b745d3404e66e116062a6cb479c097c143b71958cc5c5dbefbb9",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 11611,
+      "sha256": "de47c47529540be969708339ceac5cf2698db9c2ed244a76ba6d64da7f1cb9a4",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-kyoto.json",
       "places": [
         {
@@ -564,6 +696,81 @@
           ],
           "lat": 34.995,
           "lon": 135.785
+        },
+        {
+          "id": "fushimi-inari-taisha",
+          "name": {
+            "ko": "후시미 이나리 신사",
+            "en": "Fushimi Inari Taisha"
+          },
+          "aliases": [
+            "후시미 이나리 타이샤",
+            "후시미이나리대사",
+            "伏見稲荷大社",
+            "Fushimi Inari Shrine"
+          ],
+          "city": [
+            "Kyoto",
+            "교토"
+          ],
+          "lat": 34.967222,
+          "lon": 135.772778
+        },
+        {
+          "id": "kinkaku-ji",
+          "name": {
+            "ko": "금각사",
+            "en": "Kinkaku-ji"
+          },
+          "aliases": [
+            "킨카쿠지",
+            "로쿠온지",
+            "Rokuon-ji",
+            "金閣寺"
+          ],
+          "city": [
+            "Kyoto",
+            "교토"
+          ],
+          "lat": 35.0395,
+          "lon": 135.7285
+        },
+        {
+          "id": "nijo-castle",
+          "name": {
+            "ko": "니조성",
+            "en": "Nijō Castle"
+          },
+          "aliases": [
+            "니조 성",
+            "니조조",
+            "Nijo-jo Castle",
+            "二条城"
+          ],
+          "city": [
+            "Kyoto",
+            "교토"
+          ],
+          "lat": 35.014167,
+          "lon": 135.7475
+        },
+        {
+          "id": "ryoan-ji",
+          "name": {
+            "ko": "료안지",
+            "en": "Ryōan-ji"
+          },
+          "aliases": [
+            "료안사",
+            "Ryoanji",
+            "龍安寺"
+          ],
+          "city": [
+            "Kyoto",
+            "교토"
+          ],
+          "lat": 35.034444,
+          "lon": 135.718333
         }
       ]
     },
@@ -1434,10 +1641,10 @@
       "name": {
         "ko": "뉴욕"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2085,
-      "sha256": "f389679ca670b2900b0f6a08610eeba00f58277023507713b4264fce6cdb4dad",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 11091,
+      "sha256": "1d82f4b4b717b4e01ad3880029b324ce5fdab79eaabb8a6549c794d5072d76bc",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/us-newyork.json",
       "places": [
         {
@@ -1456,6 +1663,81 @@
           ],
           "lat": 40.6892,
           "lon": -74.0445
+        },
+        {
+          "id": "empire-state-building",
+          "name": {
+            "ko": "엠파이어 스테이트 빌딩",
+            "en": "Empire State Building"
+          },
+          "aliases": [
+            "엠파이어스테이트빌딩"
+          ],
+          "city": [
+            "New York",
+            "New York City",
+            "뉴욕"
+          ],
+          "lat": 40.7483,
+          "lon": -73.9856
+        },
+        {
+          "id": "brooklyn-bridge",
+          "name": {
+            "ko": "브루클린 브리지",
+            "en": "Brooklyn Bridge"
+          },
+          "aliases": [
+            "브루클린브리지",
+            "브루클린교",
+            "브루클린 브릿지"
+          ],
+          "city": [
+            "New York",
+            "New York City",
+            "뉴욕"
+          ],
+          "lat": 40.7057,
+          "lon": -73.9964
+        },
+        {
+          "id": "metropolitan-museum-of-art",
+          "name": {
+            "ko": "메트로폴리탄 미술관",
+            "en": "Metropolitan Museum of Art"
+          },
+          "aliases": [
+            "메트로폴리탄미술관",
+            "더 메트",
+            "The Met",
+            "The Met Fifth Avenue",
+            "The Metropolitan Museum of Art"
+          ],
+          "city": [
+            "New York",
+            "New York City",
+            "뉴욕"
+          ],
+          "lat": 40.7794,
+          "lon": -73.9631
+        },
+        {
+          "id": "grand-central-terminal",
+          "name": {
+            "ko": "그랜드 센트럴 터미널",
+            "en": "Grand Central Terminal"
+          },
+          "aliases": [
+            "그랜드센트럴터미널",
+            "그랜드 센트럴역"
+          ],
+          "city": [
+            "New York",
+            "New York City",
+            "뉴욕"
+          ],
+          "lat": 40.7528,
+          "lon": -73.9772
         }
       ]
     },

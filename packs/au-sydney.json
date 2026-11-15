@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "au-sydney",
-  "version": 2,
+  "version": 3,
   "name": {
     "ko": "시드니"
   },
@@ -43,6 +43,161 @@
       ],
       "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney+Opera+House+Bennelong+Point+Sydney",
       "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "sydney-harbour-bridge",
+      "name": {
+        "ko": "시드니 하버 브리지",
+        "en": "Sydney Harbour Bridge"
+      },
+      "aliases": [
+        "시드니 하버브리지",
+        "하버 브리지",
+        "하버브리지"
+      ],
+      "city": [
+        "Sydney",
+        "시드니"
+      ],
+      "lat": -33.85222222,
+      "lon": 151.21055556,
+      "scripts": {
+        "ko": "시드니 하버 브리지를 바라보면 커다란 강철 아치가 항구의 풍경을 가로지릅니다. 곡선만 눈에 담은 뒤 그 아래를 잇는 수직선과 도로의 위치도 살펴보세요. 오페라하우스의 지붕과는 다른 방식으로 시드니의 윤곽을 만드는 구조물입니다.\n\n1932년에 개통한 이 다리는 시드니 중심부와 항구 북쪽을 연결합니다. 열차와 자동차, 자전거와 보행자의 이동이 함께 이루어지는 교통시설입니다. 관광객이 사진으로 기억하는 표식이 동시에 많은 사람이 매일 이용하는 길이라는 점을 생각하면, 다리의 크기와 기능이 더 구체적으로 느껴집니다.\n\n물가에서 전체를 본 뒤 허용된 보행 구역을 이용한다면, 다리에서 바라보는 항구와 항구에서 바라보는 다리를 비교해 보세요. 같은 장소의 시점이 서로 뒤바뀝니다. 일반 보행로와 교각 전망 시설, 별도 체험은 출입 조건과 동선이 다르므로 구분해야 합니다. 실제 이동 구역과 당일 운영 안내를 확인하고 다른 이용자의 통행을 존중해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Sydney Harbour Bridge",
+          "url": "https://en.wikipedia.org/wiki/Sydney_Harbour_Bridge"
+        },
+        {
+          "title": "Transport for NSW: a short history of Sydney Harbour Bridge",
+          "url": "https://www.transport.nsw.gov.au/system/files/media/documents/2023/harbour-bridge-history.pdf"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Harbour%20Bridge%20Sydney",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "royal-botanic-garden-sydney",
+      "name": {
+        "ko": "시드니 왕립식물원",
+        "en": "Royal Botanic Garden Sydney"
+      },
+      "aliases": [
+        "시드니 왕립 식물원",
+        "로열 보타닉 가든 시드니",
+        "Royal Botanic Garden, Sydney",
+        "Royal Botanic Gardens Sydney"
+      ],
+      "city": [
+        "Sydney",
+        "시드니"
+      ],
+      "lat": -33.86389,
+      "lon": 151.21694,
+      "scripts": {
+        "ko": "시드니 왕립식물원에서는 항구의 풍경과 식물의 작은 차이를 한 자리에서 경험할 수 있습니다. 멀리 보이는 물과 도시를 바라본 뒤 가까운 나무의 잎과 줄기로 시선을 옮겨 보세요. 산책의 속도를 늦추면 큰 풍경 안에 담긴 세부가 보입니다.\n\n식물원은 1816년에 설립되었습니다. 그러나 이 땅의 역사가 그때 시작된 것은 아닙니다. 식물원과 더 도메인 일대는 가디갈 사람들의 땅에 자리합니다. 오늘의 정원에는 식물을 수집하고 연구하고 보전해 온 역사와 더 오래된 지역의 문화가 함께 연결되어 있습니다.\n\n식물의 이름표와 배치를 보면서 무엇을 어떤 목적으로 모았는지 생각해 보세요. 익숙한 나무와 처음 보는 나무의 모양을 비교하는 관람도 좋겠습니다. 이곳은 보타닉 가든스 오브 시드니가 관리하는 여러 정원 중 하나이므로, 다른 지역의 식물원과 목적지를 혼동하지 말아 주세요. 넓은 정원의 참고 좌표와 실제 출입구를 구분하고 보호 구역과 보행로 안내를 따라 이동해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Royal Botanic Garden, Sydney",
+          "url": "https://en.wikipedia.org/wiki/Royal_Botanic_Garden%2C_Sydney"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/The%20Garden%2BSydney"
+        },
+        {
+          "title": "Botanic Gardens of Sydney: institutional history",
+          "url": "https://www.botanicgardens.org.au/about-us"
+        },
+        {
+          "title": "Botanic Gardens of Sydney: living collections and Gadigal Country",
+          "url": "https://www.botanicgardens.org.au/sites/default/files/2023-08/BGoS_Living_Collections_Strategy_FINAL_web_version-lr.pdf"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/The%20Garden%2BSydney",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "bondi-beach",
+      "name": {
+        "ko": "본다이 비치",
+        "en": "Bondi Beach"
+      },
+      "aliases": [
+        "본다이 해변",
+        "본다이비치",
+        "본디 비치"
+      ],
+      "city": [
+        "Sydney",
+        "Bondi Beach",
+        "본다이",
+        "시드니"
+      ],
+      "lat": -33.89111111,
+      "lon": 151.27416667,
+      "scripts": {
+        "ko": "본다이 비치에서는 도시의 가장자리가 바다와 만나는 모습을 볼 수 있습니다. 넓은 모래사장을 바라본 뒤 뒤쪽의 길과 건물도 함께 살펴보세요. 자연의 풍경을 찾는 방문객과 이곳에서 일상을 보내는 사람들이 같은 공간을 나눕니다.\n\n본다이 비치는 시드니 동부의 해변이며 주변 주거 지역의 이름이기도 합니다. 따라서 지도에 표시되는 본다이 비치가 모래사장의 한 지점을 뜻하는지, 더 넓은 동네를 뜻하는지 구분하면 좋겠습니다. 주변의 노스 본다이와 본다이 정션도 이름은 비슷하지만 같은 목적지는 아닙니다.\n\n해안선을 따라 서 있는 위치를 바꾸면 물과 모래, 주변 건물의 관계가 달라집니다. 같은 장소를 찾은 사람들이 걷거나 쉬거나 파도를 바라보는 서로 다른 방식도 관찰해 보세요. 이 안내는 현재의 수영 가능 여부나 바다 상태를 알려 주지 않습니다. 물에 들어가려면 현장의 인명구조 안내와 깃발·표지, 당일 상황을 확인해 주세요. 이 좌표는 해변의 참고 지점이며 안전한 입수 지점을 뜻하지 않습니다."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Bondi Beach",
+          "url": "https://en.wikipedia.org/wiki/Bondi_Beach"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Bondi%2BBeach%2BNSW%2C%2BAustralia"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Bondi%2BBeach%2BNSW%2C%2BAustralia",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "queen-victoria-building",
+      "name": {
+        "ko": "퀸 빅토리아 빌딩",
+        "en": "Queen Victoria Building"
+      },
+      "aliases": [
+        "퀸빅토리아빌딩",
+        "퀸 빅토리아 빌딩 시드니",
+        "QVB"
+      ],
+      "city": [
+        "Sydney",
+        "시드니"
+      ],
+      "lat": -33.871758,
+      "lon": 151.206666,
+      "scripts": {
+        "ko": "퀸 빅토리아 빌딩에서는 건물의 긴 정면을 먼저 본 뒤 창과 아치의 반복을 살펴보세요. 한 블록을 차지하는 큰 건물도 작은 형태가 이어지는 방식으로 도시의 거리에 표정을 만듭니다. 서 있는 거리에 따라 전체와 세부의 인상이 달라집니다.\n\n건축가 조지 맥레이가 설계한 이 로마네스크 부흥 양식의 건물은 1893년부터 1898년 사이에 지어졌습니다. 처음에는 시장으로 계획되었고 이후 여러 용도로 바뀌며 개조와 쇠퇴를 겪었습니다. 20세기 후반의 복원을 거쳐 다시 상업 공간으로 사용됩니다. 지금의 모습을 처음부터 변함없이 이어진 상태로 생각하기보다, 오래된 건물을 다시 사용하는 과정으로 살펴보면 좋겠습니다.\n\n허용된 내부 공용 공간을 방문한다면 바깥의 긴 정면이 안쪽의 이동 동선과 어떻게 연결되는지 비교해 보세요. 과거의 건축 안에서 현재의 상업 활동이 이루어지는 모습을 볼 수 있습니다. 개별 상점의 이름과 건물 전체는 지도에서 구분하고, 출입과 공개 범위는 현재의 시설 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Queen Victoria Building",
+          "url": "https://en.wikipedia.org/wiki/Queen_Victoria_Building"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Queen%20Victoria%20Building%20Sydney",
+      "mapsVerification": "pending",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "gr-athens",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "아테네",
     "en": "Athens"
@@ -51,6 +51,167 @@
       ],
       "mapsUrl": "https://www.google.com/maps/search/%CE%B5%CE%B9%CF%83%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF%2B%CE%B1%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7%CF%82",
       "mapsVerification": "indexed-identity",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "acropolis-museum",
+      "name": {
+        "ko": "아크로폴리스 박물관",
+        "en": "Acropolis Museum"
+      },
+      "aliases": [
+        "아크로폴리스박물관",
+        "Μουσείο Ακρόπολης"
+      ],
+      "city": [
+        "Athens",
+        "Athina",
+        "Αθήνα",
+        "아테네"
+      ],
+      "lat": 37.969108,
+      "lon": 23.728299,
+      "scripts": {
+        "ko": "아크로폴리스 박물관에서는 언덕 위 유적에서 보았던 건축을 작은 조각과 유물의 크기로 다시 만나게 됩니다. 멀리서 하나의 신전으로 보이던 장소가 가까이에서는 사람의 얼굴과 옷 주름, 장식의 세부로 나뉩니다. 전체와 부분을 연결해 보는 관람을 해 보세요.\n\n현재 박물관은 2009년에 문을 열었습니다. 아테네 아크로폴리스와 주변 경사면에서 발견된 자료를 중심으로 다루며, 건물 아래에도 고대 도시의 유적이 남아 있습니다. 고대의 자료를 담는 현대 건축이 또 다른 유적 위에 서 있는 셈입니다. 박물관의 설립과 전시품의 제작 시기를 같은 연대로 생각하지 말아 주세요.\n\n전시품 한 점을 천천히 본 뒤 원래 어느 건물이나 장소와 연결되었는지 설명을 읽어 보세요. 아름다운 조각이라는 감상에 원래의 위치와 기능이 더해집니다. 아크로폴리스 유적과 이 박물관은 별개의 시설입니다. 지도에서 방문 목적지와 출입구를 구분하고, 공개 전시와 입장 조건은 박물관의 현재 공식 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Acropolis Museum",
+          "url": "https://en.wikipedia.org/wiki/Acropolis_Museum"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF%20%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7%CF%82%2C%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%2C%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1"
+        },
+        {
+          "title": "Acropolis Museum: museum building and opening",
+          "url": "https://www.theacropolismuseum.gr/en/museum-building"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/%CE%9C%CE%BF%CF%85%CF%83%CE%B5%CE%AF%CE%BF%20%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7%CF%82%2C%20%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%2C%20%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "ancient-agora-athens",
+      "name": {
+        "ko": "아테네 고대 아고라",
+        "en": "Ancient Agora of Athens"
+      },
+      "aliases": [
+        "고대 아고라",
+        "아테네 아고라",
+        "Ancient Agora"
+      ],
+      "city": [
+        "Athens",
+        "Athina",
+        "Αθήνα",
+        "아테네"
+      ],
+      "lat": 37.975,
+      "lon": 23.7225,
+      "scripts": {
+        "ko": "아테네 고대 아고라에서는 지금 비어 보이는 공간에 사람들이 모였던 모습을 상상해 보세요. 돌기둥이나 건물의 흔적만 세는 대신 서로 다른 장소 사이를 오가는 길을 살펴보면, 도시의 생활 공간이었던 성격이 조금 더 잘 느껴집니다.\n\n아고라는 고대 그리스 도시에서 교역과 모임 등 여러 활동이 이루어지던 장소입니다. 아테네의 이 유적은 아크로폴리스 북서쪽에 자리합니다. 높은 곳의 신전과 가까운 아래쪽의 도시 공간을 함께 보면, 기념비적인 건축과 사람들이 만나고 일하던 일상이 서로 떨어져 있지 않았음을 생각할 수 있습니다.\n\n넓은 공간을 가로지르며 주변 언덕과 건물의 방향을 비교해 보세요. 모든 유적이 같은 시기에 만들어지고 같은 기능을 했다고 가정하기보다, 현장의 시대별 설명을 함께 읽으면 좋겠습니다. 이름이 비슷한 로마 아고라와는 별개의 유적이므로 지도와 일정에서 구분해 주세요. 이 참고 좌표는 넓은 유적의 한 지점이며 실제 출입구를 뜻하지 않습니다. 공개 동선과 보존 안내에 따라 관람해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Ancient Agora of Athens",
+          "url": "https://en.wikipedia.org/wiki/Ancient_Agora_of_Athens"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/%E6%97%85%E9%81%8A%E6%99%AF%E9%BB%9E%2B%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%2B%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/%E6%97%85%E9%81%8A%E6%99%AF%E9%BB%9E%2B%CE%91%CE%B8%CE%AE%CE%BD%CE%B1%2B%CE%95%CE%BB%CE%BB%CE%AC%CE%B4%CE%B1/",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "temple-olympian-zeus-athens",
+      "name": {
+        "ko": "올림피아 제우스 신전",
+        "en": "Temple of Olympian Zeus"
+      },
+      "aliases": [
+        "올림피아제우스신전",
+        "아테네 제우스 신전",
+        "Olympieion",
+        "Columns of the Olympian Zeus"
+      ],
+      "city": [
+        "Athens",
+        "Athina",
+        "Αθήνα",
+        "아테네"
+      ],
+      "lat": 37.96937222,
+      "lon": 23.73307778,
+      "scripts": {
+        "ko": "올림피아 제우스 신전에서는 남아 있는 기둥을 보고 사라진 건물의 크기를 생각하게 됩니다. 지금의 빈 공간은 처음부터 비워 둔 광장이 아니라 거대한 신전이 있던 자리입니다. 기둥 하나의 높이와 기둥 사이의 간격을 번갈아 살펴보세요.\n\n제우스에게 바친 이 신전의 공사는 기원전 6세기에 시작되었지만, 완성은 로마 황제 하드리아누스 시대인 서기 2세기에 이루어졌습니다. 처음 계획한 사람들이 생존해 있는 동안 끝난 건축이 아닙니다. 여러 세기의 간격을 두고 같은 장소의 계획이 이어졌다는 사실이 인상적입니다.\n\n지금 남은 부분을 완전한 신전의 작은 표본처럼 본 뒤, 잃어버린 나머지 공간도 함께 상상해 보세요. 고대 그리스의 신을 위한 건축에 로마 시대의 권력과 후원이 연결된 역사도 떠올릴 수 있습니다. 이름이 비슷한 다른 도시의 제우스 신전이나 인근 하드리아누스 문과는 범위가 다릅니다. 보존 작업에 따라 접근 가능한 구역이 달라질 수 있으므로 현장의 관람 안내를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Temple of Olympian Zeus, Athens",
+          "url": "https://en.wikipedia.org/wiki/Temple_of_Olympian_Zeus%2C_Athens"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Temple%2Bof%2BOlympian%2BZeus%2Band%2BArch%2Bof%2BHadrian%2C%2BAthens%2C%2BGreece"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Temple%2Bof%2BOlympian%2BZeus%2Band%2BArch%2Bof%2BHadrian%2C%2BAthens%2C%2BGreece",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "panathenaic-stadium",
+      "name": {
+        "ko": "파나티나이코 경기장",
+        "en": "Panathenaic Stadium"
+      },
+      "aliases": [
+        "파나티나이코 스타디움",
+        "파나테나이코 경기장",
+        "칼리마르마로",
+        "Kallimarmaro"
+      ],
+      "city": [
+        "Athens",
+        "Athina",
+        "Αθήνα",
+        "아테네"
+      ],
+      "lat": 37.96833333,
+      "lon": 23.74111111,
+      "scripts": {
+        "ko": "파나티나이코 경기장에서는 관람석의 곡선을 따라 시선을 움직여 보세요. 많은 사람이 같은 경기를 바라보도록 만든 공간은, 사람이 없을 때에도 관중의 시선과 응원의 방향을 상상하게 합니다. 대리석이 이어지는 모습도 가까이와 멀리에서 다르게 느껴집니다.\n\n이곳은 고대 경기장의 역사를 바탕으로 근대에 다시 조성된 경기장으로, 1896년 제1회 근대 올림픽의 주요 무대였습니다. 고대 스포츠의 장소와 근대 올림픽의 부활이라는 서로 다른 시간이 한 자리에 연결됩니다. 복원 공사는 1896년 대회가 끝난 뒤에도 이어졌으므로, 오늘의 모습을 모두 고대 원형이나 한 해의 완성품으로 생각해서는 안 됩니다.\n\n경기장 안쪽에서 관람석을 올려다본 뒤, 허용되는 관람 공간에서는 반대로 트랙을 바라보세요. 경기하는 사람과 관람하는 사람의 시점이 어떻게 다른지 체감할 수 있습니다. 실제 행사와 관람이 함께 이루어지는 시설이므로 출입 가능한 구역과 촬영·행사 일정을 방문일의 공식 안내에서 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Panathenaic Stadium",
+          "url": "https://en.wikipedia.org/wiki/Panathenaic_Stadium"
+        },
+        {
+          "title": "Panathenaic Stadium: modern reconstruction and the 1896 Olympics",
+          "url": "https://www.panathenaicstadium.gr/en/sigxrono-stadio-2/"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Panathenaic%20Stadium%20Athens",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }
   ]

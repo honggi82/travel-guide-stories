@@ -7,10 +7,10 @@
       "name": {
         "ko": "시드니"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2384,
-      "sha256": "ce8d5f22ec0f3f6a26d00d4232714a0eb36d3af12c4bba283fff7b80b353e5aa",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 11732,
+      "sha256": "d02f9529baf0c55c1c9bdebe0bdcce3feaba701be1c1a800992e335a7f3d5883",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/au-sydney.json",
       "places": [
         {
@@ -29,6 +29,81 @@
           ],
           "lat": -33.8568,
           "lon": 151.2153
+        },
+        {
+          "id": "sydney-harbour-bridge",
+          "name": {
+            "ko": "시드니 하버 브리지",
+            "en": "Sydney Harbour Bridge"
+          },
+          "aliases": [
+            "시드니 하버브리지",
+            "하버 브리지",
+            "하버브리지"
+          ],
+          "city": [
+            "Sydney",
+            "시드니"
+          ],
+          "lat": -33.85222222,
+          "lon": 151.21055556
+        },
+        {
+          "id": "royal-botanic-garden-sydney",
+          "name": {
+            "ko": "시드니 왕립식물원",
+            "en": "Royal Botanic Garden Sydney"
+          },
+          "aliases": [
+            "시드니 왕립 식물원",
+            "로열 보타닉 가든 시드니",
+            "Royal Botanic Garden, Sydney",
+            "Royal Botanic Gardens Sydney"
+          ],
+          "city": [
+            "Sydney",
+            "시드니"
+          ],
+          "lat": -33.86389,
+          "lon": 151.21694
+        },
+        {
+          "id": "bondi-beach",
+          "name": {
+            "ko": "본다이 비치",
+            "en": "Bondi Beach"
+          },
+          "aliases": [
+            "본다이 해변",
+            "본다이비치",
+            "본디 비치"
+          ],
+          "city": [
+            "Sydney",
+            "Bondi Beach",
+            "본다이",
+            "시드니"
+          ],
+          "lat": -33.89111111,
+          "lon": 151.27416667
+        },
+        {
+          "id": "queen-victoria-building",
+          "name": {
+            "ko": "퀸 빅토리아 빌딩",
+            "en": "Queen Victoria Building"
+          },
+          "aliases": [
+            "퀸빅토리아빌딩",
+            "퀸 빅토리아 빌딩 시드니",
+            "QVB"
+          ],
+          "city": [
+            "Sydney",
+            "시드니"
+          ],
+          "lat": -33.871758,
+          "lon": 151.206666
         }
       ]
     },
@@ -349,10 +424,10 @@
       "name": {
         "ko": "카이로"
       },
-      "version": 2,
-      "placeCount": 1,
-      "sizeBytes": 2493,
-      "sha256": "9da22cb2f91930a27f07194993dba11747454e7de2ac20a322b3fe605c8836b4",
+      "version": 3,
+      "placeCount": 5,
+      "sizeBytes": 12224,
+      "sha256": "dc26375da9b228b320866ee49b56ff066da42d84b591c094570bbe0a15d1d34a",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/eg-giza.json",
       "places": [
         {
@@ -374,6 +449,85 @@
           ],
           "lat": 29.9792,
           "lon": 31.1342
+        },
+        {
+          "id": "great-sphinx-giza",
+          "name": {
+            "ko": "기자 대스핑크스",
+            "en": "Great Sphinx of Giza"
+          },
+          "aliases": [
+            "기자 스핑크스",
+            "대스핑크스",
+            "Great Sphinx"
+          ],
+          "city": [
+            "Giza",
+            "Cairo",
+            "기자",
+            "카이로"
+          ],
+          "lat": 29.97526,
+          "lon": 31.13758
+        },
+        {
+          "id": "egyptian-museum-tahrir",
+          "name": {
+            "ko": "타흐리르 이집트 박물관",
+            "en": "Egyptian Museum in Cairo"
+          },
+          "aliases": [
+            "카이로 이집트 박물관",
+            "이집트 박물관 타흐리르",
+            "The Egyptian Museum in Cairo",
+            "Egyptian Museum",
+            "Museum of Egyptian Antiquities"
+          ],
+          "city": [
+            "Cairo",
+            "카이로"
+          ],
+          "lat": 30.047778,
+          "lon": 31.233333
+        },
+        {
+          "id": "khan-el-khalili",
+          "name": {
+            "ko": "칸 엘칼릴리",
+            "en": "Khan el-Khalili"
+          },
+          "aliases": [
+            "칸 엘 칼릴리",
+            "칸엘칼릴리 시장",
+            "Khan El Khalili",
+            "خان الخليلي"
+          ],
+          "city": [
+            "Cairo",
+            "카이로"
+          ],
+          "lat": 30.0475,
+          "lon": 31.26222222
+        },
+        {
+          "id": "cairo-citadel",
+          "name": {
+            "ko": "카이로 시타델",
+            "en": "Cairo Citadel"
+          },
+          "aliases": [
+            "살라딘 성채",
+            "카이로 성채",
+            "Saladin Citadel",
+            "Citadel of Saladin",
+            "قلعة صلاح الدين"
+          ],
+          "city": [
+            "Cairo",
+            "카이로"
+          ],
+          "lat": 30.02944444,
+          "lon": 31.26138889
         }
       ]
     },
@@ -690,10 +844,10 @@
         "ko": "아테네",
         "en": "Athens"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 3325,
-      "sha256": "1839df9c21e8615b6861a4fad1a7ab8e1ff01df948b4e838f50f3bf83f092a47",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 13348,
+      "sha256": "380b6f662e9dcd706affeb0586b9ebd3daddce1f8bfe12d76c0deb8cf43a74ad",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gr-athens.json",
       "places": [
         {
@@ -714,6 +868,87 @@
           ],
           "lat": 37.97167,
           "lon": 23.72611
+        },
+        {
+          "id": "acropolis-museum",
+          "name": {
+            "ko": "아크로폴리스 박물관",
+            "en": "Acropolis Museum"
+          },
+          "aliases": [
+            "아크로폴리스박물관",
+            "Μουσείο Ακρόπολης"
+          ],
+          "city": [
+            "Athens",
+            "Athina",
+            "Αθήνα",
+            "아테네"
+          ],
+          "lat": 37.969108,
+          "lon": 23.728299
+        },
+        {
+          "id": "ancient-agora-athens",
+          "name": {
+            "ko": "아테네 고대 아고라",
+            "en": "Ancient Agora of Athens"
+          },
+          "aliases": [
+            "고대 아고라",
+            "아테네 아고라",
+            "Ancient Agora"
+          ],
+          "city": [
+            "Athens",
+            "Athina",
+            "Αθήνα",
+            "아테네"
+          ],
+          "lat": 37.975,
+          "lon": 23.7225
+        },
+        {
+          "id": "temple-olympian-zeus-athens",
+          "name": {
+            "ko": "올림피아 제우스 신전",
+            "en": "Temple of Olympian Zeus"
+          },
+          "aliases": [
+            "올림피아제우스신전",
+            "아테네 제우스 신전",
+            "Olympieion",
+            "Columns of the Olympian Zeus"
+          ],
+          "city": [
+            "Athens",
+            "Athina",
+            "Αθήνα",
+            "아테네"
+          ],
+          "lat": 37.96937222,
+          "lon": 23.73307778
+        },
+        {
+          "id": "panathenaic-stadium",
+          "name": {
+            "ko": "파나티나이코 경기장",
+            "en": "Panathenaic Stadium"
+          },
+          "aliases": [
+            "파나티나이코 스타디움",
+            "파나테나이코 경기장",
+            "칼리마르마로",
+            "Kallimarmaro"
+          ],
+          "city": [
+            "Athens",
+            "Athina",
+            "Αθήνα",
+            "아테네"
+          ],
+          "lat": 37.96833333,
+          "lon": 23.74111111
         }
       ]
     },
@@ -722,10 +957,10 @@
       "name": {
         "ko": "아그라"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2070,
-      "sha256": "75aa9fb16e6f83ab11b3a94db28fb0fb2c7fba72477954a6964e2319f7ae8291",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 10705,
+      "sha256": "5c66f25203799fa8fcacd4ce70dd55debbb872673b525aa81b4965627c775463",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/in-agra.json",
       "places": [
         {
@@ -743,6 +978,83 @@
           ],
           "lat": 27.1751,
           "lon": 78.0421
+        },
+        {
+          "id": "agra-fort",
+          "name": {
+            "ko": "아그라 요새",
+            "en": "Agra Fort"
+          },
+          "aliases": [
+            "아그라성",
+            "아그라 포트",
+            "아그라 붉은 요새",
+            "Red Fort of Agra",
+            "Qila-i-Akbari"
+          ],
+          "city": [
+            "Agra",
+            "아그라"
+          ],
+          "lat": 27.179542,
+          "lon": 78.021101
+        },
+        {
+          "id": "itimad-ud-daulah-tomb",
+          "name": {
+            "ko": "이티마드 웃 다울라 묘",
+            "en": "Tomb of Itimad-ud-Daulah"
+          },
+          "aliases": [
+            "이티마드 우드 다울라",
+            "베이비 타지",
+            "Baby Taj",
+            "Itmad Ud Daulah",
+            "Tomb of I'timād-ud-Daulah"
+          ],
+          "city": [
+            "Agra",
+            "아그라"
+          ],
+          "lat": 27.1925,
+          "lon": 78.03194
+        },
+        {
+          "id": "mehtab-bagh",
+          "name": {
+            "ko": "메흐타브 바그",
+            "en": "Mehtab Bagh"
+          },
+          "aliases": [
+            "메타브 바그",
+            "메탑 바그",
+            "메흐타브바그"
+          ],
+          "city": [
+            "Agra",
+            "아그라"
+          ],
+          "lat": 27.17972222,
+          "lon": 78.04194444
+        },
+        {
+          "id": "fatehpur-sikri",
+          "name": {
+            "ko": "파테푸르 시크리",
+            "en": "Fatehpur Sikri"
+          },
+          "aliases": [
+            "파테푸르시크리",
+            "파테푸르 시크리 유적"
+          ],
+          "city": [
+            "Agra",
+            "Fatehpur Sikri",
+            "파테푸르 시크리",
+            "아그라"
+          ],
+          "lat": 27.091,
+          "lon": 77.661
         }
       ]
     },

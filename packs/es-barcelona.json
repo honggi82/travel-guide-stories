@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "es-barcelona",
-  "version": 3,
+  "version": 4,
   "name": {
     "ko": "바르셀로나"
   },
@@ -35,10 +35,14 @@
         {
           "title": "Wikipedia: Sagrada Família",
           "url": "https://en.wikipedia.org/wiki/Sagrada_Fam%C3%ADlia"
+        },
+        {
+          "title": "Google Maps: indexed place name, city and address identity only",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sagrada+Familia+Barcelona"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagrada%20Fam%C3%ADlia%20Barcelona",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagrada+Familia+Barcelona",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     },

@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "au-sydney",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "시드니"
   },
@@ -35,10 +35,14 @@
         {
           "title": "Wikipedia: Sydney Opera House",
           "url": "https://en.wikipedia.org/wiki/Sydney_Opera_House"
+        },
+        {
+          "title": "Google Maps: indexed place name, city and address identity only",
+          "url": "https://www.google.com/maps/search/?api=1&query=Sydney+Opera+House+Bennelong+Point+Sydney"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney%20Opera%20House%20Sydney",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sydney+Opera+House+Bennelong+Point+Sydney",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

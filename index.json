@@ -7,10 +7,10 @@
       "name": {
         "ko": "시드니"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2149,
-      "sha256": "fc998ea46202f03782b2e804d1537e1397a61461a748c511ddcc61fe6013f68b",
+      "sizeBytes": 2384,
+      "sha256": "ce8d5f22ec0f3f6a26d00d4232714a0eb36d3af12c4bba283fff7b80b353e5aa",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/au-sydney.json",
       "places": [
         {
@@ -135,10 +135,10 @@
       "name": {
         "ko": "프라하"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2196,
-      "sha256": "6d81e933402a38c2531b6df5baa1b2435ba4e951c585e2710e0e696d70e66de6",
+      "sizeBytes": 2397,
+      "sha256": "1de87e714f0249f71f495bb3a73851ea26de1541ee5332d558c2dad04f3bda99",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/cz-prague.json",
       "places": [
         {
@@ -200,10 +200,10 @@
       "name": {
         "ko": "바르셀로나"
       },
-      "version": 3,
+      "version": 4,
       "placeCount": 2,
-      "sizeBytes": 4611,
-      "sha256": "eac095a4cfef492223d73fe8c38dc9a86cc86aa49006ce6a80987d2e3d762fb3",
+      "sizeBytes": 4811,
+      "sha256": "2d40877d53019e65da7f67aa954e52e2a38af61610f351207628730e95784317",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/es-barcelona.json",
       "places": [
         {
@@ -248,10 +248,10 @@
       "name": {
         "ko": "파리"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2069,
-      "sha256": "cb9b1d9d1c6efae04032603b5798e0d1b407c9c1b42a4777c8f7f76d41e458ea",
+      "sizeBytes": 2235,
+      "sha256": "3bb18e668d192ea38f78a246a76d760bab2b5f06f3b6ad2a9e7ddf489e25bdf7",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/fr-paris.json",
       "places": [
         {
@@ -336,10 +336,10 @@
       "name": {
         "ko": "로마"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2068,
-      "sha256": "46afa7b061d20429a64f5aff5590fe9a8052620573cb3c29b7272d2f7d20cc2e",
+      "sizeBytes": 2228,
+      "sha256": "00ceafead6e70741664ce6cf04e53af018e289865e25fc807d8920ab0c9d3e96",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/it-rome.json",
       "places": [
         {
@@ -366,10 +366,10 @@
       "name": {
         "ko": "교토"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2147,
-      "sha256": "37a8a207f780667e766f8a99086d0df5e9feadb479107e14404319c8b773d8b1",
+      "sizeBytes": 2434,
+      "sha256": "67d5f81f4e38b745d3404e66e116062a6cb479c097c143b71958cc5c5dbefbb9",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-kyoto.json",
       "places": [
         {

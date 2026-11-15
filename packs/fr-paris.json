@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "fr-paris",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "파리"
   },
@@ -34,10 +34,14 @@
         {
           "title": "Wikipedia: Eiffel Tower",
           "url": "https://en.wikipedia.org/wiki/Eiffel_Tower"
+        },
+        {
+          "title": "Google Maps: indexed place name, city and address identity only",
+          "url": "https://www.google.com/maps/search/eiffel%20tower."
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Eiffel%20Tower%20Paris",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/eiffel%20tower.",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

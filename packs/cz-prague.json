@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "cz-prague",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "프라하"
   },
@@ -37,10 +37,14 @@
         {
           "title": "Wikipedia: Charles Bridge",
           "url": "https://en.wikipedia.org/wiki/Charles_Bridge"
+        },
+        {
+          "title": "Google Maps: indexed place name, city and address identity only",
+          "url": "https://www.google.com/maps/search/?api=1&query=Charles+Bridge+Prague"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles%20Bridge%20Prague",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Charles+Bridge+Prague",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

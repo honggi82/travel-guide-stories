@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "jp-kyoto",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "교토"
   },
@@ -35,10 +35,14 @@
         {
           "title": "Wikipedia: Kiyomizu-dera",
           "url": "https://en.wikipedia.org/wiki/Kiyomizu-dera"
+        },
+        {
+          "title": "Google Maps: indexed place name, city and address identity only",
+          "url": "https://www.google.com/maps/search/%E6%B8%85%E6%B0%B4%E5%AF%BA%2C%2B%E4%BA%AC%E9%83%BD%2C%2B%E6%97%A5%E6%9C%AC"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kiyomizu-dera%20Kyoto",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/%E6%B8%85%E6%B0%B4%E5%AF%BA%2C%2B%E4%BA%AC%E9%83%BD%2C%2B%E6%97%A5%E6%9C%AC",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

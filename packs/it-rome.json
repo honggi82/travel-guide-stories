@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "it-rome",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "로마"
   },
@@ -35,10 +35,14 @@
         {
           "title": "Wikipedia: Colosseum",
           "url": "https://en.wikipedia.org/wiki/Colosseum"
+        },
+        {
+          "title": "Google Maps: indexed place name, city and address identity only",
+          "url": "https://www.google.com/maps/search/Colosseum"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Colosseum%20Rome",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/Colosseum",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

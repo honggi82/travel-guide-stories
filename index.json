@@ -167,10 +167,10 @@
       "name": {
         "ko": "카이로"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2245,
-      "sha256": "4d63cd961b2487a0ee05c7f37b7b65085fd5f446e00780f32be520d64387e607",
+      "sizeBytes": 2493,
+      "sha256": "9da22cb2f91930a27f07194993dba11747454e7de2ac20a322b3fe605c8836b4",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/eg-giza.json",
       "places": [
         {
@@ -277,10 +277,10 @@
       "name": {
         "ko": "런던"
       },
-      "version": 1,
+      "version": 2,
       "placeCount": 1,
-      "sizeBytes": 2085,
-      "sha256": "cd10f7c85b50fe13770b4fa7b43d0c665ceb07836f43b8066e90f30991424544",
+      "sizeBytes": 2368,
+      "sha256": "554755dbc0a2b450854f85d8417ef7c4bbbee8b11d9e35614bcded036d37d770",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gb-london.json",
       "places": [
         {

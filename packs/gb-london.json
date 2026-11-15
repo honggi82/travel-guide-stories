@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "gb-london",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "런던"
   },
@@ -35,10 +35,14 @@
         {
           "title": "Wikipedia: Tower of London",
           "url": "https://en.wikipedia.org/wiki/Tower_of_London"
+        },
+        {
+          "title": "Google Maps: indexed place name and city",
+          "url": "https://www.google.com/maps/search/Turisti%C4%8Dka%2Batrakcija%2BLondon%2BUjedinjeno%2BKraljevstvo/?entry=wc&gl=GB&hl=en_GB"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tower%20of%20London%20London",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/Turisti%C4%8Dka%2Batrakcija%2BLondon%2BUjedinjeno%2BKraljevstvo/?entry=wc&gl=GB&hl=en_GB",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

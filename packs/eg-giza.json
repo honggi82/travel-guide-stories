@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "id": "eg-giza",
-  "version": 1,
+  "version": 2,
   "name": {
     "ko": "카이로"
   },
@@ -38,10 +38,14 @@
         {
           "title": "Wikipedia: Giza pyramid complex",
           "url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex"
+        },
+        {
+          "title": "Google Maps: indexed place name and city",
+          "url": "https://www.google.com/maps/search/Visita%20%C3%A0s%20Pir%C3%A2mides%20de%20Giz%C3%A9%2C%20Cairo%2C%20Egito"
         }
       ],
-      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Giza%20pyramid%20complex%20Giza",
-      "mapsVerification": "pending",
+      "mapsUrl": "https://www.google.com/maps/search/Visita%20%C3%A0s%20Pir%C3%A2mides%20de%20Giz%C3%A9%2C%20Cairo%2C%20Egito",
+      "mapsVerification": "indexed-identity",
       "coordinatePrecision": "reference",
       "license": "CC-BY-SA-4.0"
     }

@@ -1312,6 +1312,39 @@
           "lon": 18.409883
         }
       ]
+    },
+    {
+      "id": "gr-athens",
+      "name": {
+        "ko": "아테네",
+        "en": "Athens"
+      },
+      "version": 1,
+      "placeCount": 1,
+      "sizeBytes": 3325,
+      "sha256": "1839df9c21e8615b6861a4fad1a7ab8e1ff01df948b4e838f50f3bf83f092a47",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/gr-athens.json",
+      "places": [
+        {
+          "id": "acropolis-of-athens",
+          "name": {
+            "ko": "아테네 아크로폴리스",
+            "en": "Acropolis of Athens"
+          },
+          "aliases": [
+            "아크로폴리스",
+            "아크로폴리스 유적",
+            "아테네의 아크로폴리스",
+            "Ακρόπολη Αθηνών"
+          ],
+          "city": [
+            "Athens",
+            "아테네"
+          ],
+          "lat": 37.97167,
+          "lon": 23.72611
+        }
+      ]
     }
   ]
 }

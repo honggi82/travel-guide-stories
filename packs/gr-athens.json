@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 2,
+  "id": "gr-athens",
+  "version": 1,
+  "name": {
+    "ko": "아테네",
+    "en": "Athens"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Original Korean narration by Codex, based on linked Wikipedia and UNESCO facts. CC BY-SA 4.0. No Google reviews or images copied.",
+  "places": [
+    {
+      "id": "acropolis-of-athens",
+      "name": {
+        "ko": "아테네 아크로폴리스",
+        "en": "Acropolis of Athens"
+      },
+      "aliases": [
+        "아크로폴리스",
+        "아크로폴리스 유적",
+        "아테네의 아크로폴리스",
+        "Ακρόπολη Αθηνών"
+      ],
+      "city": [
+        "Athens",
+        "아테네"
+      ],
+      "lat": 37.97167,
+      "lon": 23.72611,
+      "coordinatePrecision": "reference",
+      "scripts": {
+        "ko": "아테네 아크로폴리스에서는 도시 위로 솟은 바위 언덕과 그 위의 건물들을 함께 바라보세요. 아크로폴리스라는 말은 높은 곳과 도시를 뜻하는 그리스어에서 왔습니다. 파르테논 신전 하나의 이름이 아니라, 여러 유적이 모인 언덕의 공간을 가리킵니다.\n\n오늘 이곳을 상징하는 주요 건물들은 기원전 5세기 아테네의 큰 건축 사업과 연결됩니다. 페리클레스가 이끈 건축 사업을 시작으로 여러 전각이 들어섰고, 파르테논과 프로필라이아, 에레크테이온, 아테나 니케 신전이 모인 풍경이 만들어졌습니다. 각각의 기둥만 보기보다 입구와 신전들이 어떤 관계를 이루는지 시선을 넓혀 보세요.\n\n현재의 모습에는 완성된 고대 건축만이 아니라 전쟁과 훼손, 보존의 시간도 겹쳐 있습니다. 파르테논은 1687년 포격 때 내부에 저장돼 있던 화약이 폭발하며 큰 피해를 입었습니다. 유적의 빈 부분을 보며 처음의 형태와 지금까지 남겨진 과정을 구분해 생각해 보시면 좋겠습니다.\n\n아크로폴리스는 1987년 세계유산으로 등재됐습니다. 이곳의 이야기는 오래된 돌을 보는 데서 끝나지 않고, 여러 세대가 무엇을 남기고 어떻게 지켜 왔는지로 이어집니다. 이 해설의 참고 좌표는 특정 매표소나 출입구를 뜻하지 않습니다. 개방 구역과 이동 동선은 현장의 안내를 따르고, 오래된 석재와 보존 구역은 손대지 않고 감상해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Acropolis of Athens",
+          "url": "https://en.wikipedia.org/wiki/Acropolis_of_Athens"
+        },
+        {
+          "title": "UNESCO: Acropolis, Athens",
+          "url": "https://whc.unesco.org/en/list/404/"
+        },
+        {
+          "title": "Google Maps: indexed Acropolis identity and Athens address",
+          "url": "https://www.google.com/maps/search/%CE%B5%CE%B9%CF%83%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF%2B%CE%B1%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7%CF%82"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/%CE%B5%CE%B9%CF%83%CE%B9%CF%84%CE%AE%CF%81%CE%B9%CE%BF%2B%CE%B1%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7%CF%82",
+      "mapsVerification": "indexed-identity",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

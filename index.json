@@ -779,10 +779,10 @@
       "name": {
         "ko": "오사카"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2323,
-      "sha256": "75c0855d21f02f410b670f6fa55d5354cf1072bebf1d5ab5146902e2c28450ce",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 11377,
+      "sha256": "cf2e8cce6a875396e709e32d6be51e58b1a2d61ea737b1f99c955cb7eac92069",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-osaka.json",
       "places": [
         {
@@ -803,6 +803,79 @@
           ],
           "lat": 34.68722,
           "lon": 135.52583
+        },
+        {
+          "id": "dotonbori",
+          "name": {
+            "ko": "도톤보리",
+            "en": "Dotonbori"
+          },
+          "aliases": [
+            "Dōtonbori",
+            "道頓堀"
+          ],
+          "city": [
+            "Osaka",
+            "오사카"
+          ],
+          "lat": 34.668708,
+          "lon": 135.501308
+        },
+        {
+          "id": "umeda-sky-building",
+          "name": {
+            "ko": "우메다 스카이 빌딩",
+            "en": "Umeda Sky Building"
+          },
+          "aliases": [
+            "우메다스카이빌딩",
+            "梅田スカイビル"
+          ],
+          "city": [
+            "Osaka",
+            "오사카"
+          ],
+          "lat": 34.70527778,
+          "lon": 135.48972222
+        },
+        {
+          "id": "shitennoji",
+          "name": {
+            "ko": "시텐노지",
+            "en": "Shitennoji"
+          },
+          "aliases": [
+            "시텐노지 사찰",
+            "사천왕사",
+            "Shitennō-ji",
+            "Shitenno-ji",
+            "四天王寺"
+          ],
+          "city": [
+            "Osaka",
+            "오사카"
+          ],
+          "lat": 34.6539,
+          "lon": 135.51645
+        },
+        {
+          "id": "tsutenkaku",
+          "name": {
+            "ko": "쓰텐카쿠",
+            "en": "Tsutenkaku"
+          },
+          "aliases": [
+            "츠텐카쿠",
+            "통천각",
+            "Tsūtenkaku",
+            "通天閣"
+          ],
+          "city": [
+            "Osaka",
+            "오사카"
+          ],
+          "lat": 34.65222222,
+          "lon": 135.50611111
         }
       ]
     },
@@ -811,10 +884,10 @@
       "name": {
         "ko": "도쿄"
       },
-      "version": 1,
-      "placeCount": 1,
-      "sizeBytes": 2421,
-      "sha256": "1bc731867ce9398e87a8e8e3dc1865e0dc991450849642d03927445c0c6cb074",
+      "version": 2,
+      "placeCount": 5,
+      "sizeBytes": 11521,
+      "sha256": "c5f6f6aebf64c9ab0fbc66787f544205d07d7bf2f977ea4ffc5513bd85ce3bc3",
       "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/jp-tokyo.json",
       "places": [
         {
@@ -837,6 +910,77 @@
           ],
           "lat": 35.71472,
           "lon": 139.79675
+        },
+        {
+          "id": "tokyo-tower",
+          "name": {
+            "ko": "도쿄 타워",
+            "en": "Tokyo Tower"
+          },
+          "aliases": [
+            "도쿄타워",
+            "東京タワー"
+          ],
+          "city": [
+            "Tokyo",
+            "도쿄"
+          ],
+          "lat": 35.65861111,
+          "lon": 139.74555556
+        },
+        {
+          "id": "tokyo-skytree",
+          "name": {
+            "ko": "도쿄 스카이트리",
+            "en": "Tokyo Skytree"
+          },
+          "aliases": [
+            "도쿄스카이트리",
+            "東京スカイツリー"
+          ],
+          "city": [
+            "Tokyo",
+            "도쿄"
+          ],
+          "lat": 35.7101,
+          "lon": 139.8107
+        },
+        {
+          "id": "meiji-jingu",
+          "name": {
+            "ko": "메이지 신궁",
+            "en": "Meiji Jingu"
+          },
+          "aliases": [
+            "메이지신궁",
+            "Meiji Shrine",
+            "明治神宮"
+          ],
+          "city": [
+            "Tokyo",
+            "도쿄"
+          ],
+          "lat": 35.67611111,
+          "lon": 139.69916667
+        },
+        {
+          "id": "shibuya-crossing",
+          "name": {
+            "ko": "시부야 스크램블 교차로",
+            "en": "Shibuya Scramble Crossing"
+          },
+          "aliases": [
+            "시부야 교차로",
+            "시부야스크램블교차로",
+            "Shibuya Crossing",
+            "渋谷スクランブル交差点"
+          ],
+          "city": [
+            "Tokyo",
+            "도쿄"
+          ],
+          "lat": 35.6595,
+          "lon": 139.70056
         }
       ]
     },
@@ -1599,6 +1743,112 @@
           ],
           "lat": 34.74194,
           "lon": 127.73667
+        }
+      ]
+    },
+    {
+      "id": "nl-amsterdam",
+      "name": {
+        "ko": "암스테르담"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 12336,
+      "sha256": "7dd0be1b79cf73db0525ef25b85cd99fcdf3536002beecc266f6d5ce4e0a4da0",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/nl-amsterdam.json",
+      "places": [
+        {
+          "id": "rijksmuseum",
+          "name": {
+            "ko": "암스테르담 국립미술관",
+            "en": "Rijksmuseum"
+          },
+          "aliases": [
+            "암스테르담 국립박물관",
+            "레이크스미술관",
+            "레이크스 박물관",
+            "암스테르담국립미술관"
+          ],
+          "city": [
+            "Amsterdam",
+            "암스테르담"
+          ],
+          "lat": 52.36,
+          "lon": 4.8853
+        },
+        {
+          "id": "van-gogh-museum",
+          "name": {
+            "ko": "반 고흐 미술관",
+            "en": "Van Gogh Museum"
+          },
+          "aliases": [
+            "반고흐미술관",
+            "반 고흐 박물관",
+            "반고흐 박물관"
+          ],
+          "city": [
+            "Amsterdam",
+            "암스테르담"
+          ],
+          "lat": 52.3583,
+          "lon": 4.8811
+        },
+        {
+          "id": "anne-frank-house",
+          "name": {
+            "ko": "안네 프랑크의 집",
+            "en": "Anne Frank House"
+          },
+          "aliases": [
+            "안네프랑크의집",
+            "안네 프랑크 하우스",
+            "Anne Frank Huis"
+          ],
+          "city": [
+            "Amsterdam",
+            "암스테르담"
+          ],
+          "lat": 52.37525,
+          "lon": 4.88432
+        },
+        {
+          "id": "royal-palace-amsterdam",
+          "name": {
+            "ko": "암스테르담 왕궁",
+            "en": "Royal Palace Amsterdam"
+          },
+          "aliases": [
+            "암스테르담왕궁",
+            "Royal Palace of Amsterdam",
+            "Koninklijk Paleis Amsterdam"
+          ],
+          "city": [
+            "Amsterdam",
+            "암스테르담"
+          ],
+          "lat": 52.37317,
+          "lon": 4.89136
+        },
+        {
+          "id": "oude-kerk-amsterdam",
+          "name": {
+            "ko": "아우더 케르크",
+            "en": "Oude Kerk Amsterdam"
+          },
+          "aliases": [
+            "아우더케르크",
+            "암스테르담 구교회",
+            "Oude Kerk",
+            "De Oude Kerk",
+            "Oude Kerk, Amsterdam"
+          ],
+          "city": [
+            "Amsterdam",
+            "암스테르담"
+          ],
+          "lat": 52.3744,
+          "lon": 4.898
         }
       ]
     },

@@ -1,0 +1,211 @@
+{
+  "schemaVersion": 2,
+  "id": "it-florence",
+  "version": 1,
+  "name": {
+    "ko": "피렌체"
+  },
+  "languages": [
+    "ko"
+  ],
+  "attribution": "Korean narration by Codex; sources linked per place. CC BY-SA 4.0.",
+  "places": [
+    {
+      "id": "florence-cathedral",
+      "name": {
+        "ko": "피렌체 대성당",
+        "en": "Florence Cathedral"
+      },
+      "aliases": [
+        "피렌체대성당",
+        "산타 마리아 델 피오레 대성당",
+        "Duomo di Firenze",
+        "Cattedrale di Santa Maria del Fiore",
+        "Cathedral of Santa Maria del Fiore"
+      ],
+      "city": [
+        "Florence",
+        "Firenze",
+        "플로렌스",
+        "피렌체"
+      ],
+      "lat": 43.77305556,
+      "lon": 11.25694444,
+      "scripts": {
+        "ko": "피렌체 대성당에서는 멀리서 보이는 큰 돔과 가까이에서 보이는 대리석 정면을 번갈아 살펴보세요. 같은 건물의 일부지만 서로 다른 시대의 손길을 담고 있습니다. 하나의 명소를 한 날짜로만 기억하면 놓치기 쉬운 이야기입니다.\n\n대성당은 아르놀포 디 캄비오의 설계로 1296년에 공사가 시작되었습니다. 브루넬레스키의 돔이 더해져 1436년에 완성되었지만, 오늘 보이는 서쪽의 네오고딕 정면은 에밀리오 데 파브리스가 설계한 19세기의 작업입니다. 흰색과 초록색, 분홍색 대리석이 만드는 정면을 중세에 이미 완성된 모습으로 생각해서는 안 됩니다.\n\n돔의 규모와 정면의 세밀한 무늬를 비교하며 한 건물에 쌓인 시간을 읽어 보세요. 성당과 세례당, 종탑, 관련 박물관은 가까이 모여 있어도 서로 구분되는 시설입니다. 특히 돔 관람의 입구와 일반 성당 입구를 같은 것으로 단정하지 말아 주세요. 방문하려는 시설의 정확한 이름과 출입 안내를 확인하고 예배 공간의 이용을 존중해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Florence Cathedral",
+          "url": "https://en.wikipedia.org/wiki/Florence_Cathedral"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Florence%20Cathedral%20and%20Dome%2C%20Florence%2C%20Italy"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Florence%20Cathedral%20and%20Dome%2C%20Florence%2C%20Italy",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "uffizi-gallery",
+      "name": {
+        "ko": "우피치 미술관",
+        "en": "Uffizi"
+      },
+      "aliases": [
+        "우피치미술관",
+        "우피치 갤러리",
+        "Uffizi Gallery",
+        "Uffizi Galleries",
+        "Gallerie degli Uffizi"
+      ],
+      "city": [
+        "Florence",
+        "Firenze",
+        "플로렌스",
+        "피렌체"
+      ],
+      "lat": 43.7683,
+      "lon": 11.2553,
+      "scripts": {
+        "ko": "우피치 미술관에서는 작품을 보기 전 건물의 긴 날개와 그 사이의 공간을 살펴보세요. 오늘날 미술관으로 익숙한 이 건물의 이름에는 원래의 행정 기능이 남아 있습니다. 우피치는 당시의 말로 관청 사무실을 뜻했습니다.\n\n코시모 1세 데 메디치는 도시의 행정 기관들을 한곳에 모으려 조르조 바사리에게 건축을 맡겼습니다. 이후 건물의 기능과 소장품의 역사가 이어지며 오늘날 르네상스 미술을 살펴보는 중요한 장소가 되었습니다. 권력을 운영하던 공간과 예술을 모아 보여 주는 공간 사이의 변화를 생각하면 건축과 전시를 함께 읽을 수 있습니다.\n\n관람 중에는 한 작품을 오래 본 뒤 다음 작품과 비교해 보세요. 인물의 배치나 풍경의 깊이를 만드는 방법이 어떻게 달라지는지 찾아보는 것도 좋겠습니다. 특정 작품의 당일 전시를 이 해설이 보장하지는 않습니다. 지도 검색에는 우피치 이름을 쓰는 투어 업체도 함께 나오므로 미술관 자체를 선택했는지 확인하고, 예약에 표시된 실제 입장 위치를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Uffizi",
+          "url": "https://en.wikipedia.org/wiki/Uffizi"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/Uffizi%2BGallery%2BTour%2C%2BFlorence%2C%2BItaly"
+        },
+        {
+          "title": "Uffizi Galleries: the Uffizi Palace",
+          "url": "https://www.uffizi.it/en/artworks/ll-palazzo-degli-uffizi"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/Uffizi%2BGallery%2BTour%2C%2BFlorence%2C%2BItaly",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "ponte-vecchio",
+      "name": {
+        "ko": "베키오 다리",
+        "en": "Ponte Vecchio"
+      },
+      "aliases": [
+        "베키오다리",
+        "폰테 베키오",
+        "폰테베키오"
+      ],
+      "city": [
+        "Florence",
+        "Firenze",
+        "플로렌스",
+        "피렌체"
+      ],
+      "lat": 43.76799,
+      "lon": 11.25316,
+      "scripts": {
+        "ko": "베키오 다리는 아르노강을 건너는 길 위에 상점들이 이어지는 장소입니다. 건너기 전에 물가에서 옆모습을 바라보세요. 돌 아치 위로 건물들이 올라앉아, 보통의 다리와는 다른 윤곽을 만듭니다. 다리를 지나는 동안에는 강이 잘 보이지 않는 구간도 있어 바깥에서 볼 때와 경험이 다릅니다.\n\n과거 이 다리의 상점에는 정육업자와 가죽을 다루는 사람들, 농산물을 파는 사람들이 있었습니다. 이후 보석과 장신구 등의 상업 공간으로 성격이 달라졌습니다. 오늘 보이는 상점의 풍경을 처음부터 변함없이 이어진 모습으로 생각하기보다, 다리 위의 상업 활동도 시대에 따라 바뀌었다고 이해하면 좋겠습니다.\n\n강을 따라 걷는 길에서는 아치를, 다리 위에서는 사람과 상점의 흐름을 관찰해 보세요. 같은 구조물이 도시의 풍경이자 생활의 길이 됩니다. 베키오 궁전은 이름의 일부가 같지만 다른 장소입니다. 지도에서 다리와 주변 숙박시설을 구분하고, 혼잡한 구간에서는 사진을 찍느라 다른 사람의 통행을 막지 않도록 해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Ponte Vecchio",
+          "url": "https://en.wikipedia.org/wiki/Ponte_Vecchio"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ponte%20Vecchio%20Florence",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "palazzo-vecchio",
+      "name": {
+        "ko": "베키오 궁전",
+        "en": "Palazzo Vecchio"
+      },
+      "aliases": [
+        "베키오궁전",
+        "팔라초 베키오",
+        "팔라초베키오"
+      ],
+      "city": [
+        "Florence",
+        "Firenze",
+        "플로렌스",
+        "피렌체"
+      ],
+      "lat": 43.7694,
+      "lon": 11.2561,
+      "scripts": {
+        "ko": "베키오 궁전에서는 높이 솟은 탑과 묵직한 벽이 광장에 어떤 표정을 만드는지 살펴보세요. 시뇨리아 광장에 면한 이 건물은 피렌체의 시청입니다. 미술 작품과 관광객이 모이는 풍경 속에서도 도시의 공적인 기능이 이어지는 장소입니다.\n\n궁전 앞에서 다비드상을 보았다면 작품의 위치를 기억해 두세요. 바깥에 놓인 것은 복제상이며 미켈란젤로의 원작은 아카데미아 미술관에 있습니다. 서로 다른 장소의 작품을 같은 대상으로 안내하면 관람 목적지가 달라집니다. 궁전과 광장을 함께 살펴보되 각각의 이름을 구분하는 것이 중요합니다.\n\n광장 끝에서 전체를 바라본 뒤 허용된 구역으로 가까이 다가가 보세요. 탑이 만드는 큰 윤곽과 문 주변의 작은 세부를 다른 거리에서 경험할 수 있습니다. 궁전 안의 관람 구역과 시청 업무 공간, 탑 등의 출입 조건은 서로 다를 수 있습니다. 이 참고 좌표를 모든 시설의 입구로 생각하지 말고 방문할 공간의 안내를 확인해 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Palazzo Vecchio",
+          "url": "https://en.wikipedia.org/wiki/Palazzo_Vecchio"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Palazzo%20Vecchio%20Florence",
+      "mapsVerification": "pending",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    },
+    {
+      "id": "accademia-gallery-florence",
+      "name": {
+        "ko": "아카데미아 미술관",
+        "en": "Galleria dell'Accademia"
+      },
+      "aliases": [
+        "피렌체 아카데미아 미술관",
+        "아카데미아미술관",
+        "Galleria dell'Accademia di Firenze",
+        "Galleria dell’Accademia di Firenze",
+        "Accademia Gallery Florence"
+      ],
+      "city": [
+        "Florence",
+        "Firenze",
+        "플로렌스",
+        "피렌체"
+      ],
+      "lat": 43.7769,
+      "lon": 11.2589,
+      "scripts": {
+        "ko": "아카데미아 미술관에서는 미켈란젤로의 다비드 원작을 만날 수 있습니다. 작품을 바라볼 때는 바로 앞에서 본 세부와 조금 떨어져 본 전체의 균형을 비교해 보세요. 같은 조각도 관람하는 거리와 각도에 따라 다르게 다가옵니다.\n\n이곳에는 다비드 외에도 미켈란젤로의 다른 조각들과 피렌체 회화가 소장되어 있습니다. 이름이 비슷한 미술 교육 기관이 이웃해 있지만 미술관과 학교는 별도 기관입니다. 또한 시뇨리아 광장의 야외 다비드는 복제상이므로, 원작을 보기 위한 목적지와 혼동하지 않아야 합니다.\n\n한 작품만 빠르게 보고 떠나기보다 주변의 회화와 조각으로 시선을 넓혀 보세요. 서로 다른 재료와 시대의 작품이 사람의 모습을 어떻게 표현하는지 비교할 수 있습니다. 베네치아에도 이름이 비슷한 아카데미아 미술관이 있으니 피렌체의 비아 리카솔리 쪽 시설인지 확인해 주세요. 소장 사실은 당일 모든 작품이 공개된다는 뜻은 아니며 관람과 입장 안내는 방문일의 공지를 따라 주세요."
+      },
+      "researchedAt": "2026-11-15",
+      "author": "Codex",
+      "sources": [
+        {
+          "title": "Wikipedia: Galleria dell'Accademia",
+          "url": "https://en.wikipedia.org/wiki/Galleria_dell%27Accademia"
+        },
+        {
+          "title": "Google Maps: place identity (indexed page)",
+          "url": "https://www.google.com/maps/search/accademia?hl=en"
+        }
+      ],
+      "mapsUrl": "https://www.google.com/maps/search/accademia?hl=en",
+      "mapsVerification": "indexed-identity",
+      "coordinatePrecision": "reference",
+      "license": "CC-BY-SA-4.0"
+    }
+  ]
+}

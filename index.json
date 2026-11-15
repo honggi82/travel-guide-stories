@@ -3,6 +3,125 @@
   "updatedAt": "2026-11-15",
   "regions": [
     {
+      "id": "at-vienna",
+      "name": {
+        "ko": "빈"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 12287,
+      "sha256": "e25b50690b68b0035ab441c70a8692de20bd7aba56a7e9e2f65c51d56bd0d81f",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/at-vienna.json",
+      "places": [
+        {
+          "id": "schonbrunn-palace",
+          "name": {
+            "ko": "쇤브룬 궁전",
+            "en": "Schönbrunn Palace"
+          },
+          "aliases": [
+            "쇤브룬궁전",
+            "쉔브룬 궁전",
+            "Schloss Schönbrunn",
+            "Schonbrunn Palace"
+          ],
+          "city": [
+            "Vienna",
+            "Wien",
+            "비엔나",
+            "빈"
+          ],
+          "lat": 48.184516,
+          "lon": 16.311865
+        },
+        {
+          "id": "hofburg-vienna",
+          "name": {
+            "ko": "호프부르크 궁전",
+            "en": "Hofburg"
+          },
+          "aliases": [
+            "호프부르크",
+            "Hofburg Palace",
+            "Wiener Hofburg"
+          ],
+          "city": [
+            "Vienna",
+            "Wien",
+            "비엔나",
+            "빈"
+          ],
+          "lat": 48.20638889,
+          "lon": 16.36527778
+        },
+        {
+          "id": "st-stephens-cathedral-vienna",
+          "name": {
+            "ko": "슈테판 대성당",
+            "en": "St. Stephen's Cathedral, Vienna"
+          },
+          "aliases": [
+            "빈 슈테판 대성당",
+            "성 슈테판 대성당",
+            "슈테판대성당",
+            "St. Stephen's Cathedral",
+            "Stephansdom",
+            "Domkirche St. Stephan"
+          ],
+          "city": [
+            "Vienna",
+            "Wien",
+            "비엔나",
+            "빈"
+          ],
+          "lat": 48.2085,
+          "lon": 16.373
+        },
+        {
+          "id": "vienna-state-opera",
+          "name": {
+            "ko": "빈 국립오페라극장",
+            "en": "Vienna State Opera"
+          },
+          "aliases": [
+            "비엔나 국립오페라극장",
+            "빈 국립 오페라 극장",
+            "빈 국립오페라",
+            "Wiener Staatsoper"
+          ],
+          "city": [
+            "Vienna",
+            "Wien",
+            "비엔나",
+            "빈"
+          ],
+          "lat": 48.20306,
+          "lon": 16.36889
+        },
+        {
+          "id": "belvedere-vienna",
+          "name": {
+            "ko": "벨베데레 궁전",
+            "en": "Belvedere, Vienna"
+          },
+          "aliases": [
+            "벨베데레궁전",
+            "Belvedere Palace",
+            "Schloss Belvedere",
+            "Belvedere"
+          ],
+          "city": [
+            "Vienna",
+            "Wien",
+            "비엔나",
+            "빈"
+          ],
+          "lat": 48.19416667,
+          "lon": 16.38027778
+        }
+      ]
+    },
+    {
       "id": "au-sydney",
       "name": {
         "ko": "시드니"
@@ -953,6 +1072,113 @@
       ]
     },
     {
+      "id": "hu-budapest",
+      "name": {
+        "ko": "부다페스트"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 10929,
+      "sha256": "dbed108f38716547da4a77403116efb703fe0b2f87dd9b7d4020ca1724843e5e",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/hu-budapest.json",
+      "places": [
+        {
+          "id": "hungarian-parliament-building",
+          "name": {
+            "ko": "헝가리 국회의사당",
+            "en": "Hungarian Parliament Building"
+          },
+          "aliases": [
+            "헝가리국회의사당",
+            "부다페스트 국회의사당",
+            "Országház"
+          ],
+          "city": [
+            "Budapest",
+            "부다페스트"
+          ],
+          "lat": 47.50694444,
+          "lon": 19.04555556
+        },
+        {
+          "id": "buda-castle",
+          "name": {
+            "ko": "부다 성",
+            "en": "Buda Castle"
+          },
+          "aliases": [
+            "부다성",
+            "부다 왕궁",
+            "Budavári Palota",
+            "Royal Palace of Budapest"
+          ],
+          "city": [
+            "Budapest",
+            "부다페스트"
+          ],
+          "lat": 47.49611111,
+          "lon": 19.03972222
+        },
+        {
+          "id": "fishermans-bastion",
+          "name": {
+            "ko": "어부의 요새",
+            "en": "Fisherman's Bastion"
+          },
+          "aliases": [
+            "어부의요새",
+            "Fishermans Bastion",
+            "Halászbástya"
+          ],
+          "city": [
+            "Budapest",
+            "부다페스트"
+          ],
+          "lat": 47.5027,
+          "lon": 19.0344
+        },
+        {
+          "id": "st-stephens-basilica-budapest",
+          "name": {
+            "ko": "성 이슈트반 대성당",
+            "en": "St. Stephen's Basilica"
+          },
+          "aliases": [
+            "이슈트반 대성당",
+            "성 이슈트반 성당",
+            "성 스테판 대성당",
+            "Szent István Bazilika"
+          ],
+          "city": [
+            "Budapest",
+            "부다페스트"
+          ],
+          "lat": 47.500833,
+          "lon": 19.053889
+        },
+        {
+          "id": "szechenyi-chain-bridge",
+          "name": {
+            "ko": "세체니 사슬다리",
+            "en": "Széchenyi Chain Bridge"
+          },
+          "aliases": [
+            "세체니 다리",
+            "세체니사슬다리",
+            "체인 브리지",
+            "Chain Bridge",
+            "Széchenyi Lánchíd"
+          ],
+          "city": [
+            "Budapest",
+            "부다페스트"
+          ],
+          "lat": 47.49888889,
+          "lon": 19.04361111
+        }
+      ]
+    },
+    {
       "id": "in-agra",
       "name": {
         "ko": "아그라"
@@ -1059,6 +1285,125 @@
       ]
     },
     {
+      "id": "it-florence",
+      "name": {
+        "ko": "피렌체"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 11669,
+      "sha256": "957da398f50d7a527d6eaa25867ad999a78ecf69d4546a31683b35c6def8a824",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/it-florence.json",
+      "places": [
+        {
+          "id": "florence-cathedral",
+          "name": {
+            "ko": "피렌체 대성당",
+            "en": "Florence Cathedral"
+          },
+          "aliases": [
+            "피렌체대성당",
+            "산타 마리아 델 피오레 대성당",
+            "Duomo di Firenze",
+            "Cattedrale di Santa Maria del Fiore",
+            "Cathedral of Santa Maria del Fiore"
+          ],
+          "city": [
+            "Florence",
+            "Firenze",
+            "플로렌스",
+            "피렌체"
+          ],
+          "lat": 43.77305556,
+          "lon": 11.25694444
+        },
+        {
+          "id": "uffizi-gallery",
+          "name": {
+            "ko": "우피치 미술관",
+            "en": "Uffizi"
+          },
+          "aliases": [
+            "우피치미술관",
+            "우피치 갤러리",
+            "Uffizi Gallery",
+            "Uffizi Galleries",
+            "Gallerie degli Uffizi"
+          ],
+          "city": [
+            "Florence",
+            "Firenze",
+            "플로렌스",
+            "피렌체"
+          ],
+          "lat": 43.7683,
+          "lon": 11.2553
+        },
+        {
+          "id": "ponte-vecchio",
+          "name": {
+            "ko": "베키오 다리",
+            "en": "Ponte Vecchio"
+          },
+          "aliases": [
+            "베키오다리",
+            "폰테 베키오",
+            "폰테베키오"
+          ],
+          "city": [
+            "Florence",
+            "Firenze",
+            "플로렌스",
+            "피렌체"
+          ],
+          "lat": 43.76799,
+          "lon": 11.25316
+        },
+        {
+          "id": "palazzo-vecchio",
+          "name": {
+            "ko": "베키오 궁전",
+            "en": "Palazzo Vecchio"
+          },
+          "aliases": [
+            "베키오궁전",
+            "팔라초 베키오",
+            "팔라초베키오"
+          ],
+          "city": [
+            "Florence",
+            "Firenze",
+            "플로렌스",
+            "피렌체"
+          ],
+          "lat": 43.7694,
+          "lon": 11.2561
+        },
+        {
+          "id": "accademia-gallery-florence",
+          "name": {
+            "ko": "아카데미아 미술관",
+            "en": "Galleria dell'Accademia"
+          },
+          "aliases": [
+            "피렌체 아카데미아 미술관",
+            "아카데미아미술관",
+            "Galleria dell'Accademia di Firenze",
+            "Galleria dell’Accademia di Firenze",
+            "Accademia Gallery Florence"
+          ],
+          "city": [
+            "Florence",
+            "Firenze",
+            "플로렌스",
+            "피렌체"
+          ],
+          "lat": 43.7769,
+          "lon": 11.2589
+        }
+      ]
+    },
+    {
       "id": "it-rome",
       "name": {
         "ko": "로마"
@@ -1160,6 +1505,126 @@
           ],
           "lat": 41.9061,
           "lon": 12.4828
+        }
+      ]
+    },
+    {
+      "id": "it-venice",
+      "name": {
+        "ko": "베네치아"
+      },
+      "version": 1,
+      "placeCount": 5,
+      "sizeBytes": 11867,
+      "sha256": "5410c4cdb45c7d733c427c71f1f2b8c6bc404f217fe38bd2858010a14cf48c1f",
+      "url": "https://raw.githubusercontent.com/honggi82/travel-guide-stories/main/packs/it-venice.json",
+      "places": [
+        {
+          "id": "st-marks-basilica-venice",
+          "name": {
+            "ko": "산마르코 대성당",
+            "en": "St Mark's Basilica"
+          },
+          "aliases": [
+            "산 마르코 대성당",
+            "산마르코대성당",
+            "성 마르코 대성당",
+            "St. Mark's Basilica",
+            "Saint Mark's Basilica",
+            "Basilica di San Marco"
+          ],
+          "city": [
+            "Venice",
+            "Venezia",
+            "베니스",
+            "베네치아"
+          ],
+          "lat": 45.43444444,
+          "lon": 12.33972222
+        },
+        {
+          "id": "doges-palace-venice",
+          "name": {
+            "ko": "두칼레 궁전",
+            "en": "Doge's Palace"
+          },
+          "aliases": [
+            "두칼레궁전",
+            "도제 궁전",
+            "Palazzo Ducale"
+          ],
+          "city": [
+            "Venice",
+            "Venezia",
+            "베니스",
+            "베네치아"
+          ],
+          "lat": 45.4337,
+          "lon": 12.3405
+        },
+        {
+          "id": "rialto-bridge",
+          "name": {
+            "ko": "리알토 다리",
+            "en": "Rialto Bridge"
+          },
+          "aliases": [
+            "리알토다리",
+            "리알토 교",
+            "리알토교",
+            "Ponte di Rialto"
+          ],
+          "city": [
+            "Venice",
+            "Venezia",
+            "베니스",
+            "베네치아"
+          ],
+          "lat": 45.438,
+          "lon": 12.336
+        },
+        {
+          "id": "piazza-san-marco",
+          "name": {
+            "ko": "산마르코 광장",
+            "en": "Piazza San Marco"
+          },
+          "aliases": [
+            "산 마르코 광장",
+            "산마르코광장",
+            "St Mark's Square",
+            "St. Mark's Square",
+            "Saint Mark's Square"
+          ],
+          "city": [
+            "Venice",
+            "Venezia",
+            "베니스",
+            "베네치아"
+          ],
+          "lat": 45.43388889,
+          "lon": 12.33805556
+        },
+        {
+          "id": "la-fenice",
+          "name": {
+            "ko": "라 페니체 극장",
+            "en": "La Fenice"
+          },
+          "aliases": [
+            "라페니체 극장",
+            "라페니체",
+            "Teatro La Fenice",
+            "La Fenice Opera House"
+          ],
+          "city": [
+            "Venice",
+            "Venezia",
+            "베니스",
+            "베네치아"
+          ],
+          "lat": 45.4337,
+          "lon": 12.3339
         }
       ]
     },
